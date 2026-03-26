@@ -1,0 +1,22 @@
+{
+  "id": "ai-native-cli",
+  "name": "ai-native-cli",
+  "summary": "Design spec with 98 rules for building CLI tools that AI agents can safely use.",
+  "description": "Design spec with 98 rules for building CLI tools that AI agents can safely use. Covers structured JSON output, error handling, input contracts, safety guardrails, exit codes, and agent self-description.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/chaosrealmsai/agent-cli-spec"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/ChaosRealmsAI/agent-cli-spec",
+  "addedAt": "2026-03-15",
+  "version": "1.0.0",
+  "contentPath": "skills/ai-native-cli/SKILL.md",
+  "metadataPath": "skills/ai-native-cli/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ai-native-cli"
+  }
+}

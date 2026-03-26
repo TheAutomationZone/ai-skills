@@ -1,0 +1,22 @@
+{
+  "id": "slo-implementation",
+  "name": "slo-implementation",
+  "summary": "Framework for defining and implementing Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets.",
+  "description": "Framework for defining and implementing Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/slo-implementation/SKILL.md",
+  "metadataPath": "skills/slo-implementation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/slo-implementation"
+  }
+}

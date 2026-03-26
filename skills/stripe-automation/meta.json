@@ -1,0 +1,22 @@
+{
+  "id": "stripe-automation",
+  "name": "stripe-automation",
+  "summary": "Automate Stripe tasks via Rube MCP (Composio): customers, charges, subscriptions, invoices, products, refunds.",
+  "description": "Automate Stripe tasks via Rube MCP (Composio): customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current schemas.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/stripe-automation/SKILL.md",
+  "metadataPath": "skills/stripe-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/stripe-automation"
+  }
+}

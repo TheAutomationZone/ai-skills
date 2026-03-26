@@ -1,0 +1,22 @@
+{
+  "id": "daily",
+  "name": "daily",
+  "summary": "Documentation and capabilities reference for Daily",
+  "description": "Documentation and capabilities reference for Daily",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/daily/SKILL.md",
+  "metadataPath": "skills/daily/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/daily"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "analytics-product",
+  "name": "analytics-product",
+  "summary": "Analytics de produto — PostHog, Mixpanel, eventos, funnels, cohorts, retencao, north star metric, OKRs e dashboards de produto.",
+  "description": "Analytics de produto — PostHog, Mixpanel, eventos, funnels, cohorts, retencao, north star metric, OKRs e dashboards de produto.",
+  "category": "data",
+  "tags": [
+    "analytics",
+    "product",
+    "metrics",
+    "posthog",
+    "mixpanel",
+    "data",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/analytics-product/SKILL.md",
+  "metadataPath": "skills/analytics-product/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/analytics-product"
+  }
+}

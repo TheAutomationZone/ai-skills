@@ -1,0 +1,22 @@
+{
+  "id": "web-design-guidelines",
+  "name": "web-design-guidelines",
+  "summary": "Review files for compliance with Web Interface Guidelines.",
+  "description": "Review files for compliance with Web Interface Guidelines.",
+  "category": "design",
+  "tags": [
+    "design",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/web-design-guidelines/SKILL.md",
+  "metadataPath": "skills/web-design-guidelines/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/web-design-guidelines"
+  }
+}

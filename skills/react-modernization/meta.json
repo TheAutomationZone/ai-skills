@@ -1,0 +1,22 @@
+{
+  "id": "react-modernization",
+  "name": "react-modernization",
+  "summary": "Master React version upgrades, class to hooks migration, concurrent features adoption, and codemods for automated transformation.",
+  "description": "Master React version upgrades, class to hooks migration, concurrent features adoption, and codemods for automated transformation.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-modernization/SKILL.md",
+  "metadataPath": "skills/react-modernization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-modernization"
+  }
+}

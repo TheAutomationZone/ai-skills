@@ -1,0 +1,22 @@
+{
+  "id": "ask-questions-if-underspecified",
+  "name": "ask-questions-if-underspecified",
+  "summary": "Clarify requirements before implementing.",
+  "description": "Clarify requirements before implementing. Use when serious doubts arise.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/ask-questions-if-underspecified/SKILL.md",
+  "metadataPath": "skills/ask-questions-if-underspecified/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ask-questions-if-underspecified"
+  }
+}

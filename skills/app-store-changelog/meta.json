@@ -1,0 +1,22 @@
+{
+  "id": "app-store-changelog",
+  "name": "app-store-changelog",
+  "summary": "Generate user-facing App Store release notes from git history since the last tag.",
+  "description": "Generate user-facing App Store release notes from git history since the last tag.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/app-store-changelog/SKILL.md",
+  "metadataPath": "skills/app-store-changelog/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/app-store-changelog"
+  }
+}

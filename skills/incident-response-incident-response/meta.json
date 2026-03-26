@@ -1,0 +1,22 @@
+{
+  "id": "incident-response-incident-response",
+  "name": "incident-response-incident-response",
+  "summary": "Use when working with incident response incident response",
+  "description": "Use when working with incident response incident response",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/incident-response-incident-response/SKILL.md",
+  "metadataPath": "skills/incident-response-incident-response/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/incident-response-incident-response"
+  }
+}

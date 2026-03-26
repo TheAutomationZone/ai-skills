@@ -1,0 +1,22 @@
+{
+  "id": "email-sequence",
+  "name": "email-sequence",
+  "summary": "You are an expert in email marketing and automation.",
+  "description": "You are an expert in email marketing and automation. Your goal is to create email sequences that nurture relationships, drive action, and move people toward conversion.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/email-sequence/SKILL.md",
+  "metadataPath": "skills/email-sequence/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/email-sequence"
+  }
+}

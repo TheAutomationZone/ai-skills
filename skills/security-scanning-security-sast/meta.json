@@ -1,0 +1,22 @@
+{
+  "id": "security-scanning-security-sast",
+  "name": "security-scanning-security-sast",
+  "summary": "'Static Application Security Testing (SAST) for code vulnerability",
+  "description": "'Static Application Security Testing (SAST) for code vulnerability",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/security-scanning-security-sast/SKILL.md",
+  "metadataPath": "skills/security-scanning-security-sast/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security-scanning-security-sast"
+  }
+}

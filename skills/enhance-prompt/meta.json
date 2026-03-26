@@ -1,0 +1,22 @@
+{
+  "id": "enhance-prompt",
+  "name": "enhance-prompt",
+  "summary": "Transforms vague UI ideas into polished, Stitch-optimized prompts.",
+  "description": "Transforms vague UI ideas into polished, Stitch-optimized prompts. Enhances specificity, adds UI/UX keywords, injects design system context, and structures output for better generation results.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/enhance-prompt/SKILL.md",
+  "metadataPath": "skills/enhance-prompt/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/enhance-prompt"
+  }
+}

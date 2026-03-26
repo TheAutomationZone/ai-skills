@@ -1,0 +1,22 @@
+{
+  "id": "miro-automation",
+  "name": "miro-automation",
+  "summary": "Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors.",
+  "description": "Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors. Always search tools first for current schemas.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/miro-automation/SKILL.md",
+  "metadataPath": "skills/miro-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/miro-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "web-security-testing",
+  "name": "web-security-testing",
+  "summary": "Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues.",
+  "description": "Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/web-security-testing/SKILL.md",
+  "metadataPath": "skills/web-security-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/web-security-testing"
+  }
+}

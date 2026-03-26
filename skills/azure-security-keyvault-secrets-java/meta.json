@@ -1,0 +1,22 @@
+{
+  "id": "azure-security-keyvault-secrets-java",
+  "name": "azure-security-keyvault-secrets-java",
+  "summary": "Azure Key Vault Secrets Java SDK for secret management.",
+  "description": "Azure Key Vault Secrets Java SDK for secret management. Use when storing, retrieving, or managing passwords, API keys, connection strings, or other sensitive configuration data.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-security-keyvault-secrets-java/SKILL.md",
+  "metadataPath": "skills/azure-security-keyvault-secrets-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-security-keyvault-secrets-java"
+  }
+}

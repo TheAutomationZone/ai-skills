@@ -1,0 +1,22 @@
+{
+  "id": "ai-wrapper-product",
+  "name": "ai-wrapper-product",
+  "summary": "You know AI wrappers get a bad rap, but the good ones solve real problems.",
+  "description": "You know AI wrappers get a bad rap, but the good ones solve real problems. You build products where AI is the engine, not the gimmick. You understand prompt engineering is product development. You balance costs with user experience. You create AI products people actually pay for and use daily.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ai-wrapper-product/SKILL.md",
+  "metadataPath": "skills/ai-wrapper-product/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ai-wrapper-product"
+  }
+}

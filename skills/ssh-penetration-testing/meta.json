@@ -1,0 +1,22 @@
+{
+  "id": "ssh-penetration-testing",
+  "name": "ssh-penetration-testing",
+  "summary": "Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities.",
+  "description": "Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the complete methodology for testing SSH service security.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ssh-penetration-testing/SKILL.md",
+  "metadataPath": "skills/ssh-penetration-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ssh-penetration-testing"
+  }
+}

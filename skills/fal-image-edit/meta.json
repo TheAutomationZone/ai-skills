@@ -1,0 +1,22 @@
+{
+  "id": "fal-image-edit",
+  "name": "fal-image-edit",
+  "summary": "AI-powered image editing with style transfer and object removal",
+  "description": "AI-powered image editing with style transfer and object removal",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-image-edit/skill.md"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-image-edit/SKILL.md",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fal-image-edit/SKILL.md",
+  "metadataPath": "skills/fal-image-edit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fal-image-edit"
+  }
+}

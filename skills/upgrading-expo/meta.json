@@ -1,0 +1,22 @@
+{
+  "id": "upgrading-expo",
+  "name": "upgrading-expo",
+  "summary": "Upgrade Expo SDK versions",
+  "description": "Upgrade Expo SDK versions",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "safe",
+    "https://github.com/expo/skills/tree/main/plugins/upgrading-expo"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/expo/skills/tree/main/plugins/upgrading-expo",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/upgrading-expo/SKILL.md",
+  "metadataPath": "skills/upgrading-expo/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/upgrading-expo"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "robius-event-action",
+  "name": "robius-event-action",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/robius-event-action/SKILL.md",
+  "metadataPath": "skills/robius-event-action/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/robius-event-action"
+  }
+}

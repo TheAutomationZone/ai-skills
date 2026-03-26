@@ -1,0 +1,22 @@
+{
+  "id": "salesforce-development",
+  "name": "salesforce-development",
+  "summary": "Use @wire decorator for reactive data binding with Lightning Data Service or Apex methods.",
+  "description": "Use @wire decorator for reactive data binding with Lightning Data Service or Apex methods. @wire fits LWC's reactive architecture and enables Salesforce performance optimizations.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/salesforce-development/SKILL.md",
+  "metadataPath": "skills/salesforce-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/salesforce-development"
+  }
+}

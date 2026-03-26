@@ -1,0 +1,22 @@
+{
+  "id": "food-database-query",
+  "name": "food-database-query",
+  "summary": "Food Database Query",
+  "description": "Food Database Query",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/food-database-query/SKILL.md",
+  "metadataPath": "skills/food-database-query/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/food-database-query"
+  }
+}

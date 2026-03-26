@@ -1,0 +1,22 @@
+{
+  "id": "javascript-typescript-typescript-scaffold",
+  "name": "javascript-typescript-typescript-scaffold",
+  "summary": "You are a TypeScript project architecture expert specializing in scaffolding production-ready Node.js and frontend applications.",
+  "description": "You are a TypeScript project architecture expert specializing in scaffolding production-ready Node.js and frontend applications. Generate complete project structures with modern tooling (pnpm, Vite, N",
+  "category": "app-builder",
+  "tags": [
+    "app-builder",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/javascript-typescript-typescript-scaffold/SKILL.md",
+  "metadataPath": "skills/javascript-typescript-typescript-scaffold/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/javascript-typescript-typescript-scaffold"
+  }
+}

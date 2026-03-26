@@ -1,0 +1,22 @@
+{
+  "id": "github-automation",
+  "name": "github-automation",
+  "summary": "Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio).",
+  "description": "Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage code workflows, review PRs, search code, and handle deployments programmatically.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/github-automation/SKILL.md",
+  "metadataPath": "skills/github-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/github-automation"
+  }
+}

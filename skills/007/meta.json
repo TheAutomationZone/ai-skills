@@ -1,0 +1,27 @@
+{
+  "id": "007",
+  "name": "007",
+  "summary": "Security audit, hardening, threat modeling (STRIDE/PASTA), Red/Blue Team, OWASP checks, code review, incident response, and infrastructure security for any project.",
+  "description": "Security audit, hardening, threat modeling (STRIDE/PASTA), Red/Blue Team, OWASP checks, code review, incident response, and infrastructure security for any project.",
+  "category": "security",
+  "tags": [
+    "security",
+    "audit",
+    "owasp",
+    "threat-modeling",
+    "hardening",
+    "pentest",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/007/SKILL.md",
+  "metadataPath": "skills/007/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/007"
+  }
+}

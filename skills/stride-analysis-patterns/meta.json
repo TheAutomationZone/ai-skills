@@ -1,0 +1,22 @@
+{
+  "id": "stride-analysis-patterns",
+  "name": "stride-analysis-patterns",
+  "summary": "Apply STRIDE methodology to systematically identify threats.",
+  "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/stride-analysis-patterns/SKILL.md",
+  "metadataPath": "skills/stride-analysis-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/stride-analysis-patterns"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "exa-search",
+  "name": "exa-search",
+  "summary": "Semantic search, similar content discovery, and structured research using Exa API.",
+  "description": "Semantic search, similar content discovery, and structured research using Exa API. Use when you need semantic/embeddings-based search, finding similar content, or searching by category (company, people, research papers, etc.).",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/exa-search/SKILL.md",
+  "metadataPath": "skills/exa-search/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/exa-search"
+  }
+}

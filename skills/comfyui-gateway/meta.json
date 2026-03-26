@@ -1,0 +1,26 @@
+{
+  "id": "comfyui-gateway",
+  "name": "comfyui-gateway",
+  "summary": "REST API gateway for ComfyUI servers.",
+  "description": "REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64).",
+  "category": "backend",
+  "tags": [
+    "comfyui",
+    "api-gateway",
+    "image-generation",
+    "typescript",
+    "backend",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/comfyui-gateway/SKILL.md",
+  "metadataPath": "skills/comfyui-gateway/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/comfyui-gateway"
+  }
+}

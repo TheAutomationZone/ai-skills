@@ -1,0 +1,22 @@
+{
+  "id": "fal-audio",
+  "name": "fal-audio",
+  "summary": "Text-to-speech and speech-to-text using fal.ai audio models",
+  "description": "Text-to-speech and speech-to-text using fal.ai audio models",
+  "category": "voice-agents",
+  "tags": [
+    "voice-agents",
+    "safe",
+    "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-audio/skill.md"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-audio/SKILL.md",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fal-audio/SKILL.md",
+  "metadataPath": "skills/fal-audio/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fal-audio"
+  }
+}

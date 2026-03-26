@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-translation-ts",
+  "name": "azure-ai-translation-ts",
+  "summary": "Text and document translation with REST-style clients.",
+  "description": "Text and document translation with REST-style clients.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-translation-ts/SKILL.md",
+  "metadataPath": "skills/azure-ai-translation-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-translation-ts"
+  }
+}

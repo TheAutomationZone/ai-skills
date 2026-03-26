@@ -1,0 +1,22 @@
+{
+  "id": "dbos-python",
+  "name": "dbos-python",
+  "summary": "Guide for building reliable, fault-tolerant Python applications with DBOS durable workflows.",
+  "description": "Guide for building reliable, fault-tolerant Python applications with DBOS durable workflows. Use when adding DBOS to existing Python code, creating workflows and steps, or using queues for concurrency control.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "https://docs.dbos.dev/"
+  ],
+  "risk": "safe",
+  "source": "https://docs.dbos.dev/",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dbos-python/SKILL.md",
+  "metadataPath": "skills/dbos-python/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dbos-python"
+  }
+}

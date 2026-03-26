@@ -1,0 +1,22 @@
+{
+  "id": "test-automator",
+  "name": "test-automator",
+  "summary": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering.",
+  "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration.",
+  "category": "test-automation",
+  "tags": [
+    "test-automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/test-automator/SKILL.md",
+  "metadataPath": "skills/test-automator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/test-automator"
+  }
+}

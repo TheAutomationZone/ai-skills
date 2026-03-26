@@ -1,0 +1,22 @@
+{
+  "id": "context-driven-development",
+  "name": "context-driven-development",
+  "summary": "Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentat...",
+  "description": "Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentation.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/context-driven-development/SKILL.md",
+  "metadataPath": "skills/context-driven-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-driven-development"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "image-studio",
+  "name": "image-studio",
+  "summary": "Studio de geracao de imagens inteligente — roteamento automatico entre ai-studio-image (fotos humanizadas/influencer) e stability-ai (arte/ ilustracao/edicao).",
+  "description": "Studio de geracao de imagens inteligente — roteamento automatico entre ai-studio-image (fotos humanizadas/influencer) e stability-ai (arte/ ilustracao/edicao). Detecta o tipo de imagem solicitada e escolhe o modelo ideal automaticamente.",
+  "category": "graphics-processing",
+  "tags": [
+    "image-generation",
+    "routing",
+    "ai-art",
+    "photography",
+    "graphics-processing",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/image-studio/SKILL.md",
+  "metadataPath": "skills/image-studio/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/image-studio"
+  }
+}

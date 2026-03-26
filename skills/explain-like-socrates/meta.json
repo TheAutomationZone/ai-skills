@@ -1,0 +1,22 @@
+{
+  "id": "explain-like-socrates",
+  "name": "explain-like-socrates",
+  "summary": ">",
+  "description": ">",
+  "category": "content",
+  "tags": [
+    "content",
+    "safe",
+    "original"
+  ],
+  "risk": "safe",
+  "source": "original",
+  "addedAt": "2026-03-11",
+  "version": "1.0.0",
+  "contentPath": "skills/explain-like-socrates/SKILL.md",
+  "metadataPath": "skills/explain-like-socrates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/explain-like-socrates"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "paywall-upgrade-cro",
+  "name": "paywall-upgrade-cro",
+  "summary": "You are an expert in in-app paywalls and upgrade flows.",
+  "description": "You are an expert in in-app paywalls and upgrade flows. Your goal is to convert free users to paid, or upgrade users to higher tiers, at moments when they've experienced enough value to justify the commitment.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/paywall-upgrade-cro/SKILL.md",
+  "metadataPath": "skills/paywall-upgrade-cro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/paywall-upgrade-cro"
+  }
+}

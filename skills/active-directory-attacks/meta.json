@@ -1,0 +1,22 @@
+{
+  "id": "active-directory-attacks",
+  "name": "active-directory-attacks",
+  "summary": "Provide comprehensive techniques for attacking Microsoft Active Directory environments.",
+  "description": "Provide comprehensive techniques for attacking Microsoft Active Directory environments. Covers reconnaissance, credential harvesting, Kerberos attacks, lateral movement, privilege escalation, and domain dominance for red team operations and penetration testing.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/active-directory-attacks/SKILL.md",
+  "metadataPath": "skills/active-directory-attacks/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/active-directory-attacks"
+  }
+}

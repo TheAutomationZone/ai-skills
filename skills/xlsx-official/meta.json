@@ -1,0 +1,22 @@
+{
+  "id": "xlsx-official",
+  "name": "xlsx-official",
+  "summary": "Unless otherwise stated by the user or existing template",
+  "description": "Unless otherwise stated by the user or existing template",
+  "category": "spreadsheet-processing",
+  "tags": [
+    "spreadsheet-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/xlsx-official/SKILL.md",
+  "metadataPath": "skills/xlsx-official/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/xlsx-official"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "web-performance-optimization",
+  "name": "web-performance-optimization",
+  "summary": "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance",
+  "description": "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/web-performance-optimization/SKILL.md",
+  "metadataPath": "skills/web-performance-optimization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/web-performance-optimization"
+  }
+}

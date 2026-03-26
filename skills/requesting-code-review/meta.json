@@ -1,0 +1,22 @@
+{
+  "id": "requesting-code-review",
+  "name": "requesting-code-review",
+  "summary": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+  "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/requesting-code-review/SKILL.md",
+  "metadataPath": "skills/requesting-code-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/requesting-code-review"
+  }
+}

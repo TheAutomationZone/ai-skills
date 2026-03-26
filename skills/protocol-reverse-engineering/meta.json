@@ -1,0 +1,22 @@
+{
+  "id": "protocol-reverse-engineering",
+  "name": "protocol-reverse-engineering",
+  "summary": "Comprehensive techniques for capturing, analyzing, and documenting network protocols for security research, interoperability, and debugging.",
+  "description": "Comprehensive techniques for capturing, analyzing, and documenting network protocols for security research, interoperability, and debugging.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/protocol-reverse-engineering/SKILL.md",
+  "metadataPath": "skills/protocol-reverse-engineering/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/protocol-reverse-engineering"
+  }
+}

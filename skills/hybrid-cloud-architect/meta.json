@@ -1,0 +1,22 @@
+{
+  "id": "hybrid-cloud-architect",
+  "name": "hybrid-cloud-architect",
+  "summary": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).",
+  "description": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hybrid-cloud-architect/SKILL.md",
+  "metadataPath": "skills/hybrid-cloud-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hybrid-cloud-architect"
+  }
+}

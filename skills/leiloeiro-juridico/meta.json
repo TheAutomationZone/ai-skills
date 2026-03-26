@@ -1,0 +1,26 @@
+{
+  "id": "leiloeiro-juridico",
+  "name": "leiloeiro-juridico",
+  "summary": "Analise juridica de leiloes: nulidades, bem de familia, alienacao fiduciaria, CPC arts 829-903, Lei 9514/97, onus reais, embargos e jurisprudencia.",
+  "description": "Analise juridica de leiloes: nulidades, bem de familia, alienacao fiduciaria, CPC arts 829-903, Lei 9514/97, onus reais, embargos e jurisprudencia.",
+  "category": "leiloeiro",
+  "tags": [
+    "legal",
+    "auction-law",
+    "brazilian",
+    "judicial",
+    "leiloeiro",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/leiloeiro-juridico/SKILL.md",
+  "metadataPath": "skills/leiloeiro-juridico/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/leiloeiro-juridico"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c4-context",
+  "name": "c4-context",
+  "summary": "Expert C4 Context-level documentation specialist.",
+  "description": "Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, documents personas, user journeys, system features, and external dependencies.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/c4-context/SKILL.md",
+  "metadataPath": "skills/c4-context/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/c4-context"
+  }
+}

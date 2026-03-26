@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-contentunderstanding-py",
+  "name": "azure-ai-contentunderstanding-py",
+  "summary": "Azure AI Content Understanding SDK for Python.",
+  "description": "Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-contentunderstanding-py/SKILL.md",
+  "metadataPath": "skills/azure-ai-contentunderstanding-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-contentunderstanding-py"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sql-injection-testing",
+  "name": "sql-injection-testing",
+  "summary": "Execute comprehensive SQL injection vulnerability assessments on web applications to identify database security flaws, demonstrate exploitation techniques, and validate input sa...",
+  "description": "Execute comprehensive SQL injection vulnerability assessments on web applications to identify database security flaws, demonstrate exploitation techniques, and validate input sanitization mechanisms.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/sql-injection-testing/SKILL.md",
+  "metadataPath": "skills/sql-injection-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sql-injection-testing"
+  }
+}

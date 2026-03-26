@@ -1,0 +1,22 @@
+{
+  "id": "plotly",
+  "name": "plotly",
+  "summary": "Interactive visualization library.",
+  "description": "Interactive visualization library. Use when you need hover info, zoom, pan, or web-embeddable charts. Best for dashboards, exploratory analysis, and presentations. For static publication figures use matplotlib or scientific-visualization.",
+  "category": "data-science",
+  "tags": [
+    "data-science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/plotly/SKILL.md",
+  "metadataPath": "skills/plotly/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/plotly"
+  }
+}

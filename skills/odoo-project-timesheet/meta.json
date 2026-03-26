@@ -1,0 +1,22 @@
+{
+  "id": "odoo-project-timesheet",
+  "name": "odoo-project-timesheet",
+  "summary": "Expert guide for Odoo Project and Timesheets: task stages, billable time tracking, timesheet approval, budget alerts, and invoicing from timesheets.",
+  "description": "Expert guide for Odoo Project and Timesheets: task stages, billable time tracking, timesheet approval, budget alerts, and invoicing from timesheets.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-project-timesheet/SKILL.md",
+  "metadataPath": "skills/odoo-project-timesheet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-project-timesheet"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "brand-guidelines",
+  "name": "brand-guidelines",
+  "summary": "Write copy following Sentry brand guidelines.",
+  "description": "Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/brand-guidelines/SKILL.md",
+  "metadataPath": "skills/brand-guidelines/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/brand-guidelines"
+  }
+}

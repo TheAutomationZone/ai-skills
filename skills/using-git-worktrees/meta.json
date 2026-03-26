@@ -1,0 +1,22 @@
+{
+  "id": "using-git-worktrees",
+  "name": "using-git-worktrees",
+  "summary": "Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching.",
+  "description": "Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/using-git-worktrees/SKILL.md",
+  "metadataPath": "skills/using-git-worktrees/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/using-git-worktrees"
+  }
+}

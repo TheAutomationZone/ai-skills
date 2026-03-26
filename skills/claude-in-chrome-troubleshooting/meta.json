@@ -1,0 +1,22 @@
+{
+  "id": "claude-in-chrome-troubleshooting",
+  "name": "claude-in-chrome-troubleshooting",
+  "summary": "Diagnose and fix Claude in Chrome MCP extension connectivity issues.",
+  "description": "Diagnose and fix Claude in Chrome MCP extension connectivity issues. Use when mcp__claude-in-chrome__* tools fail, return \"Browser extension is not connected\", or behave erratically.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/claude-in-chrome-troubleshooting/SKILL.md",
+  "metadataPath": "skills/claude-in-chrome-troubleshooting/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claude-in-chrome-troubleshooting"
+  }
+}

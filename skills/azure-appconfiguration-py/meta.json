@@ -1,0 +1,22 @@
+{
+  "id": "azure-appconfiguration-py",
+  "name": "azure-appconfiguration-py",
+  "summary": "Azure App Configuration SDK for Python.",
+  "description": "Azure App Configuration SDK for Python. Use for centralized configuration management, feature flags, and dynamic settings.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-appconfiguration-py/SKILL.md",
+  "metadataPath": "skills/azure-appconfiguration-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-appconfiguration-py"
+  }
+}

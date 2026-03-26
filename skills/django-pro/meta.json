@@ -1,0 +1,22 @@
+{
+  "id": "django-pro",
+  "name": "django-pro",
+  "summary": "Master Django 5.x with async views, DRF, Celery, and Django Channels.",
+  "description": "Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/django-pro/SKILL.md",
+  "metadataPath": "skills/django-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/django-pro"
+  }
+}

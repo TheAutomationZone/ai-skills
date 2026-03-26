@@ -1,0 +1,22 @@
+{
+  "id": "sred-work-summary",
+  "name": "sred-work-summary",
+  "summary": "Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.",
+  "description": "Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/sred-work-summary/SKILL.md",
+  "metadataPath": "skills/sred-work-summary/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sred-work-summary"
+  }
+}

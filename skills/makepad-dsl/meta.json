@@ -1,0 +1,22 @@
+{
+  "id": "makepad-dsl",
+  "name": "makepad-dsl",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/makepad-dsl/SKILL.md",
+  "metadataPath": "skills/makepad-dsl/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/makepad-dsl"
+  }
+}

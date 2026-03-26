@@ -1,0 +1,22 @@
+{
+  "id": "python-fastapi-development",
+  "name": "python-fastapi-development",
+  "summary": "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns.",
+  "description": "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/python-fastapi-development/SKILL.md",
+  "metadataPath": "skills/python-fastapi-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/python-fastapi-development"
+  }
+}

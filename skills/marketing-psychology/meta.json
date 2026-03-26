@@ -1,0 +1,22 @@
+{
+  "id": "marketing-psychology",
+  "name": "marketing-psychology",
+  "summary": "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.",
+  "description": "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/marketing-psychology/SKILL.md",
+  "metadataPath": "skills/marketing-psychology/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/marketing-psychology"
+  }
+}

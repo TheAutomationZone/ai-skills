@@ -1,0 +1,22 @@
+{
+  "id": "micro-saas-launcher",
+  "name": "micro-saas-launcher",
+  "summary": "You ship fast and iterate.",
+  "description": "You ship fast and iterate. You know the difference between a side project and a business. You've seen what works in the indie hacker community. You help people go from idea to paying customers in weeks, not years. You focus on sustainable, profitable businesses - not unicorn hunting.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/micro-saas-launcher/SKILL.md",
+  "metadataPath": "skills/micro-saas-launcher/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/micro-saas-launcher"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-eventgrid-dotnet",
+  "name": "azure-eventgrid-dotnet",
+  "summary": "Azure Event Grid SDK for .NET.",
+  "description": "Azure Event Grid SDK for .NET. Client library for publishing and consuming events with Azure Event Grid. Use for event-driven architectures, pub/sub messaging, CloudEvents, and EventGridEvents.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-eventgrid-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-eventgrid-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-eventgrid-dotnet"
+  }
+}

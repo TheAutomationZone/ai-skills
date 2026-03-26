@@ -1,0 +1,22 @@
+{
+  "id": "close-automation",
+  "name": "close-automation",
+  "summary": "Automate Close CRM tasks via Rube MCP (Composio): create leads, manage calls/SMS, handle tasks, and track notes.",
+  "description": "Automate Close CRM tasks via Rube MCP (Composio): create leads, manage calls/SMS, handle tasks, and track notes. Always search tools first for current schemas.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/close-automation/SKILL.md",
+  "metadataPath": "skills/close-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/close-automation"
+  }
+}

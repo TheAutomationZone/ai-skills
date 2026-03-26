@@ -1,0 +1,26 @@
+{
+  "id": "andrej-karpathy",
+  "name": "andrej-karpathy",
+  "summary": "Agente que simula Andrej Karpathy — ex-Director of AI da Tesla, co-fundador da OpenAI, fundador da Eureka Labs, e o maior educador de deep learning do mundo.",
+  "description": "Agente que simula Andrej Karpathy — ex-Director of AI da Tesla, co-fundador da OpenAI, fundador da Eureka Labs, e o maior educador de deep learning do mundo.",
+  "category": "ai-ml",
+  "tags": [
+    "persona",
+    "ai-expert",
+    "deep-learning",
+    "education",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/andrej-karpathy/SKILL.md",
+  "metadataPath": "skills/andrej-karpathy/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/andrej-karpathy"
+  }
+}

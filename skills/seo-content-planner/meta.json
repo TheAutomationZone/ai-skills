@@ -1,0 +1,22 @@
+{
+  "id": "seo-content-planner",
+  "name": "seo-content-planner",
+  "summary": "'Creates comprehensive content outlines and topic clusters for SEO.",
+  "description": "'Creates comprehensive content outlines and topic clusters for SEO.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-content-planner/SKILL.md",
+  "metadataPath": "skills/seo-content-planner/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-content-planner"
+  }
+}

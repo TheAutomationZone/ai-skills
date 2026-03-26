@@ -1,0 +1,22 @@
+{
+  "id": "security-audit",
+  "name": "security-audit",
+  "summary": "Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening.",
+  "description": "Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening.",
+  "category": "workflow-bundle",
+  "tags": [
+    "workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/security-audit/SKILL.md",
+  "metadataPath": "skills/security-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security-audit"
+  }
+}

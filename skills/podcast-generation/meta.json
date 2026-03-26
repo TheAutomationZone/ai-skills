@@ -1,0 +1,22 @@
+{
+  "id": "podcast-generation",
+  "name": "podcast-generation",
+  "summary": "Generate real audio narratives from text content using Azure OpenAI's Realtime API.",
+  "description": "Generate real audio narratives from text content using Azure OpenAI's Realtime API.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/podcast-generation/SKILL.md",
+  "metadataPath": "skills/podcast-generation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/podcast-generation"
+  }
+}

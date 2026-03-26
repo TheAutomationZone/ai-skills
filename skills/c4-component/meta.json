@@ -1,0 +1,22 @@
+{
+  "id": "c4-component",
+  "name": "c4-component",
+  "summary": "Expert C4 Component-level documentation specialist.",
+  "description": "Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Component-level architecture, defining component boundaries, interfaces, and relationships.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/c4-component/SKILL.md",
+  "metadataPath": "skills/c4-component/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/c4-component"
+  }
+}

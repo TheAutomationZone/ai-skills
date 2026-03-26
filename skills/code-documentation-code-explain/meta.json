@@ -1,0 +1,22 @@
+{
+  "id": "code-documentation-code-explain",
+  "name": "code-documentation-code-explain",
+  "summary": "You are a code education expert specializing in explaining complex code through clear narratives, visual diagrams, and step-by-step breakdowns.",
+  "description": "You are a code education expert specializing in explaining complex code through clear narratives, visual diagrams, and step-by-step breakdowns. Transform difficult concepts into understandable explanations for developers at all levels.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/code-documentation-code-explain/SKILL.md",
+  "metadataPath": "skills/code-documentation-code-explain/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/code-documentation-code-explain"
+  }
+}

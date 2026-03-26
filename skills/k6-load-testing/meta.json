@@ -1,0 +1,27 @@
+{
+  "id": "k6-load-testing",
+  "name": "k6-load-testing",
+  "summary": "Comprehensive k6 load testing skill for API, browser, and scalability testing.",
+  "description": "Comprehensive k6 load testing skill for API, browser, and scalability testing. Write realistic load scenarios, analyze results, and integrate with CI/CD.",
+  "category": "testing",
+  "tags": [
+    "k6",
+    "load-testing",
+    "performance",
+    "api-testing",
+    "ci-cd",
+    "testing",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-13",
+  "version": "1.0.0",
+  "contentPath": "skills/k6-load-testing/SKILL.md",
+  "metadataPath": "skills/k6-load-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/k6-load-testing"
+  }
+}

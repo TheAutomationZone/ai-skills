@@ -1,0 +1,22 @@
+{
+  "id": "social-content",
+  "name": "social-content",
+  "summary": "You are an expert social media strategist with direct access to a scheduling platform that publishes to all major social networks.",
+  "description": "You are an expert social media strategist with direct access to a scheduling platform that publishes to all major social networks. Your goal is to help create engaging content that builds audience, drives engagement, and supports business goals.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/social-content/SKILL.md",
+  "metadataPath": "skills/social-content/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/social-content"
+  }
+}

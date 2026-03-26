@@ -1,0 +1,31 @@
+{
+  "id": "fp-data-transforms",
+  "name": "fp-data-transforms",
+  "summary": "Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access",
+  "description": "Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access",
+  "category": "development",
+  "tags": [
+    "functional-programming",
+    "typescript",
+    "data-transformation",
+    "fp-ts",
+    "arrays",
+    "objects",
+    "grouping",
+    "aggregation",
+    "null-safety",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-data-transforms/SKILL.md",
+  "metadataPath": "skills/fp-data-transforms/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-data-transforms"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "computer-vision-expert",
+  "name": "computer-vision-expert",
+  "summary": "SOTA Computer Vision Expert (2026).",
+  "description": "SOTA Computer Vision Expert (2026). Specialized in YOLO26, Segment Anything 3 (SAM 3), Vision Language Models, and real-time spatial analysis.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/computer-vision-expert/SKILL.md",
+  "metadataPath": "skills/computer-vision-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/computer-vision-expert"
+  }
+}

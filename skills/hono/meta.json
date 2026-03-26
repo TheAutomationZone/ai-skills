@@ -1,0 +1,30 @@
+{
+  "id": "hono",
+  "name": "hono",
+  "summary": "Build ultra-fast web APIs and full-stack apps with Hono — runs on Cloudflare Workers, Deno, Bun, Node.js, and any WinterCG-compatible runtime.",
+  "description": "Build ultra-fast web APIs and full-stack apps with Hono — runs on Cloudflare Workers, Deno, Bun, Node.js, and any WinterCG-compatible runtime.",
+  "category": "backend",
+  "tags": [
+    "hono",
+    "edge",
+    "cloudflare-workers",
+    "bun",
+    "deno",
+    "api",
+    "typescript",
+    "web-standards",
+    "backend",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-18",
+  "version": "1.0.0",
+  "contentPath": "skills/hono/SKILL.md",
+  "metadataPath": "skills/hono/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hono"
+  }
+}

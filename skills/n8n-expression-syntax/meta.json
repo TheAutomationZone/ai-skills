@@ -1,0 +1,22 @@
+{
+  "id": "n8n-expression-syntax",
+  "name": "n8n-expression-syntax",
+  "summary": "Validate n8n expression syntax and fix common errors.",
+  "description": "Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/n8n-expression-syntax/SKILL.md",
+  "metadataPath": "skills/n8n-expression-syntax/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/n8n-expression-syntax"
+  }
+}

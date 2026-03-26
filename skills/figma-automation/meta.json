@@ -1,0 +1,22 @@
+{
+  "id": "figma-automation",
+  "name": "figma-automation",
+  "summary": "Automate Figma tasks via Rube MCP (Composio): files, components, design tokens, comments, exports.",
+  "description": "Automate Figma tasks via Rube MCP (Composio): files, components, design tokens, comments, exports. Always search tools first for current schemas.",
+  "category": "design",
+  "tags": [
+    "design",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/figma-automation/SKILL.md",
+  "metadataPath": "skills/figma-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/figma-automation"
+  }
+}

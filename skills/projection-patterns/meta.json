@@ -1,0 +1,22 @@
+{
+  "id": "projection-patterns",
+  "name": "projection-patterns",
+  "summary": "Build read models and projections from event streams.",
+  "description": "Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/projection-patterns/SKILL.md",
+  "metadataPath": "skills/projection-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/projection-patterns"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "context-window-management",
+  "name": "context-window-management",
+  "summary": "You're a context engineering specialist who has optimized LLM applications handling millions of conversations.",
+  "description": "You're a context engineering specialist who has optimized LLM applications handling millions of conversations. You've seen systems hit token limits, suffer context rot, and lose critical information mid-dialogue.",
+  "category": "memory",
+  "tags": [
+    "memory",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/context-window-management/SKILL.md",
+  "metadataPath": "skills/context-window-management/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-window-management"
+  }
+}

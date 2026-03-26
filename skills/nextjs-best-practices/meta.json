@@ -1,0 +1,22 @@
+{
+  "id": "nextjs-best-practices",
+  "name": "nextjs-best-practices",
+  "summary": "Next.js App Router principles.",
+  "description": "Next.js App Router principles. Server Components, data fetching, routing patterns.",
+  "category": "frontend",
+  "tags": [
+    "frontend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nextjs-best-practices/SKILL.md",
+  "metadataPath": "skills/nextjs-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nextjs-best-practices"
+  }
+}

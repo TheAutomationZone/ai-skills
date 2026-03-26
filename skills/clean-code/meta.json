@@ -1,0 +1,22 @@
+{
+  "id": "clean-code",
+  "name": "clean-code",
+  "summary": "This skill embodies the principles of \\\"Clean Code\\\" by Robert C.",
+  "description": "This skill embodies the principles of \\\"Clean Code\\\" by Robert C. Martin (Uncle Bob). Use it to transform \\\"code that works\\\" into \\\"code that is clean.\\\"",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "safe",
+    "clawforge (https://github.com/jackjin1997/clawforge)"
+  ],
+  "risk": "safe",
+  "source": "ClawForge (https://github.com/jackjin1997/ClawForge)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/clean-code/SKILL.md",
+  "metadataPath": "skills/clean-code/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/clean-code"
+  }
+}

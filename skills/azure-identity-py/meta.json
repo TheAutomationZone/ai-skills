@@ -1,0 +1,22 @@
+{
+  "id": "azure-identity-py",
+  "name": "azure-identity-py",
+  "summary": "Azure Identity SDK for Python authentication.",
+  "description": "Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-identity-py/SKILL.md",
+  "metadataPath": "skills/azure-identity-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-identity-py"
+  }
+}

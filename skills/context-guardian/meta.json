@@ -1,0 +1,26 @@
+{
+  "id": "context-guardian",
+  "name": "context-guardian",
+  "summary": "Guardiao de contexto que preserva dados criticos antes da compactacao automatica.",
+  "description": "Guardiao de contexto que preserva dados criticos antes da compactacao automatica. Snapshots, verificacao de integridade e zero perda de informacao.",
+  "category": "ai-ml",
+  "tags": [
+    "context",
+    "data-integrity",
+    "snapshots",
+    "verification",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/context-guardian/SKILL.md",
+  "metadataPath": "skills/context-guardian/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-guardian"
+  }
+}

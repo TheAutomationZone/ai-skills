@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-apicenter-dotnet",
+  "name": "azure-mgmt-apicenter-dotnet",
+  "summary": "Azure API Center SDK for .NET.",
+  "description": "Azure API Center SDK for .NET. Centralized API inventory management with governance, versioning, and discovery.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-apicenter-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-apicenter-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-apicenter-dotnet"
+  }
+}

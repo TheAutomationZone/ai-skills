@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-openai-dotnet",
+  "name": "azure-ai-openai-dotnet",
+  "summary": "Azure OpenAI SDK for .NET.",
+  "description": "Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, and assistants.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-openai-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-ai-openai-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-openai-dotnet"
+  }
+}

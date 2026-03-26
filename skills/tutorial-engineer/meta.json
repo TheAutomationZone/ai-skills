@@ -1,0 +1,22 @@
+{
+  "id": "tutorial-engineer",
+  "name": "tutorial-engineer",
+  "summary": "Creates step-by-step tutorials and educational content from code.",
+  "description": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples.",
+  "category": "content",
+  "tags": [
+    "content",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-02",
+  "version": "1.0.0",
+  "contentPath": "skills/tutorial-engineer/SKILL.md",
+  "metadataPath": "skills/tutorial-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tutorial-engineer"
+  }
+}

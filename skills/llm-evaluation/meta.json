@@ -1,0 +1,22 @@
+{
+  "id": "llm-evaluation",
+  "name": "llm-evaluation",
+  "summary": "Master comprehensive evaluation strategies for LLM applications, from automated metrics to human evaluation and A/B testing.",
+  "description": "Master comprehensive evaluation strategies for LLM applications, from automated metrics to human evaluation and A/B testing.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/llm-evaluation/SKILL.md",
+  "metadataPath": "skills/llm-evaluation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/llm-evaluation"
+  }
+}

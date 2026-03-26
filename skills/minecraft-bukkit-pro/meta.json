@@ -1,0 +1,22 @@
+{
+  "id": "minecraft-bukkit-pro",
+  "name": "minecraft-bukkit-pro",
+  "summary": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.",
+  "description": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/minecraft-bukkit-pro/SKILL.md",
+  "metadataPath": "skills/minecraft-bukkit-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/minecraft-bukkit-pro"
+  }
+}

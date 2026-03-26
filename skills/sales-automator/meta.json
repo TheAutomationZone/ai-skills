@@ -1,0 +1,22 @@
+{
+  "id": "sales-automator",
+  "name": "sales-automator",
+  "summary": "'Draft cold emails, follow-ups, and proposal templates.",
+  "description": "'Draft cold emails, follow-ups, and proposal templates. Creates",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/sales-automator/SKILL.md",
+  "metadataPath": "skills/sales-automator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sales-automator"
+  }
+}

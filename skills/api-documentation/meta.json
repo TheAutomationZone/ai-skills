@@ -1,0 +1,22 @@
+{
+  "id": "api-documentation",
+  "name": "api-documentation",
+  "summary": "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.",
+  "description": "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/api-documentation/SKILL.md",
+  "metadataPath": "skills/api-documentation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-documentation"
+  }
+}

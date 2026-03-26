@@ -1,0 +1,22 @@
+{
+  "id": "azure-compute-batch-java",
+  "name": "azure-compute-batch-java",
+  "summary": "Azure Batch SDK for Java.",
+  "description": "Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-compute-batch-java/SKILL.md",
+  "metadataPath": "skills/azure-compute-batch-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-compute-batch-java"
+  }
+}

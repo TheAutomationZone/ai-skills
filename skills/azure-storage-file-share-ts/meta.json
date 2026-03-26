@@ -1,0 +1,22 @@
+{
+  "id": "azure-storage-file-share-ts",
+  "name": "azure-storage-file-share-ts",
+  "summary": "Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.",
+  "description": "Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-storage-file-share-ts/SKILL.md",
+  "metadataPath": "skills/azure-storage-file-share-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-storage-file-share-ts"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "firecrawl-scraper",
+  "name": "firecrawl-scraper",
+  "summary": "Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API.",
+  "description": "Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API. Use when you need deep content extraction from web pages, page interaction is required (clicking, scrolling, etc.), or you want screenshots or PDF parsing.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/firecrawl-scraper/SKILL.md",
+  "metadataPath": "skills/firecrawl-scraper/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/firecrawl-scraper"
+  }
+}

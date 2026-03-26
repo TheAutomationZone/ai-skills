@@ -1,0 +1,29 @@
+{
+  "id": "pakistan-payments-stack",
+  "name": "pakistan-payments-stack",
+  "summary": "Design and implement production-grade Pakistani payment integrations (JazzCash, Easypaisa, bank/PSP rails, optional Raast) for SaaS with PKR billing, webhook reliability, and re...",
+  "description": "Design and implement production-grade Pakistani payment integrations (JazzCash, Easypaisa, bank/PSP rails, optional Raast) for SaaS with PKR billing, webhook reliability, and reconciliation.",
+  "category": "api-integration",
+  "tags": [
+    "saas",
+    "payments",
+    "pakistan",
+    "nextjs",
+    "b2b",
+    "pkr",
+    "reconciliation",
+    "api-integration",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/pakistan-payments-stack/SKILL.md",
+  "metadataPath": "skills/pakistan-payments-stack/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/pakistan-payments-stack"
+  }
+}

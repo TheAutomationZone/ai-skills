@@ -1,0 +1,22 @@
+{
+  "id": "wiki-changelog",
+  "name": "wiki-changelog",
+  "summary": "Generate structured changelogs from git history.",
+  "description": "Generate structured changelogs from git history. Use when user asks \\\"what changed recently\\\", \\\"generate a changelog\\\", \\\"summarize commits\\\" or user wants to understand recent development activity.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wiki-changelog/SKILL.md",
+  "metadataPath": "skills/wiki-changelog/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wiki-changelog"
+  }
+}

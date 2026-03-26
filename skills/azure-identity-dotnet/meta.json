@@ -1,0 +1,22 @@
+{
+  "id": "azure-identity-dotnet",
+  "name": "azure-identity-dotnet",
+  "summary": "Azure Identity SDK for .NET.",
+  "description": "Azure Identity SDK for .NET. Authentication library for Azure SDK clients using Microsoft Entra ID. Use for DefaultAzureCredential, managed identity, service principals, and developer credentials.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-identity-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-identity-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-identity-dotnet"
+  }
+}

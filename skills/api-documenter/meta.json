@@ -1,0 +1,22 @@
+{
+  "id": "api-documenter",
+  "name": "api-documenter",
+  "summary": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices.",
+  "description": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/api-documenter/SKILL.md",
+  "metadataPath": "skills/api-documenter/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-documenter"
+  }
+}

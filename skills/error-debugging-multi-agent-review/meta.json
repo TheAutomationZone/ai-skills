@@ -1,0 +1,22 @@
+{
+  "id": "error-debugging-multi-agent-review",
+  "name": "error-debugging-multi-agent-review",
+  "summary": "Use when working with error debugging multi agent review",
+  "description": "Use when working with error debugging multi agent review",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/error-debugging-multi-agent-review/SKILL.md",
+  "metadataPath": "skills/error-debugging-multi-agent-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/error-debugging-multi-agent-review"
+  }
+}

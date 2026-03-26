@@ -1,0 +1,22 @@
+{
+  "id": "database-architect",
+  "name": "database-architect",
+  "summary": "Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.",
+  "description": "Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.",
+  "category": "database-processing",
+  "tags": [
+    "database-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/database-architect/SKILL.md",
+  "metadataPath": "skills/database-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/database-architect"
+  }
+}

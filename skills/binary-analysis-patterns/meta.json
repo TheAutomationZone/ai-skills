@@ -1,0 +1,22 @@
+{
+  "id": "binary-analysis-patterns",
+  "name": "binary-analysis-patterns",
+  "summary": "Comprehensive patterns and techniques for analyzing compiled binaries, understanding assembly code, and reconstructing program logic.",
+  "description": "Comprehensive patterns and techniques for analyzing compiled binaries, understanding assembly code, and reconstructing program logic.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/binary-analysis-patterns/SKILL.md",
+  "metadataPath": "skills/binary-analysis-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/binary-analysis-patterns"
+  }
+}

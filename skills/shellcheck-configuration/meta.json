@@ -1,0 +1,22 @@
+{
+  "id": "shellcheck-configuration",
+  "name": "shellcheck-configuration",
+  "summary": "Master ShellCheck static analysis configuration and usage for shell script quality.",
+  "description": "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability.",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/shellcheck-configuration/SKILL.md",
+  "metadataPath": "skills/shellcheck-configuration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/shellcheck-configuration"
+  }
+}

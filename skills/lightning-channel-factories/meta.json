@@ -1,0 +1,22 @@
+{
+  "id": "lightning-channel-factories",
+  "name": "lightning-channel-factories",
+  "summary": "Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks.",
+  "description": "Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2 key aggregation, HTLC/PTLC forwarding, and watchtower breach detection.",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-03-03",
+  "version": "1.0.0",
+  "contentPath": "skills/lightning-channel-factories/SKILL.md",
+  "metadataPath": "skills/lightning-channel-factories/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/lightning-channel-factories"
+  }
+}

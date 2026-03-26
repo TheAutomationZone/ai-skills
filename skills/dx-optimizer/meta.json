@@ -1,0 +1,22 @@
+{
+  "id": "dx-optimizer",
+  "name": "dx-optimizer",
+  "summary": "Developer Experience specialist.",
+  "description": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dx-optimizer/SKILL.md",
+  "metadataPath": "skills/dx-optimizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dx-optimizer"
+  }
+}

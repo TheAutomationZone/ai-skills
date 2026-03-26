@@ -1,0 +1,22 @@
+{
+  "id": "azure-keyvault-keys-ts",
+  "name": "azure-keyvault-keys-ts",
+  "summary": "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys).",
+  "description": "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-keyvault-keys-ts/SKILL.md",
+  "metadataPath": "skills/azure-keyvault-keys-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-keyvault-keys-ts"
+  }
+}

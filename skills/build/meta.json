@@ -1,0 +1,22 @@
+{
+  "id": "build",
+  "name": "build",
+  "summary": "build",
+  "description": "build",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/build/SKILL.md",
+  "metadataPath": "skills/build/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/build"
+  }
+}

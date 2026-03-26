@@ -1,0 +1,22 @@
+{
+  "id": "multi-agent-brainstorming",
+  "name": "multi-agent-brainstorming",
+  "summary": "Simulate a structured peer-review process using multiple specialized agents to validate designs, surface hidden assumptions, and identify failure modes before implementation.",
+  "description": "Simulate a structured peer-review process using multiple specialized agents to validate designs, surface hidden assumptions, and identify failure modes before implementation.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/multi-agent-brainstorming/SKILL.md",
+  "metadataPath": "skills/multi-agent-brainstorming/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/multi-agent-brainstorming"
+  }
+}

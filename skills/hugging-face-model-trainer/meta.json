@@ -1,0 +1,22 @@
+{
+  "id": "hugging-face-model-trainer",
+  "name": "hugging-face-model-trainer",
+  "summary": "Train language models using TRL (Transformer Reinforcement Learning) on fully managed Hugging Face infrastructure.",
+  "description": "Train language models using TRL (Transformer Reinforcement Learning) on fully managed Hugging Face infrastructure. No local GPU setup required—models train on cloud GPUs and results are automatically saved to the Hugging Face Hub.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/hugging-face-model-trainer/SKILL.md",
+  "metadataPath": "skills/hugging-face-model-trainer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hugging-face-model-trainer"
+  }
+}

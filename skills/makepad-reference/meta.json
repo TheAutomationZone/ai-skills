@@ -1,0 +1,22 @@
+{
+  "id": "makepad-reference",
+  "name": "makepad-reference",
+  "summary": "This category provides reference materials for debugging, code quality, and advanced layout patterns.",
+  "description": "This category provides reference materials for debugging, code quality, and advanced layout patterns.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/makepad-reference/SKILL.md",
+  "metadataPath": "skills/makepad-reference/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/makepad-reference"
+  }
+}

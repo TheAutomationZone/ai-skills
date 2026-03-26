@@ -1,0 +1,22 @@
+{
+  "id": "code-review-ai-ai-review",
+  "name": "code-review-ai-ai-review",
+  "summary": "You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices.",
+  "description": "You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, C",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/code-review-ai-ai-review/SKILL.md",
+  "metadataPath": "skills/code-review-ai-ai-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/code-review-ai-ai-review"
+  }
+}

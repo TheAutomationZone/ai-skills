@@ -1,0 +1,22 @@
+{
+  "id": "cpp-pro",
+  "name": "cpp-pro",
+  "summary": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms.",
+  "description": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cpp-pro/SKILL.md",
+  "metadataPath": "skills/cpp-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cpp-pro"
+  }
+}

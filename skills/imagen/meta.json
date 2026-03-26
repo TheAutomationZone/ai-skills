@@ -1,0 +1,22 @@
+{
+  "id": "imagen",
+  "name": "imagen",
+  "summary": "AI image generation skill powered by Google Gemini, enabling seamless visual content creation for UI placeholders, documentation, and design assets.",
+  "description": "AI image generation skill powered by Google Gemini, enabling seamless visual content creation for UI placeholders, documentation, and design assets.",
+  "category": "graphics-processing",
+  "tags": [
+    "graphics-processing",
+    "safe",
+    "https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/imagen/SKILL.md",
+  "metadataPath": "skills/imagen/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/imagen"
+  }
+}

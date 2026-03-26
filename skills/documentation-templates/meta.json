@@ -1,0 +1,22 @@
+{
+  "id": "documentation-templates",
+  "name": "documentation-templates",
+  "summary": "Documentation templates and structure guidelines.",
+  "description": "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/documentation-templates/SKILL.md",
+  "metadataPath": "skills/documentation-templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/documentation-templates"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "apify-audience-analysis",
+  "name": "apify-audience-analysis",
+  "summary": "Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.",
+  "description": "Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/apify-audience-analysis/SKILL.md",
+  "metadataPath": "skills/apify-audience-analysis/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/apify-audience-analysis"
+  }
+}

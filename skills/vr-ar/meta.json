@@ -1,0 +1,22 @@
+{
+  "id": "vr-ar",
+  "name": "vr-ar",
+  "summary": "VR/AR development principles.",
+  "description": "VR/AR development principles. Comfort, interaction, performance requirements.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/vr-ar/SKILL.md",
+  "metadataPath": "skills/vr-ar/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/vr-ar"
+  }
+}

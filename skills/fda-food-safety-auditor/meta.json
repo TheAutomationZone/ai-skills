@@ -1,0 +1,22 @@
+{
+  "id": "fda-food-safety-auditor",
+  "name": "fda-food-safety-auditor",
+  "summary": "Expert AI auditor for FDA Food Safety (FSMA), HACCP, and PCQI compliance.",
+  "description": "Expert AI auditor for FDA Food Safety (FSMA), HACCP, and PCQI compliance. Reviews food facility records and preventive controls.",
+  "category": "legal",
+  "tags": [
+    "legal",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fda-food-safety-auditor/SKILL.md",
+  "metadataPath": "skills/fda-food-safety-auditor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fda-food-safety-auditor"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nodejs-best-practices",
+  "name": "nodejs-best-practices",
+  "summary": "Node.js development principles and decision-making.",
+  "description": "Node.js development principles and decision-making. Framework selection, async patterns, security, and architecture. Teaches thinking, not copying.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nodejs-best-practices/SKILL.md",
+  "metadataPath": "skills/nodejs-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nodejs-best-practices"
+  }
+}

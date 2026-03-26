@@ -1,0 +1,22 @@
+{
+  "id": "security-requirement-extraction",
+  "name": "security-requirement-extraction",
+  "summary": "Derive security requirements from threat models and business context.",
+  "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/security-requirement-extraction/SKILL.md",
+  "metadataPath": "skills/security-requirement-extraction/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security-requirement-extraction"
+  }
+}

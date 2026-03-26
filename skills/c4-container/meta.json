@@ -1,0 +1,22 @@
+{
+  "id": "c4-container",
+  "name": "c4-container",
+  "summary": "Expert C4 Container-level documentation specialist.",
+  "description": "Expert C4 Container-level documentation specialist.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/c4-container/SKILL.md",
+  "metadataPath": "skills/c4-container/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/c4-container"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "react-ui-patterns",
+  "name": "react-ui-patterns",
+  "summary": "Modern React UI patterns for loading states, error handling, and data fetching.",
+  "description": "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-ui-patterns/SKILL.md",
+  "metadataPath": "skills/react-ui-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-ui-patterns"
+  }
+}

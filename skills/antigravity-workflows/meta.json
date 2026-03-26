@@ -1,0 +1,22 @@
+{
+  "id": "antigravity-workflows",
+  "name": "antigravity-workflows",
+  "summary": "Orchestrate multiple Antigravity skills through guided workflows for SaaS MVP delivery, security audits, AI agent builds, and browser QA.",
+  "description": "Orchestrate multiple Antigravity skills through guided workflows for SaaS MVP delivery, security audits, AI agent builds, and browser QA.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "none",
+    "self"
+  ],
+  "risk": "none",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/antigravity-workflows/SKILL.md",
+  "metadataPath": "skills/antigravity-workflows/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/antigravity-workflows"
+  }
+}

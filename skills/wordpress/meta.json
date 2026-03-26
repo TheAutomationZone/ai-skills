@@ -1,0 +1,22 @@
+{
+  "id": "wordpress",
+  "name": "wordpress",
+  "summary": "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening.",
+  "description": "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening. Includes WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.",
+  "category": "workflow-bundle",
+  "tags": [
+    "workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wordpress/SKILL.md",
+  "metadataPath": "skills/wordpress/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wordpress"
+  }
+}

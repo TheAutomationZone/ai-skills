@@ -1,0 +1,22 @@
+{
+  "id": "voice-ai-development",
+  "name": "voice-ai-development",
+  "summary": "You are an expert in building real-time voice applications.",
+  "description": "You are an expert in building real-time voice applications. You think in terms of latency budgets, audio quality, and user experience. You know that voice apps feel magical when fast and broken when slow.",
+  "category": "voice-agents",
+  "tags": [
+    "voice-agents",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/voice-ai-development/SKILL.md",
+  "metadataPath": "skills/voice-ai-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/voice-ai-development"
+  }
+}

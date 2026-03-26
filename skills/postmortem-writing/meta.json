@@ -1,0 +1,22 @@
+{
+  "id": "postmortem-writing",
+  "name": "postmortem-writing",
+  "summary": "Comprehensive guide to writing effective, blameless postmortems that drive organizational learning and prevent incident recurrence.",
+  "description": "Comprehensive guide to writing effective, blameless postmortems that drive organizational learning and prevent incident recurrence.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/postmortem-writing/SKILL.md",
+  "metadataPath": "skills/postmortem-writing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/postmortem-writing"
+  }
+}

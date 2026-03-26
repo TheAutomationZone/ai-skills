@@ -1,0 +1,22 @@
+{
+  "id": "seo-audit",
+  "name": "seo-audit",
+  "summary": "Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.",
+  "description": "Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-audit/SKILL.md",
+  "metadataPath": "skills/seo-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-audit"
+  }
+}

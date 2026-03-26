@@ -1,0 +1,22 @@
+{
+  "id": "risk-manager",
+  "name": "risk-manager",
+  "summary": "Monitor portfolio risk, R-multiples, and position limits.",
+  "description": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/risk-manager/SKILL.md",
+  "metadataPath": "skills/risk-manager/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/risk-manager"
+  }
+}

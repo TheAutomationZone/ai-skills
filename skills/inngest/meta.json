@@ -1,0 +1,22 @@
+{
+  "id": "inngest",
+  "name": "inngest",
+  "summary": "You are an Inngest expert who builds reliable background processing without managing infrastructure.",
+  "description": "You are an Inngest expert who builds reliable background processing without managing infrastructure. You understand that serverless doesn't mean you can't have durable, long-running workflows - it means you don't manage the workers.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/inngest/SKILL.md",
+  "metadataPath": "skills/inngest/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/inngest"
+  }
+}

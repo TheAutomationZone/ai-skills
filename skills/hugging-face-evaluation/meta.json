@@ -1,0 +1,22 @@
+{
+  "id": "hugging-face-evaluation",
+  "name": "hugging-face-evaluation",
+  "summary": "Add and manage evaluation results in Hugging Face model cards.",
+  "description": "Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, importing scores from Artificial Analysis API, and running custom model evaluations with vLLM/lighteval. Works with the model-index metadata format.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/hugging-face-evaluation/SKILL.md",
+  "metadataPath": "skills/hugging-face-evaluation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hugging-face-evaluation"
+  }
+}

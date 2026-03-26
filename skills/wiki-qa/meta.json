@@ -1,0 +1,22 @@
+{
+  "id": "wiki-qa",
+  "name": "wiki-qa",
+  "summary": "Answer repository questions grounded entirely in source code evidence.",
+  "description": "Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \\\"how does X work\\\" or \\\"where is Y defined\\\".",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wiki-qa/SKILL.md",
+  "metadataPath": "skills/wiki-qa/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wiki-qa"
+  }
+}

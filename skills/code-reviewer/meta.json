@@ -1,0 +1,22 @@
+{
+  "id": "code-reviewer",
+  "name": "code-reviewer",
+  "summary": "Elite code review expert specializing in modern AI-powered code",
+  "description": "Elite code review expert specializing in modern AI-powered code",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/code-reviewer/SKILL.md",
+  "metadataPath": "skills/code-reviewer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/code-reviewer"
+  }
+}

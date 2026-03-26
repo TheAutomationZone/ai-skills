@@ -1,0 +1,22 @@
+{
+  "id": "ai-ml",
+  "name": "ai-ml",
+  "summary": "AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features.",
+  "description": "AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features.",
+  "category": "workflow-bundle",
+  "tags": [
+    "workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ai-ml/SKILL.md",
+  "metadataPath": "skills/ai-ml/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ai-ml"
+  }
+}

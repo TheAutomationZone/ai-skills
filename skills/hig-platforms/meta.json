@@ -1,0 +1,22 @@
+{
+  "id": "hig-platforms",
+  "name": "hig-platforms",
+  "summary": "Apple Human Interface Guidelines for platform-specific design.",
+  "description": "Apple Human Interface Guidelines for platform-specific design.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-platforms/SKILL.md",
+  "metadataPath": "skills/hig-platforms/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-platforms"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tailwind-patterns",
+  "name": "tailwind-patterns",
+  "summary": "Tailwind CSS v4 principles.",
+  "description": "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture.",
+  "category": "frontend",
+  "tags": [
+    "frontend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tailwind-patterns/SKILL.md",
+  "metadataPath": "skills/tailwind-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tailwind-patterns"
+  }
+}

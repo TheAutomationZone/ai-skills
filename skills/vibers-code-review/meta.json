@@ -1,0 +1,22 @@
+{
+  "id": "vibers-code-review",
+  "name": "vibers-code-review",
+  "summary": "Human review workflow for AI-generated GitHub projects with spec-based feedback, security review, and follow-up PRs from the Vibers service.",
+  "description": "Human review workflow for AI-generated GitHub projects with spec-based feedback, security review, and follow-up PRs from the Vibers service.",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "critical",
+    "https://github.com/marsiandeployer/vibers-action"
+  ],
+  "risk": "critical",
+  "source": "https://github.com/marsiandeployer/vibers-action",
+  "addedAt": "2026-03-17",
+  "version": "1.0.0",
+  "contentPath": "skills/vibers-code-review/SKILL.md",
+  "metadataPath": "skills/vibers-code-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vibers-code-review"
+  }
+}

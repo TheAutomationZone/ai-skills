@@ -1,0 +1,22 @@
+{
+  "id": "family-health-analyzer",
+  "name": "family-health-analyzer",
+  "summary": "分析家族病史、评估遗传风险、识别家庭健康模式、提供个性化预防建议",
+  "description": "分析家族病史、评估遗传风险、识别家庭健康模式、提供个性化预防建议",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/family-health-analyzer/SKILL.md",
+  "metadataPath": "skills/family-health-analyzer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/family-health-analyzer"
+  }
+}

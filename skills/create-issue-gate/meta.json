@@ -1,0 +1,22 @@
+{
+  "id": "create-issue-gate",
+  "name": "create-issue-gate",
+  "summary": "Use when starting a new implementation task and an issue must be created with strict acceptance criteria gating before execution.",
+  "description": "Use when starting a new implementation task and an issue must be created with strict acceptance criteria gating before execution.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-12",
+  "version": "1.0.0",
+  "contentPath": "skills/create-issue-gate/SKILL.md",
+  "metadataPath": "skills/create-issue-gate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/create-issue-gate"
+  }
+}

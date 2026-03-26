@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-vision-imageanalysis-py",
+  "name": "azure-ai-vision-imageanalysis-py",
+  "summary": "Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping.",
+  "description": "Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping. Use for computer vision and image understanding tasks.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-vision-imageanalysis-py/SKILL.md",
+  "metadataPath": "skills/azure-ai-vision-imageanalysis-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-vision-imageanalysis-py"
+  }
+}

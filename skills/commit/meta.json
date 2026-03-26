@@ -1,0 +1,22 @@
+{
+  "id": "commit",
+  "name": "commit",
+  "summary": "ALWAYS use this skill when committing code changes — never commit directly without it.",
+  "description": "ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trigger on any commit, git commit, save changes, or commit message task.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/commit/SKILL.md",
+  "metadataPath": "skills/commit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/commit"
+  }
+}

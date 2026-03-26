@@ -1,0 +1,22 @@
+{
+  "id": "data-scientist",
+  "name": "data-scientist",
+  "summary": "Expert data scientist for advanced analytics, machine learning, and statistical modeling.",
+  "description": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.",
+  "category": "data-science",
+  "tags": [
+    "data-science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/data-scientist/SKILL.md",
+  "metadataPath": "skills/data-scientist/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/data-scientist"
+  }
+}

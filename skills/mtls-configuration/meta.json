@@ -1,0 +1,22 @@
+{
+  "id": "mtls-configuration",
+  "name": "mtls-configuration",
+  "summary": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication.",
+  "description": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mtls-configuration/SKILL.md",
+  "metadataPath": "skills/mtls-configuration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mtls-configuration"
+  }
+}

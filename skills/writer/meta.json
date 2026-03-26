@@ -1,0 +1,23 @@
+{
+  "id": "writer",
+  "name": "writer",
+  "summary": "Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer.",
+  "description": "Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer.",
+  "category": "document-processing",
+  "tags": [
+    "document-processing",
+    "safe",
+    "personal",
+    "libreoffice"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/writer/SKILL.md",
+  "metadataPath": "skills/writer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/libreoffice/writer"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "expo-deployment",
+  "name": "expo-deployment",
+  "summary": "Deploy Expo apps to production",
+  "description": "Deploy Expo apps to production",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "safe",
+    "https://github.com/expo/skills/tree/main/plugins/expo-deployment"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/expo/skills/tree/main/plugins/expo-deployment",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/expo-deployment/SKILL.md",
+  "metadataPath": "skills/expo-deployment/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/expo-deployment"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "simplify-code",
+  "name": "simplify-code",
+  "summary": "Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes.",
+  "description": "Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/simplify-code/SKILL.md",
+  "metadataPath": "skills/simplify-code/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/simplify-code"
+  }
+}

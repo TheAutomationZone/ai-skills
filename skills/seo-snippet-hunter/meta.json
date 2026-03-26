@@ -1,0 +1,22 @@
+{
+  "id": "seo-snippet-hunter",
+  "name": "seo-snippet-hunter",
+  "summary": "Formats content to be eligible for featured snippets and SERP features.",
+  "description": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-snippet-hunter/SKILL.md",
+  "metadataPath": "skills/seo-snippet-hunter/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-snippet-hunter"
+  }
+}

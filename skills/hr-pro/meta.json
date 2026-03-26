@@ -1,0 +1,22 @@
+{
+  "id": "hr-pro",
+  "name": "hr-pro",
+  "summary": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.",
+  "description": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hr-pro/SKILL.md",
+  "metadataPath": "skills/hr-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hr-pro"
+  }
+}

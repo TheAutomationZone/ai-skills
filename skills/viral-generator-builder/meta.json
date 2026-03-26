@@ -1,0 +1,22 @@
+{
+  "id": "viral-generator-builder",
+  "name": "viral-generator-builder",
+  "summary": "You understand why people share things.",
+  "description": "You understand why people share things. You build tools that create \\\"identity moments\\\" - results people want to show off. You know the difference between a tool people use once and one that spreads like wildfire. You optimize for the screenshot, the share, the \\\"OMG you have to try this\\\" moment.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/viral-generator-builder/SKILL.md",
+  "metadataPath": "skills/viral-generator-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/viral-generator-builder"
+  }
+}

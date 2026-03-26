@@ -1,0 +1,22 @@
+{
+  "id": "wireshark-analysis",
+  "name": "wireshark-analysis",
+  "summary": "Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and trouble...",
+  "description": "Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and troubleshooting.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wireshark-analysis/SKILL.md",
+  "metadataPath": "skills/wireshark-analysis/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wireshark-analysis"
+  }
+}

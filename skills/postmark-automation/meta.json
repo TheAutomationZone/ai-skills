@@ -1,0 +1,22 @@
+{
+  "id": "postmark-automation",
+  "name": "postmark-automation",
+  "summary": "Automate Postmark email delivery tasks via Rube MCP (Composio): send templated emails, manage templates, monitor delivery stats and bounces.",
+  "description": "Automate Postmark email delivery tasks via Rube MCP (Composio): send templated emails, manage templates, monitor delivery stats and bounces. Always search tools first for current schemas.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/postmark-automation/SKILL.md",
+  "metadataPath": "skills/postmark-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/postmark-automation"
+  }
+}

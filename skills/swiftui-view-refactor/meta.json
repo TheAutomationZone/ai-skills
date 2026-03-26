@@ -1,0 +1,22 @@
+{
+  "id": "swiftui-view-refactor",
+  "name": "swiftui-view-refactor",
+  "summary": "Refactor SwiftUI views into smaller components with stable, explicit data flow.",
+  "description": "Refactor SwiftUI views into smaller components with stable, explicit data flow.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/swiftui-view-refactor/SKILL.md",
+  "metadataPath": "skills/swiftui-view-refactor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/swiftui-view-refactor"
+  }
+}

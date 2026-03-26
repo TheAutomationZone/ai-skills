@@ -1,0 +1,22 @@
+{
+  "id": "context7-auto-research",
+  "name": "context7-auto-research",
+  "summary": "Automatically fetch latest library/framework documentation for Claude Code via Context7 API.",
+  "description": "Automatically fetch latest library/framework documentation for Claude Code via Context7 API. Use when you need up-to-date documentation for libraries and frameworks or asking about React, Next.js, Prisma, or any other popular library.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/context7-auto-research/SKILL.md",
+  "metadataPath": "skills/context7-auto-research/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context7-auto-research"
+  }
+}

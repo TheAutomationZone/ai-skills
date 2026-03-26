@@ -1,0 +1,22 @@
+{
+  "id": "churn-prevention",
+  "name": "churn-prevention",
+  "summary": "Reduce voluntary and involuntary churn with cancel flows, save offers, dunning, win-back tactics, and retention strategy.",
+  "description": "Reduce voluntary and involuntary churn with cancel flows, save offers, dunning, win-back tactics, and retention strategy. Use when users are cancelling, failed payments are rising, or subscription retention needs improvement.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/churn-prevention/SKILL.md",
+  "metadataPath": "skills/churn-prevention/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/churn-prevention"
+  }
+}

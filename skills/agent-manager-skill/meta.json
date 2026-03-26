@@ -1,0 +1,22 @@
+{
+  "id": "agent-manager-skill",
+  "name": "agent-manager-skill",
+  "summary": "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling.",
+  "description": "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling.",
+  "category": "ai-agents",
+  "tags": [
+    "ai-agents",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-manager-skill/SKILL.md",
+  "metadataPath": "skills/agent-manager-skill/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-manager-skill"
+  }
+}

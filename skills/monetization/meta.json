@@ -1,0 +1,27 @@
+{
+  "id": "monetization",
+  "name": "monetization",
+  "summary": "Estrategia e implementacao de monetizacao para produtos digitais - Stripe, subscriptions, pricing experiments, freemium, upgrade flows, churn prevention, revenue optimization e...",
+  "description": "Estrategia e implementacao de monetizacao para produtos digitais - Stripe, subscriptions, pricing experiments, freemium, upgrade flows, churn prevention, revenue optimization e modelos de negocio SaaS.",
+  "category": "business",
+  "tags": [
+    "monetization",
+    "stripe",
+    "saas",
+    "pricing",
+    "subscriptions",
+    "business",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/monetization/SKILL.md",
+  "metadataPath": "skills/monetization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/monetization"
+  }
+}

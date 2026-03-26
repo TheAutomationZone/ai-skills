@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-teams-automation",
+  "name": "microsoft-teams-automation",
+  "summary": "Automate Microsoft Teams tasks via Rube MCP (Composio): send messages, manage channels, create meetings, handle chats, and search messages.",
+  "description": "Automate Microsoft Teams tasks via Rube MCP (Composio): send messages, manage channels, create meetings, handle chats, and search messages. Always search tools first for current schemas.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/microsoft-teams-automation/SKILL.md",
+  "metadataPath": "skills/microsoft-teams-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/microsoft-teams-automation"
+  }
+}

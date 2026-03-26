@@ -1,0 +1,22 @@
+{
+  "id": "fal-upscale",
+  "name": "fal-upscale",
+  "summary": "Upscale and enhance image and video resolution using AI",
+  "description": "Upscale and enhance image and video resolution using AI",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/skill.md"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fal-upscale/SKILL.md",
+  "metadataPath": "skills/fal-upscale/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fal-upscale"
+  }
+}

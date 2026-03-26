@@ -1,0 +1,22 @@
+{
+  "id": "fal-generate",
+  "name": "fal-generate",
+  "summary": "Generate images and videos using fal.ai AI models",
+  "description": "Generate images and videos using fal.ai AI models",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-generate/skill.md"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-generate/SKILL.md",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fal-generate/SKILL.md",
+  "metadataPath": "skills/fal-generate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fal-generate"
+  }
+}

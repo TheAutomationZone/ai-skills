@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-projects-ts",
+  "name": "azure-ai-projects-ts",
+  "summary": "High-level SDK for Azure AI Foundry projects with agents, connections, deployments, and evaluations.",
+  "description": "High-level SDK for Azure AI Foundry projects with agents, connections, deployments, and evaluations.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-projects-ts/SKILL.md",
+  "metadataPath": "skills/azure-ai-projects-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-projects-ts"
+  }
+}

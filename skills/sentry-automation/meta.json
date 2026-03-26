@@ -1,0 +1,22 @@
+{
+  "id": "sentry-automation",
+  "name": "sentry-automation",
+  "summary": "Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams.",
+  "description": "Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams. Always search tools first for current schemas.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/sentry-automation/SKILL.md",
+  "metadataPath": "skills/sentry-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sentry-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "postgresql-optimization",
+  "name": "postgresql-optimization",
+  "summary": "PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management.",
+  "description": "PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/postgresql-optimization/SKILL.md",
+  "metadataPath": "skills/postgresql-optimization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/postgresql-optimization"
+  }
+}

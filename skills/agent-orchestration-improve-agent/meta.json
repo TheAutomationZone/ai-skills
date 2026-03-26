@@ -1,0 +1,22 @@
+{
+  "id": "agent-orchestration-improve-agent",
+  "name": "agent-orchestration-improve-agent",
+  "summary": "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration.",
+  "description": "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-orchestration-improve-agent/SKILL.md",
+  "metadataPath": "skills/agent-orchestration-improve-agent/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-orchestration-improve-agent"
+  }
+}

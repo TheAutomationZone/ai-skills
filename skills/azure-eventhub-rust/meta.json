@@ -1,0 +1,22 @@
+{
+  "id": "azure-eventhub-rust",
+  "name": "azure-eventhub-rust",
+  "summary": "Azure Event Hubs SDK for Rust.",
+  "description": "Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-eventhub-rust/SKILL.md",
+  "metadataPath": "skills/azure-eventhub-rust/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-eventhub-rust"
+  }
+}

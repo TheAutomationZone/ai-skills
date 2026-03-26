@@ -1,0 +1,22 @@
+{
+  "id": "nodejs-backend-patterns",
+  "name": "nodejs-backend-patterns",
+  "summary": "Comprehensive guidance for building scalable, maintainable, and production-ready Node.js backend applications with modern frameworks, architectural patterns, and best practices.",
+  "description": "Comprehensive guidance for building scalable, maintainable, and production-ready Node.js backend applications with modern frameworks, architectural patterns, and best practices.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nodejs-backend-patterns/SKILL.md",
+  "metadataPath": "skills/nodejs-backend-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nodejs-backend-patterns"
+  }
+}

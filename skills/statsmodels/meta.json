@@ -1,0 +1,22 @@
+{
+  "id": "statsmodels",
+  "name": "statsmodels",
+  "summary": "Statsmodels is Python's premier library for statistical modeling, providing tools for estimation, inference, and diagnostics across a wide range of statistical methods.",
+  "description": "Statsmodels is Python's premier library for statistical modeling, providing tools for estimation, inference, and diagnostics across a wide range of statistical methods.",
+  "category": "science",
+  "tags": [
+    "science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/statsmodels/SKILL.md",
+  "metadataPath": "skills/statsmodels/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/statsmodels"
+  }
+}

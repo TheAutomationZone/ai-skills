@@ -1,0 +1,22 @@
+{
+  "id": "go-concurrency-patterns",
+  "name": "go-concurrency-patterns",
+  "summary": "Master Go concurrency with goroutines, channels, sync primitives, and context.",
+  "description": "Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applications, implementing worker pools, or debugging race conditions.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/go-concurrency-patterns/SKILL.md",
+  "metadataPath": "skills/go-concurrency-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/go-concurrency-patterns"
+  }
+}

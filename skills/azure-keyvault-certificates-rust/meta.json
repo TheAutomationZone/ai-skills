@@ -1,0 +1,22 @@
+{
+  "id": "azure-keyvault-certificates-rust",
+  "name": "azure-keyvault-certificates-rust",
+  "summary": "Azure Key Vault Certificates SDK for Rust.",
+  "description": "Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-keyvault-certificates-rust/SKILL.md",
+  "metadataPath": "skills/azure-keyvault-certificates-rust/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-keyvault-certificates-rust"
+  }
+}

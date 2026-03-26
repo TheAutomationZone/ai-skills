@@ -1,0 +1,22 @@
+{
+  "id": "react-state-management",
+  "name": "react-state-management",
+  "summary": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query.",
+  "description": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-state-management/SKILL.md",
+  "metadataPath": "skills/react-state-management/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-state-management"
+  }
+}

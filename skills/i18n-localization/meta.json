@@ -1,0 +1,22 @@
+{
+  "id": "i18n-localization",
+  "name": "i18n-localization",
+  "summary": "Internationalization and localization patterns.",
+  "description": "Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/i18n-localization/SKILL.md",
+  "metadataPath": "skills/i18n-localization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/i18n-localization"
+  }
+}

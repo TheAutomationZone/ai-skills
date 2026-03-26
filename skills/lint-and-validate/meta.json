@@ -1,0 +1,22 @@
+{
+  "id": "lint-and-validate",
+  "name": "lint-and-validate",
+  "summary": "MANDATORY: Run appropriate validation tools after EVERY code change.",
+  "description": "MANDATORY: Run appropriate validation tools after EVERY code change. Do not finish a task until the code is error-free.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/lint-and-validate/SKILL.md",
+  "metadataPath": "skills/lint-and-validate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/lint-and-validate"
+  }
+}

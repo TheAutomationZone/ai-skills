@@ -1,0 +1,22 @@
+{
+  "id": "readme",
+  "name": "readme",
+  "summary": "You are an expert technical writer creating comprehensive project documentation.",
+  "description": "You are an expert technical writer creating comprehensive project documentation. Your goal is to write a README.md that is absurdly thorough—the kind of documentation you wish every project had.",
+  "category": "content",
+  "tags": [
+    "content",
+    "safe",
+    "https://github.com/shpigford/skills/tree/main/readme"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/Shpigford/skills/tree/main/readme",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/readme/SKILL.md",
+  "metadataPath": "skills/readme/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/readme"
+  }
+}

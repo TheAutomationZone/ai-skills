@@ -1,0 +1,22 @@
+{
+  "id": "snowflake-development",
+  "name": "snowflake-development",
+  "summary": "Comprehensive Snowflake development assistant covering SQL best practices, data pipeline design (Dynamic Tables, Streams, Tasks, Snowpipe), Cortex AI functions, Cortex Agents, S...",
+  "description": "Comprehensive Snowflake development assistant covering SQL best practices, data pipeline design (Dynamic Tables, Streams, Tasks, Snowpipe), Cortex AI functions, Cortex Agents, Snowpark Python, dbt integration, performance tuning, and security hardening.",
+  "category": "data-engineering",
+  "tags": [
+    "data-engineering",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-24",
+  "version": "1.0.0",
+  "contentPath": "skills/snowflake-development/SKILL.md",
+  "metadataPath": "skills/snowflake-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/snowflake-development"
+  }
+}

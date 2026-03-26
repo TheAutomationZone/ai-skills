@@ -1,0 +1,22 @@
+{
+  "id": "error-diagnostics-smart-debug",
+  "name": "error-diagnostics-smart-debug",
+  "summary": "Use when working with error diagnostics smart debug",
+  "description": "Use when working with error diagnostics smart debug",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/error-diagnostics-smart-debug/SKILL.md",
+  "metadataPath": "skills/error-diagnostics-smart-debug/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/error-diagnostics-smart-debug"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "deployment-pipeline-design",
+  "name": "deployment-pipeline-design",
+  "summary": "Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies.",
+  "description": "Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/deployment-pipeline-design/SKILL.md",
+  "metadataPath": "skills/deployment-pipeline-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/deployment-pipeline-design"
+  }
+}

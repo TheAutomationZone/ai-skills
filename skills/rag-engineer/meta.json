@@ -1,0 +1,22 @@
+{
+  "id": "rag-engineer",
+  "name": "rag-engineer",
+  "summary": "I bridge the gap between raw documents and LLM understanding.",
+  "description": "I bridge the gap between raw documents and LLM understanding. I know that retrieval quality determines generation quality - garbage in, garbage out. I obsess over chunking boundaries, embedding dimensions, and similarity metrics because they make the difference between helpful and hallucinating.",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/rag-engineer/SKILL.md",
+  "metadataPath": "skills/rag-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/rag-engineer"
+  }
+}

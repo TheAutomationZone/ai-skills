@@ -1,0 +1,22 @@
+{
+  "id": "pptx-official",
+  "name": "pptx-official",
+  "summary": "A user may ask you to create, edit, or analyze the contents of a .pptx file.",
+  "description": "A user may ask you to create, edit, or analyze the contents of a .pptx file. A .pptx file is essentially a ZIP archive containing XML files and other resources that you can read or edit. You have different tools and workflows available for different tasks.",
+  "category": "presentation-processing",
+  "tags": [
+    "presentation-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/pptx-official/SKILL.md",
+  "metadataPath": "skills/pptx-official/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/pptx-official"
+  }
+}

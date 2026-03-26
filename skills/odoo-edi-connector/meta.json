@@ -1,0 +1,22 @@
+{
+  "id": "odoo-edi-connector",
+  "name": "odoo-edi-connector",
+  "summary": "Guide for implementing EDI (Electronic Data Interchange) with Odoo: X12, EDIFACT document mapping, partner onboarding, and automated order processing.",
+  "description": "Guide for implementing EDI (Electronic Data Interchange) with Odoo: X12, EDIFACT document mapping, partner onboarding, and automated order processing.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-edi-connector/SKILL.md",
+  "metadataPath": "skills/odoo-edi-connector/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-edi-connector"
+  }
+}

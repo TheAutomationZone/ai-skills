@@ -1,0 +1,22 @@
+{
+  "id": "mixpanel-automation",
+  "name": "mixpanel-automation",
+  "summary": "Automate Mixpanel tasks via Rube MCP (Composio): events, segmentation, funnels, cohorts, user profiles, JQL queries.",
+  "description": "Automate Mixpanel tasks via Rube MCP (Composio): events, segmentation, funnels, cohorts, user profiles, JQL queries. Always search tools first for current schemas.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mixpanel-automation/SKILL.md",
+  "metadataPath": "skills/mixpanel-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mixpanel-automation"
+  }
+}

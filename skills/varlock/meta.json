@@ -1,0 +1,22 @@
+{
+  "id": "varlock",
+  "name": "varlock",
+  "summary": "Secure-by-default environment variable management for Claude Code sessions.",
+  "description": "Secure-by-default environment variable management for Claude Code sessions.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "https://github.com/dmno-dev/varlock"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/dmno-dev/varlock",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/varlock/SKILL.md",
+  "metadataPath": "skills/varlock/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/varlock"
+  }
+}

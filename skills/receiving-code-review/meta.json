@@ -1,0 +1,22 @@
+{
+  "id": "receiving-code-review",
+  "name": "receiving-code-review",
+  "summary": "Code review requires technical evaluation, not emotional performance.",
+  "description": "Code review requires technical evaluation, not emotional performance.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/receiving-code-review/SKILL.md",
+  "metadataPath": "skills/receiving-code-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/receiving-code-review"
+  }
+}

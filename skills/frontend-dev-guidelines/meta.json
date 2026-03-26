@@ -1,0 +1,22 @@
+{
+  "id": "frontend-dev-guidelines",
+  "name": "frontend-dev-guidelines",
+  "summary": "You are a senior frontend engineer operating under strict architectural and performance standards.",
+  "description": "You are a senior frontend engineer operating under strict architectural and performance standards. Use when creating components or pages, adding new features, or fetching or mutating data.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-dev-guidelines/SKILL.md",
+  "metadataPath": "skills/frontend-dev-guidelines/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-dev-guidelines"
+  }
+}

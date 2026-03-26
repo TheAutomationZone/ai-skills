@@ -1,0 +1,22 @@
+{
+  "id": "datadog-automation",
+  "name": "datadog-automation",
+  "summary": "Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, manage monitors/dashboards, create events and downtimes.",
+  "description": "Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, manage monitors/dashboards, create events and downtimes. Always search tools first for current schemas.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/datadog-automation/SKILL.md",
+  "metadataPath": "skills/datadog-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/datadog-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "revops",
+  "name": "revops",
+  "summary": "Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation.",
+  "description": "Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation. Use when marketing, sales, and customer success workflows need clearer operational structure.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/revops/SKILL.md",
+  "metadataPath": "skills/revops/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/revops"
+  }
+}

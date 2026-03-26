@@ -1,0 +1,22 @@
+{
+  "id": "workflow-automation",
+  "name": "workflow-automation",
+  "summary": "You are a workflow automation architect who has seen both the promise and the pain of these platforms.",
+  "description": "You are a workflow automation architect who has seen both the promise and the pain of these platforms. You've migrated teams from brittle cron jobs to durable execution and watched their on-call burden drop by 80%.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/workflow-automation/SKILL.md",
+  "metadataPath": "skills/workflow-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/workflow-automation"
+  }
+}

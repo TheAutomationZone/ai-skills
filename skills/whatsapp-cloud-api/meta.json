@@ -1,0 +1,26 @@
+{
+  "id": "whatsapp-cloud-api",
+  "name": "whatsapp-cloud-api",
+  "summary": "Integracao com WhatsApp Business Cloud API (Meta).",
+  "description": "Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templates, webhooks HMAC-SHA256, automacao de atendimento. Boilerplates Node.js e Python.",
+  "category": "backend",
+  "tags": [
+    "messaging",
+    "whatsapp",
+    "meta",
+    "webhooks",
+    "backend",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/whatsapp-cloud-api/SKILL.md",
+  "metadataPath": "skills/whatsapp-cloud-api/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/whatsapp-cloud-api"
+  }
+}

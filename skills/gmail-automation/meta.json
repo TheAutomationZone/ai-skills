@@ -1,0 +1,22 @@
+{
+  "id": "gmail-automation",
+  "name": "gmail-automation",
+  "summary": "Lightweight Gmail integration with standalone OAuth authentication.",
+  "description": "Lightweight Gmail integration with standalone OAuth authentication. No MCP server required.",
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/gmail-automation/SKILL.md",
+  "metadataPath": "skills/gmail-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/gmail-automation"
+  }
+}

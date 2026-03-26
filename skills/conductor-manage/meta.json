@@ -1,0 +1,22 @@
+{
+  "id": "conductor-manage",
+  "name": "conductor-manage",
+  "summary": "Manage track lifecycle: archive, restore, delete, rename, and cleanup",
+  "description": "Manage track lifecycle: archive, restore, delete, rename, and cleanup",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/conductor-manage/SKILL.md",
+  "metadataPath": "skills/conductor-manage/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/conductor-manage"
+  }
+}

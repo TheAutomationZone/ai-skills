@@ -1,0 +1,22 @@
+{
+  "id": "airtable-automation",
+  "name": "airtable-automation",
+  "summary": "Automate Airtable tasks via Rube MCP (Composio): records, bases, tables, fields, views.",
+  "description": "Automate Airtable tasks via Rube MCP (Composio): records, bases, tables, fields, views. Always search tools first for current schemas.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/airtable-automation/SKILL.md",
+  "metadataPath": "skills/airtable-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/airtable-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "startup-business-analyst-market-opportunity",
+  "name": "startup-business-analyst-market-opportunity",
+  "summary": "'Generate comprehensive market opportunity analysis with TAM/SAM/SOM",
+  "description": "'Generate comprehensive market opportunity analysis with TAM/SAM/SOM",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/startup-business-analyst-market-opportunity/SKILL.md",
+  "metadataPath": "skills/startup-business-analyst-market-opportunity/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/startup-business-analyst-market-opportunity"
+  }
+}

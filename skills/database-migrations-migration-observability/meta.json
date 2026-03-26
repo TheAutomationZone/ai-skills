@@ -1,0 +1,29 @@
+{
+  "id": "database-migrations-migration-observability",
+  "name": "database-migrations-migration-observability",
+  "summary": "Migration monitoring, CDC, and observability infrastructure",
+  "description": "Migration monitoring, CDC, and observability infrastructure",
+  "category": "database",
+  "tags": [
+    "\"database",
+    "cdc",
+    "debezium",
+    "kafka",
+    "prometheus",
+    "grafana",
+    "monitoring\"",
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/database-migrations-migration-observability/SKILL.md",
+  "metadataPath": "skills/database-migrations-migration-observability/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/database-migrations-migration-observability"
+  }
+}

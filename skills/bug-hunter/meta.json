@@ -1,0 +1,22 @@
+{
+  "id": "bug-hunter",
+  "name": "bug-hunter",
+  "summary": "Systematically finds and fixes bugs using proven debugging techniques.",
+  "description": "Systematically finds and fixes bugs using proven debugging techniques. Traces from symptoms to root cause, implements fixes, and prevents regression.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-05",
+  "version": "1.0.0",
+  "contentPath": "skills/bug-hunter/SKILL.md",
+  "metadataPath": "skills/bug-hunter/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bug-hunter"
+  }
+}

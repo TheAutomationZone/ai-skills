@@ -1,0 +1,22 @@
+{
+  "id": "service-mesh-expert",
+  "name": "service-mesh-expert",
+  "summary": "Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns.",
+  "description": "Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh con",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/service-mesh-expert/SKILL.md",
+  "metadataPath": "skills/service-mesh-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/service-mesh-expert"
+  }
+}

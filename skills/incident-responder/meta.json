@@ -1,0 +1,22 @@
+{
+  "id": "incident-responder",
+  "name": "incident-responder",
+  "summary": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.",
+  "description": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/incident-responder/SKILL.md",
+  "metadataPath": "skills/incident-responder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/incident-responder"
+  }
+}

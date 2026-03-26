@@ -1,0 +1,22 @@
+{
+  "id": "api-fuzzing-bug-bounty",
+  "name": "api-fuzzing-bug-bounty",
+  "summary": "Provide comprehensive techniques for testing REST, SOAP, and GraphQL APIs during bug bounty hunting and penetration testing engagements.",
+  "description": "Provide comprehensive techniques for testing REST, SOAP, and GraphQL APIs during bug bounty hunting and penetration testing engagements. Covers vulnerability discovery, authentication bypass, IDOR exploitation, and API-specific attack vectors.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/api-fuzzing-bug-bounty/SKILL.md",
+  "metadataPath": "skills/api-fuzzing-bug-bounty/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-fuzzing-bug-bounty"
+  }
+}

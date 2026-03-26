@@ -1,0 +1,26 @@
+{
+  "id": "leiloeiro-edital",
+  "name": "leiloeiro-edital",
+  "summary": "Analise e auditoria de editais de leilao judicial e extrajudicial.",
+  "description": "Analise e auditoria de editais de leilao judicial e extrajudicial. Riscos ocultos, clausulas perigosas, debitos, ocupante e classificacao da oportunidade.",
+  "category": "leiloeiro",
+  "tags": [
+    "auction",
+    "legal-analysis",
+    "risk",
+    "brazilian",
+    "leiloeiro",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/leiloeiro-edital/SKILL.md",
+  "metadataPath": "skills/leiloeiro-edital/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/leiloeiro-edital"
+  }
+}

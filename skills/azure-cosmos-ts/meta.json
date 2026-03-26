@@ -1,0 +1,22 @@
+{
+  "id": "azure-cosmos-ts",
+  "name": "azure-cosmos-ts",
+  "summary": "Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data plane operations.",
+  "description": "Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data plane operations. Use for CRUD operations on documents, queries, bulk operations, and container management.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-cosmos-ts/SKILL.md",
+  "metadataPath": "skills/azure-cosmos-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-cosmos-ts"
+  }
+}

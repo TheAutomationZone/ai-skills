@@ -1,0 +1,22 @@
+{
+  "id": "native-data-fetching",
+  "name": "native-data-fetching",
+  "summary": "Use when implementing or debugging ANY network request, API call, or data fetching.",
+  "description": "Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (useLoaderData).",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/native-data-fetching/SKILL.md",
+  "metadataPath": "skills/native-data-fetching/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/native-data-fetching"
+  }
+}

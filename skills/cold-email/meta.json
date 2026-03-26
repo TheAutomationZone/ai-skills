@@ -1,0 +1,22 @@
+{
+  "id": "cold-email",
+  "name": "cold-email",
+  "summary": "Write B2B cold emails and follow-up sequences that earn replies.",
+  "description": "Write B2B cold emails and follow-up sequences that earn replies. Use when creating outbound prospecting emails, SDR outreach, personalized opening lines, subject lines, CTAs, and multi-touch follow-up sequences.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/cold-email/SKILL.md",
+  "metadataPath": "skills/cold-email/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cold-email"
+  }
+}

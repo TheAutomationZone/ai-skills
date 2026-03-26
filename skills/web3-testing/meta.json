@@ -1,0 +1,22 @@
+{
+  "id": "web3-testing",
+  "name": "web3-testing",
+  "summary": "Master comprehensive testing strategies for smart contracts using Hardhat, Foundry, and advanced testing patterns.",
+  "description": "Master comprehensive testing strategies for smart contracts using Hardhat, Foundry, and advanced testing patterns.",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/web3-testing/SKILL.md",
+  "metadataPath": "skills/web3-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/web3-testing"
+  }
+}

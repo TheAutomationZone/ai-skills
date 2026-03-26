@@ -1,0 +1,22 @@
+{
+  "id": "odoo-docker-deployment",
+  "name": "odoo-docker-deployment",
+  "summary": "Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy.",
+  "description": "Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-docker-deployment/SKILL.md",
+  "metadataPath": "skills/odoo-docker-deployment/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-docker-deployment"
+  }
+}

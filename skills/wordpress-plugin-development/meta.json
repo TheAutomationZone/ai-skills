@@ -1,0 +1,22 @@
+{
+  "id": "wordpress-plugin-development",
+  "name": "wordpress-plugin-development",
+  "summary": "WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, security best practices, and WordPress 7.0 features: Real-Time Collaborati...",
+  "description": "WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, security best practices, and WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wordpress-plugin-development/SKILL.md",
+  "metadataPath": "skills/wordpress-plugin-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wordpress-plugin-development"
+  }
+}

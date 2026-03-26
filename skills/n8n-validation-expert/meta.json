@@ -1,0 +1,22 @@
+{
+  "id": "n8n-validation-expert",
+  "name": "n8n-validation-expert",
+  "summary": "Expert guide for interpreting and fixing n8n validation errors.",
+  "description": "Expert guide for interpreting and fixing n8n validation errors.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/n8n-validation-expert/SKILL.md",
+  "metadataPath": "skills/n8n-validation-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/n8n-validation-expert"
+  }
+}

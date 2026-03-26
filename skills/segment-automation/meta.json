@@ -1,0 +1,22 @@
+{
+  "id": "segment-automation",
+  "name": "segment-automation",
+  "summary": "Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations.",
+  "description": "Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations. Always search tools first for current schemas.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/segment-automation/SKILL.md",
+  "metadataPath": "skills/segment-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/segment-automation"
+  }
+}

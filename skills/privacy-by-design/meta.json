@@ -1,0 +1,22 @@
+{
+  "id": "privacy-by-design",
+  "name": "privacy-by-design",
+  "summary": "Use when building apps that collect user data.",
+  "description": "Use when building apps that collect user data. Ensures privacy protections are built in from the start—data minimization, consent, encryption.",
+  "category": "security",
+  "tags": [
+    "security",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-23",
+  "version": "1.0.0",
+  "contentPath": "skills/privacy-by-design/SKILL.md",
+  "metadataPath": "skills/privacy-by-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/privacy-by-design"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "daily-news-report",
+  "name": "daily-news-report",
+  "summary": "Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports.",
+  "description": "Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/daily-news-report/SKILL.md",
+  "metadataPath": "skills/daily-news-report/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/daily-news-report"
+  }
+}

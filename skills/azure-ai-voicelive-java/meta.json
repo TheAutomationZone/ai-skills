@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-voicelive-java",
+  "name": "azure-ai-voicelive-java",
+  "summary": "Azure AI VoiceLive SDK for Java.",
+  "description": "Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-voicelive-java/SKILL.md",
+  "metadataPath": "skills/azure-ai-voicelive-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-voicelive-java"
+  }
+}

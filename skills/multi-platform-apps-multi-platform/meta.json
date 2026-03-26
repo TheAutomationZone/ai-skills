@@ -1,0 +1,22 @@
+{
+  "id": "multi-platform-apps-multi-platform",
+  "name": "multi-platform-apps-multi-platform",
+  "summary": "Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-first architecture and parallel implementation strategies.",
+  "description": "Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-first architecture and parallel implementation strategies.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/multi-platform-apps-multi-platform/SKILL.md",
+  "metadataPath": "skills/multi-platform-apps-multi-platform/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/multi-platform-apps-multi-platform"
+  }
+}

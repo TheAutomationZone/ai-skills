@@ -1,0 +1,22 @@
+{
+  "id": "api-patterns",
+  "name": "api-patterns",
+  "summary": "API design principles and decision-making.",
+  "description": "API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/api-patterns/SKILL.md",
+  "metadataPath": "skills/api-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-patterns"
+  }
+}

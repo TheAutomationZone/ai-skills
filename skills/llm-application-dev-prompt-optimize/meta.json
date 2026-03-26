@@ -1,0 +1,22 @@
+{
+  "id": "llm-application-dev-prompt-optimize",
+  "name": "llm-application-dev-prompt-optimize",
+  "summary": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs through advanced techniques including constitutional AI, chain-of-thought reasoning, and mo...",
+  "description": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs through advanced techniques including constitutional AI, chain-of-thought reasoning, and model-specific optimizati",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/llm-application-dev-prompt-optimize/SKILL.md",
+  "metadataPath": "skills/llm-application-dev-prompt-optimize/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/llm-application-dev-prompt-optimize"
+  }
+}

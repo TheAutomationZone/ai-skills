@@ -1,0 +1,22 @@
+{
+  "id": "10-andruia-skill-smith",
+  "name": "10-andruia-skill-smith",
+  "summary": "Ingeniero de Sistemas de Andru.ia.",
+  "description": "Ingeniero de Sistemas de Andru.ia. Diseña, redacta y despliega nuevas habilidades (skills) dentro del repositorio siguiendo el Estándar de Diamante.",
+  "category": "andruia",
+  "tags": [
+    "andruia",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-25",
+  "version": "1.0.0",
+  "contentPath": "skills/10-andruia-skill-smith/SKILL.md",
+  "metadataPath": "skills/10-andruia-skill-smith/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/10-andruia-skill-smith"
+  }
+}

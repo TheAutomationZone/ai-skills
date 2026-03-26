@@ -1,0 +1,22 @@
+{
+  "id": "screen-reader-testing",
+  "name": "screen-reader-testing",
+  "summary": "Practical guide to testing web applications with screen readers for comprehensive accessibility validation.",
+  "description": "Practical guide to testing web applications with screen readers for comprehensive accessibility validation.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/screen-reader-testing/SKILL.md",
+  "metadataPath": "skills/screen-reader-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/screen-reader-testing"
+  }
+}

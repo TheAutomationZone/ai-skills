@@ -1,0 +1,22 @@
+{
+  "id": "reverse-engineer",
+  "name": "reverse-engineer",
+  "summary": "Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis.",
+  "description": "Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis. Masters IDA Pro, Ghidra, radare2, x64dbg, and modern RE toolchains.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/reverse-engineer/SKILL.md",
+  "metadataPath": "skills/reverse-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/reverse-engineer"
+  }
+}

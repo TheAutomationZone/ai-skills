@@ -1,0 +1,22 @@
+{
+  "id": "core-components",
+  "name": "core-components",
+  "summary": "Core component library and design system patterns.",
+  "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/core-components/SKILL.md",
+  "metadataPath": "skills/core-components/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/core-components"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "confluence-automation",
+  "name": "confluence-automation",
+  "summary": "Automate Confluence page creation, content search, space management, labels, and hierarchy navigation via Rube MCP (Composio).",
+  "description": "Automate Confluence page creation, content search, space management, labels, and hierarchy navigation via Rube MCP (Composio). Always search tools first for current schemas.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/confluence-automation/SKILL.md",
+  "metadataPath": "skills/confluence-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/confluence-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "design-orchestration",
+  "name": "design-orchestration",
+  "summary": "Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.",
+  "description": "Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.",
+  "category": "design",
+  "tags": [
+    "design",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/design-orchestration/SKILL.md",
+  "metadataPath": "skills/design-orchestration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/design-orchestration"
+  }
+}

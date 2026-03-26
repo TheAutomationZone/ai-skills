@@ -1,0 +1,22 @@
+{
+  "id": "threejs-geometry",
+  "name": "threejs-geometry",
+  "summary": "Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, instancing.",
+  "description": "Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, instancing. Use when creating 3D shapes, working with vertices, building custom meshes, or optimizing with instanced rendering.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-geometry/SKILL.md",
+  "metadataPath": "skills/threejs-geometry/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-geometry"
+  }
+}

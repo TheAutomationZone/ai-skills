@@ -1,0 +1,22 @@
+{
+  "id": "context-fundamentals",
+  "name": "context-fundamentals",
+  "summary": "Context is the complete state available to a language model at inference time.",
+  "description": "Context is the complete state available to a language model at inference time. It includes everything the model can attend to when generating responses: system instructions, tool definitions, retrieved documents, message history, and tool outputs.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/context-fundamentals/SKILL.md",
+  "metadataPath": "skills/context-fundamentals/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-fundamentals"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "maxia",
+  "name": "maxia",
+  "summary": "Connect to MAXIA AI-to-AI marketplace on Solana.",
+  "description": "Connect to MAXIA AI-to-AI marketplace on Solana. Discover, buy, sell AI services. Earn USDC. 13 MCP tools, A2A protocol, DeFi yields, sentiment analysis, rug detection.",
+  "category": "uncategorized",
+  "tags": [
+    "solana",
+    "crypto",
+    "marketplace",
+    "ai-agents",
+    "mcp",
+    "defi",
+    "usdc",
+    "web3",
+    "a2a",
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/maxia/SKILL.md",
+  "metadataPath": "skills/maxia/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/maxia"
+  }
+}

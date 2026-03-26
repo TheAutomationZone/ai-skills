@@ -1,0 +1,22 @@
+{
+  "id": "nerdzao-elite-gemini-high",
+  "name": "nerdzao-elite-gemini-high",
+  "summary": "Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro High.",
+  "description": "Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro High. Workflow completo com foco em qualidade máxima e eficiência de tokens.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nerdzao-elite-gemini-high/SKILL.md",
+  "metadataPath": "skills/nerdzao-elite-gemini-high/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nerdzao-elite-gemini-high"
+  }
+}

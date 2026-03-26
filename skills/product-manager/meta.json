@@ -1,0 +1,27 @@
+{
+  "id": "product-manager",
+  "name": "product-manager",
+  "summary": "Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas.",
+  "description": "Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas. Pure Markdown, zero scripts.",
+  "category": "business",
+  "tags": [
+    "product-management",
+    "saas",
+    "frameworks",
+    "metrics",
+    "strategy",
+    "business",
+    "unknown",
+    "digidai/product-manager-skills (mit)"
+  ],
+  "risk": "unknown",
+  "source": "Digidai/product-manager-skills (MIT)",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/product-manager/SKILL.md",
+  "metadataPath": "skills/product-manager/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/product-manager"
+  }
+}

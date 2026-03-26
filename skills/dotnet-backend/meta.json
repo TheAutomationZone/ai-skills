@@ -1,0 +1,22 @@
+{
+  "id": "dotnet-backend",
+  "name": "dotnet-backend",
+  "summary": "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns.",
+  "description": "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dotnet-backend/SKILL.md",
+  "metadataPath": "skills/dotnet-backend/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dotnet-backend"
+  }
+}

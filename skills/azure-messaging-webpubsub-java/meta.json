@@ -1,0 +1,22 @@
+{
+  "id": "azure-messaging-webpubsub-java",
+  "name": "azure-messaging-webpubsub-java",
+  "summary": "Build real-time web applications with Azure Web PubSub SDK for Java.",
+  "description": "Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or server-to-client push notifications.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-messaging-webpubsub-java/SKILL.md",
+  "metadataPath": "skills/azure-messaging-webpubsub-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-messaging-webpubsub-java"
+  }
+}

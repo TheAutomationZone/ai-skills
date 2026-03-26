@@ -1,0 +1,22 @@
+{
+  "id": "unity-ecs-patterns",
+  "name": "unity-ecs-patterns",
+  "summary": "Production patterns for Unity's Data-Oriented Technology Stack (DOTS) including Entity Component System, Job System, and Burst Compiler.",
+  "description": "Production patterns for Unity's Data-Oriented Technology Stack (DOTS) including Entity Component System, Job System, and Burst Compiler.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/unity-ecs-patterns/SKILL.md",
+  "metadataPath": "skills/unity-ecs-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/unity-ecs-patterns"
+  }
+}

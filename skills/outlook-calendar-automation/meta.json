@@ -1,0 +1,22 @@
+{
+  "id": "outlook-calendar-automation",
+  "name": "outlook-calendar-automation",
+  "summary": "Automate Outlook Calendar tasks via Rube MCP (Composio): create events, manage attendees, find meeting times, and handle invitations.",
+  "description": "Automate Outlook Calendar tasks via Rube MCP (Composio): create events, manage attendees, find meeting times, and handle invitations. Always search tools first for current schemas.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/outlook-calendar-automation/SKILL.md",
+  "metadataPath": "skills/outlook-calendar-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/outlook-calendar-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-search-documents-py",
+  "name": "azure-search-documents-py",
+  "summary": "Azure AI Search SDK for Python.",
+  "description": "Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-search-documents-py/SKILL.md",
+  "metadataPath": "skills/azure-search-documents-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-search-documents-py"
+  }
+}

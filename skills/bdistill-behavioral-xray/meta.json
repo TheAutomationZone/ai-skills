@@ -1,0 +1,29 @@
+{
+  "id": "bdistill-behavioral-xray",
+  "name": "bdistill-behavioral-xray",
+  "summary": "X-ray any AI model's behavioral patterns — refusal boundaries, hallucination tendencies, reasoning style, formatting defaults.",
+  "description": "X-ray any AI model's behavioral patterns — refusal boundaries, hallucination tendencies, reasoning style, formatting defaults. No API key needed.",
+  "category": "ai-testing",
+  "tags": [
+    "ai",
+    "testing",
+    "behavioral-analysis",
+    "model-evaluation",
+    "red-team",
+    "compliance",
+    "mcp",
+    "ai-testing",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-20",
+  "version": "1.0.0",
+  "contentPath": "skills/bdistill-behavioral-xray/SKILL.md",
+  "metadataPath": "skills/bdistill-behavioral-xray/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bdistill-behavioral-xray"
+  }
+}

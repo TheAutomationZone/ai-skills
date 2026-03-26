@@ -1,0 +1,22 @@
+{
+  "id": "n8n-workflow-patterns",
+  "name": "n8n-workflow-patterns",
+  "summary": "Proven architectural patterns for building n8n workflows.",
+  "description": "Proven architectural patterns for building n8n workflows.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/n8n-workflow-patterns/SKILL.md",
+  "metadataPath": "skills/n8n-workflow-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/n8n-workflow-patterns"
+  }
+}

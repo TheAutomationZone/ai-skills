@@ -1,0 +1,28 @@
+{
+  "id": "gdb-cli",
+  "name": "gdb-cli",
+  "summary": "GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation",
+  "description": "GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation",
+  "category": "development",
+  "tags": [
+    "debugging",
+    "gdb",
+    "core-dump",
+    "crash-analysis",
+    "c++",
+    "c",
+    "development",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-22",
+  "version": "1.0.0",
+  "contentPath": "skills/gdb-cli/SKILL.md",
+  "metadataPath": "skills/gdb-cli/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/gdb-cli"
+  }
+}

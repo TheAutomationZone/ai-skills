@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-apimanagement-py",
+  "name": "azure-mgmt-apimanagement-py",
+  "summary": "Azure API Management SDK for Python.",
+  "description": "Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-apimanagement-py/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-apimanagement-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-apimanagement-py"
+  }
+}

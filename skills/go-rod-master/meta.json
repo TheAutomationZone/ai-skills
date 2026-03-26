@@ -1,0 +1,22 @@
+{
+  "id": "go-rod-master",
+  "name": "go-rod-master",
+  "summary": "Comprehensive guide for browser automation and web scraping with go-rod (Chrome DevTools Protocol) including stealth anti-bot-detection patterns.",
+  "description": "Comprehensive guide for browser automation and web scraping with go-rod (Chrome DevTools Protocol) including stealth anti-bot-detection patterns.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "https://github.com/go-rod/rod"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/go-rod/rod",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/go-rod-master/SKILL.md",
+  "metadataPath": "skills/go-rod-master/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/go-rod-master"
+  }
+}

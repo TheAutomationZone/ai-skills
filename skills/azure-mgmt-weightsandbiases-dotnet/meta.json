@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-weightsandbiases-dotnet",
+  "name": "azure-mgmt-weightsandbiases-dotnet",
+  "summary": "Azure Weights & Biases SDK for .NET.",
+  "description": "Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-weightsandbiases-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-weightsandbiases-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-weightsandbiases-dotnet"
+  }
+}

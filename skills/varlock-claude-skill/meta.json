@@ -1,0 +1,22 @@
+{
+  "id": "varlock-claude-skill",
+  "name": "varlock-claude-skill",
+  "summary": "Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits",
+  "description": "Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits",
+  "category": "security",
+  "tags": [
+    "security",
+    "safe",
+    "https://github.com/wrsmith108/varlock-claude-skill"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/wrsmith108/varlock-claude-skill",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/varlock-claude-skill/SKILL.md",
+  "metadataPath": "skills/varlock-claude-skill/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/varlock-claude-skill"
+  }
+}

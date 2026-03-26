@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-agents-persistent-java",
+  "name": "azure-ai-agents-persistent-java",
+  "summary": "Azure AI Agents Persistent SDK for Java.",
+  "description": "Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-agents-persistent-java/SKILL.md",
+  "metadataPath": "skills/azure-ai-agents-persistent-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-agents-persistent-java"
+  }
+}

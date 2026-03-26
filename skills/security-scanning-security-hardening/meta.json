@@ -1,0 +1,22 @@
+{
+  "id": "security-scanning-security-hardening",
+  "name": "security-scanning-security-hardening",
+  "summary": "Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls.",
+  "description": "Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/security-scanning-security-hardening/SKILL.md",
+  "metadataPath": "skills/security-scanning-security-hardening/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security-scanning-security-hardening"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "html-injection-testing",
+  "name": "html-injection-testing",
+  "summary": "Identify and exploit HTML injection vulnerabilities that allow attackers to inject malicious HTML content into web applications.",
+  "description": "Identify and exploit HTML injection vulnerabilities that allow attackers to inject malicious HTML content into web applications. This vulnerability enables attackers to modify page appearance, create phishing pages, and steal user credentials through injected forms.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/html-injection-testing/SKILL.md",
+  "metadataPath": "skills/html-injection-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/html-injection-testing"
+  }
+}

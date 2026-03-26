@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-translation-document-py",
+  "name": "azure-ai-translation-document-py",
+  "summary": "Azure AI Document Translation SDK for batch translation of documents with format preservation.",
+  "description": "Azure AI Document Translation SDK for batch translation of documents with format preservation. Use for translating Word, PDF, Excel, PowerPoint, and other document formats at scale.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-translation-document-py/SKILL.md",
+  "metadataPath": "skills/azure-ai-translation-document-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-translation-document-py"
+  }
+}

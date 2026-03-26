@@ -1,0 +1,22 @@
+{
+  "id": "dbos-typescript",
+  "name": "dbos-typescript",
+  "summary": "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows.",
+  "description": "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows. Use when adding DBOS to existing TypeScript code, creating workflows and steps, or using queues for concurrency control.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "https://docs.dbos.dev/"
+  ],
+  "risk": "safe",
+  "source": "https://docs.dbos.dev/",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dbos-typescript/SKILL.md",
+  "metadataPath": "skills/dbos-typescript/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dbos-typescript"
+  }
+}

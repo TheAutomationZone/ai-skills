@@ -1,0 +1,22 @@
+{
+  "id": "employment-contract-templates",
+  "name": "employment-contract-templates",
+  "summary": "Templates and patterns for creating legally sound employment documentation including contracts, offer letters, and HR policies.",
+  "description": "Templates and patterns for creating legally sound employment documentation including contracts, offer letters, and HR policies.",
+  "category": "legal",
+  "tags": [
+    "legal",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/employment-contract-templates/SKILL.md",
+  "metadataPath": "skills/employment-contract-templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/employment-contract-templates"
+  }
+}

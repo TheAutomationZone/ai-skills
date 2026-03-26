@@ -1,0 +1,22 @@
+{
+  "id": "seo-content-auditor",
+  "name": "seo-content-auditor",
+  "summary": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices.",
+  "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-content-auditor/SKILL.md",
+  "metadataPath": "skills/seo-content-auditor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-content-auditor"
+  }
+}

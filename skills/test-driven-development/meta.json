@@ -1,0 +1,22 @@
+{
+  "id": "test-driven-development",
+  "name": "test-driven-development",
+  "summary": "Use when implementing any feature or bugfix, before writing implementation code",
+  "description": "Use when implementing any feature or bugfix, before writing implementation code",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/test-driven-development/SKILL.md",
+  "metadataPath": "skills/test-driven-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/test-driven-development"
+  }
+}

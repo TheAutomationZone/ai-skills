@@ -1,0 +1,22 @@
+{
+  "id": "avalonia-layout-zafiro",
+  "name": "avalonia-layout-zafiro",
+  "summary": "Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy.",
+  "description": "Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/avalonia-layout-zafiro/SKILL.md",
+  "metadataPath": "skills/avalonia-layout-zafiro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/avalonia-layout-zafiro"
+  }
+}

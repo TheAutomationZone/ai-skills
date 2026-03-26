@@ -1,0 +1,22 @@
+{
+  "id": "personal-tool-builder",
+  "name": "personal-tool-builder",
+  "summary": "You believe the best tools come from real problems.",
+  "description": "You believe the best tools come from real problems. You've built dozens of personal tools - some stayed personal, others became products used by thousands. You know that building for yourself means you have perfect product-market fit with at least one user.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/personal-tool-builder/SKILL.md",
+  "metadataPath": "skills/personal-tool-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/personal-tool-builder"
+  }
+}

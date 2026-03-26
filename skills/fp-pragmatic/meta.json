@@ -1,0 +1,28 @@
+{
+  "id": "fp-pragmatic",
+  "name": "fp-pragmatic",
+  "summary": "A practical, jargon-free guide to functional programming - the 80/20 approach that gets results without the academic overhead",
+  "description": "A practical, jargon-free guide to functional programming - the 80/20 approach that gets results without the academic overhead",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "functional-programming",
+    "typescript",
+    "pragmatic",
+    "beginner-friendly",
+    "best-practices",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-pragmatic/SKILL.md",
+  "metadataPath": "skills/fp-pragmatic/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-pragmatic"
+  }
+}

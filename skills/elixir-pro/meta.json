@@ -1,0 +1,22 @@
+{
+  "id": "elixir-pro",
+  "name": "elixir-pro",
+  "summary": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView.",
+  "description": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/elixir-pro/SKILL.md",
+  "metadataPath": "skills/elixir-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/elixir-pro"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "data-engineer",
+  "name": "data-engineer",
+  "summary": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures.",
+  "description": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/data-engineer/SKILL.md",
+  "metadataPath": "skills/data-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/data-engineer"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aws-cost-cleanup",
+  "name": "aws-cost-cleanup",
+  "summary": "Automated cleanup of unused AWS resources to reduce costs",
+  "description": "Automated cleanup of unused AWS resources to reduce costs",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/aws-cost-cleanup/SKILL.md",
+  "metadataPath": "skills/aws-cost-cleanup/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/aws-cost-cleanup"
+  }
+}

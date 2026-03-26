@@ -1,0 +1,22 @@
+{
+  "id": "bevy-ecs-expert",
+  "name": "bevy-ecs-expert",
+  "summary": "Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling.",
+  "description": "Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bevy-ecs-expert/SKILL.md",
+  "metadataPath": "skills/bevy-ecs-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bevy-ecs-expert"
+  }
+}

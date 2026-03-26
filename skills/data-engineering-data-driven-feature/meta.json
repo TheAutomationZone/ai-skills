@@ -1,0 +1,22 @@
+{
+  "id": "data-engineering-data-driven-feature",
+  "name": "data-engineering-data-driven-feature",
+  "summary": "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation.",
+  "description": "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation.",
+  "category": "data-science",
+  "tags": [
+    "data-science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/data-engineering-data-driven-feature/SKILL.md",
+  "metadataPath": "skills/data-engineering-data-driven-feature/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/data-engineering-data-driven-feature"
+  }
+}

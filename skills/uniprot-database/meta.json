@@ -1,0 +1,22 @@
+{
+  "id": "uniprot-database",
+  "name": "uniprot-database",
+  "summary": "Direct REST API access to UniProt.",
+  "description": "Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/uniprot-database/SKILL.md",
+  "metadataPath": "skills/uniprot-database/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/uniprot-database"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "basecamp-automation",
+  "name": "basecamp-automation",
+  "summary": "Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP (Composio).",
+  "description": "Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP (Composio). Always search tools first for current schemas.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/basecamp-automation/SKILL.md",
+  "metadataPath": "skills/basecamp-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/basecamp-automation"
+  }
+}

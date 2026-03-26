@@ -1,0 +1,22 @@
+{
+  "id": "web-games",
+  "name": "web-games",
+  "summary": "Web browser game development principles.",
+  "description": "Web browser game development principles. Framework selection, WebGPU, optimization, PWA.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/web-games/SKILL.md",
+  "metadataPath": "skills/web-games/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/web-games"
+  }
+}

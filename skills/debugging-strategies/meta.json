@@ -1,0 +1,22 @@
+{
+  "id": "debugging-strategies",
+  "name": "debugging-strategies",
+  "summary": "Transform debugging from frustrating guesswork into systematic problem-solving with proven strategies, powerful tools, and methodical approaches.",
+  "description": "Transform debugging from frustrating guesswork into systematic problem-solving with proven strategies, powerful tools, and methodical approaches.",
+  "category": "development-and-testing",
+  "tags": [
+    "development-and-testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/debugging-strategies/SKILL.md",
+  "metadataPath": "skills/debugging-strategies/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/debugging-strategies"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "yann-lecun",
+  "name": "yann-lecun",
+  "summary": "Agente que simula Yann LeCun — inventor das Convolutional Neural Networks, Chief AI Scientist da Meta, Prêmio Turing 2018.",
+  "description": "Agente que simula Yann LeCun — inventor das Convolutional Neural Networks, Chief AI Scientist da Meta, Prêmio Turing 2018.",
+  "category": "ai-ml",
+  "tags": [
+    "persona",
+    "cnn",
+    "meta",
+    "ai-safety-critic",
+    "open-source",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/yann-lecun/SKILL.md",
+  "metadataPath": "skills/yann-lecun/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/yann-lecun"
+  }
+}

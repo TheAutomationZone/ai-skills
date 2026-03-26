@@ -1,0 +1,22 @@
+{
+  "id": "vercel-ai-sdk-expert",
+  "name": "vercel-ai-sdk-expert",
+  "summary": "Expert in the Vercel AI SDK.",
+  "description": "Expert in the Vercel AI SDK. Covers Core API (generateText, streamText), UI hooks (useChat, useCompletion), tool calling, and streaming UI components with React and Next.js.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/vercel-ai-sdk-expert/SKILL.md",
+  "metadataPath": "skills/vercel-ai-sdk-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vercel-ai-sdk-expert"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "odoo-module-developer",
+  "name": "odoo-module-developer",
+  "summary": "Expert guide for creating custom Odoo modules.",
+  "description": "Expert guide for creating custom Odoo modules. Covers __manifest__.py, model inheritance, ORM patterns, and module structure best practices.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-module-developer/SKILL.md",
+  "metadataPath": "skills/odoo-module-developer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-module-developer"
+  }
+}

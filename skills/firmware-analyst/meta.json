@@ -1,0 +1,22 @@
+{
+  "id": "firmware-analyst",
+  "name": "firmware-analyst",
+  "summary": "Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.",
+  "description": "Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/firmware-analyst/SKILL.md",
+  "metadataPath": "skills/firmware-analyst/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/firmware-analyst"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-botservice-py",
+  "name": "azure-mgmt-botservice-py",
+  "summary": "Azure Bot Service Management SDK for Python.",
+  "description": "Azure Bot Service Management SDK for Python. Use for creating, managing, and configuring Azure Bot Service resources.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-botservice-py/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-botservice-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-botservice-py"
+  }
+}

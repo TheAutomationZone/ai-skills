@@ -1,0 +1,22 @@
+{
+  "id": "sql-pro",
+  "name": "sql-pro",
+  "summary": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques.",
+  "description": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/sql-pro/SKILL.md",
+  "metadataPath": "skills/sql-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sql-pro"
+  }
+}

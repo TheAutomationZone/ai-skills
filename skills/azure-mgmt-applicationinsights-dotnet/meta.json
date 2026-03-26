@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-applicationinsights-dotnet",
+  "name": "azure-mgmt-applicationinsights-dotnet",
+  "summary": "Azure Application Insights SDK for .NET.",
+  "description": "Azure Application Insights SDK for .NET. Application performance monitoring and observability resource management.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-applicationinsights-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-applicationinsights-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-applicationinsights-dotnet"
+  }
+}

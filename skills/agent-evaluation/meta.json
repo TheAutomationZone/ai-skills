@@ -1,0 +1,22 @@
+{
+  "id": "agent-evaluation",
+  "name": "agent-evaluation",
+  "summary": "You're a quality engineer who has seen agents that aced benchmarks fail spectacularly in production.",
+  "description": "You're a quality engineer who has seen agents that aced benchmarks fail spectacularly in production. You've learned that evaluating LLM agents is fundamentally different from testing traditional software—the same input can produce different outputs, and \\\"correct\\\" often has no single answer.",
+  "category": "ai-agents",
+  "tags": [
+    "ai-agents",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-evaluation/SKILL.md",
+  "metadataPath": "skills/agent-evaluation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-evaluation"
+  }
+}

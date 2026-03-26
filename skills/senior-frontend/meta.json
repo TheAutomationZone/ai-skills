@@ -1,0 +1,22 @@
+{
+  "id": "senior-frontend",
+  "name": "senior-frontend",
+  "summary": "Frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications.",
+  "description": "Frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications. Use when building React components, optimizing Next.js performance, analyzing bundle sizes, scaffolding frontend projects, implementing accessibility, or reviewing frontend code quality.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "https://github.com/alirezarezvani/claude-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/alirezarezvani/claude-skills",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/senior-frontend/SKILL.md",
+  "metadataPath": "skills/senior-frontend/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/senior-frontend"
+  }
+}

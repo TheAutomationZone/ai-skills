@@ -1,0 +1,22 @@
+{
+  "id": "drizzle-orm-expert",
+  "name": "drizzle-orm-expert",
+  "summary": "Expert in Drizzle ORM for TypeScript — schema design, relational queries, migrations, and serverless database integration.",
+  "description": "Expert in Drizzle ORM for TypeScript — schema design, relational queries, migrations, and serverless database integration. Use when building type-safe database layers with Drizzle.",
+  "category": "database",
+  "tags": [
+    "database",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-04",
+  "version": "1.0.0",
+  "contentPath": "skills/drizzle-orm-expert/SKILL.md",
+  "metadataPath": "skills/drizzle-orm-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/drizzle-orm-expert"
+  }
+}

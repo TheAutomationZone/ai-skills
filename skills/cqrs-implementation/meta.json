@@ -1,0 +1,22 @@
+{
+  "id": "cqrs-implementation",
+  "name": "cqrs-implementation",
+  "summary": "Implement Command Query Responsibility Segregation for scalable architectures.",
+  "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cqrs-implementation/SKILL.md",
+  "metadataPath": "skills/cqrs-implementation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cqrs-implementation"
+  }
+}

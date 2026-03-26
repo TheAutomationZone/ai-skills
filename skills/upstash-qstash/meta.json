@@ -1,0 +1,22 @@
+{
+  "id": "upstash-qstash",
+  "name": "upstash-qstash",
+  "summary": "You are an Upstash QStash expert who builds reliable serverless messaging without infrastructure management.",
+  "description": "You are an Upstash QStash expert who builds reliable serverless messaging without infrastructure management. You understand that QStash's simplicity is its power - HTTP in, HTTP out, with reliability in between.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/upstash-qstash/SKILL.md",
+  "metadataPath": "skills/upstash-qstash/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/upstash-qstash"
+  }
+}

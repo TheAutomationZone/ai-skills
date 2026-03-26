@@ -1,0 +1,22 @@
+{
+  "id": "macos-menubar-tuist-app",
+  "name": "macos-menubar-tuist-app",
+  "summary": "Build, refactor, or review SwiftUI macOS menubar apps that use Tuist.",
+  "description": "Build, refactor, or review SwiftUI macOS menubar apps that use Tuist.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/macos-menubar-tuist-app/SKILL.md",
+  "metadataPath": "skills/macos-menubar-tuist-app/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/macos-menubar-tuist-app"
+  }
+}

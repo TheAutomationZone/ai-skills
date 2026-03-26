@@ -1,0 +1,22 @@
+{
+  "id": "threejs-skills",
+  "name": "threejs-skills",
+  "summary": "Create 3D scenes, interactive experiences, and visual effects using Three.js.",
+  "description": "Create 3D scenes, interactive experiences, and visual effects using Three.js. Use when user requests 3D graphics, WebGL experiences, 3D visualizations, animations, or interactive 3D elements.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "https://github.com/cloudai-x/threejs-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/CloudAI-X/threejs-skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-skills/SKILL.md",
+  "metadataPath": "skills/threejs-skills/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-skills"
+  }
+}

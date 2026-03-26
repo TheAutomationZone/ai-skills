@@ -1,0 +1,22 @@
+{
+  "id": "avalonia-viewmodels-zafiro",
+  "name": "avalonia-viewmodels-zafiro",
+  "summary": "Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI.",
+  "description": "Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/avalonia-viewmodels-zafiro/SKILL.md",
+  "metadataPath": "skills/avalonia-viewmodels-zafiro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/avalonia-viewmodels-zafiro"
+  }
+}

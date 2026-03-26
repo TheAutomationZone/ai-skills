@@ -1,0 +1,22 @@
+{
+  "id": "internal-comms-anthropic",
+  "name": "internal-comms-anthropic",
+  "summary": "To write internal communications, use this skill for:",
+  "description": "To write internal communications, use this skill for:",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/internal-comms-anthropic/SKILL.md",
+  "metadataPath": "skills/internal-comms-anthropic/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/internal-comms-anthropic"
+  }
+}

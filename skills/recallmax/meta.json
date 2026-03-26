@@ -1,0 +1,28 @@
+{
+  "id": "recallmax",
+  "name": "recallmax",
+  "summary": "FREE — God-tier long-context memory for AI agents.",
+  "description": "FREE — God-tier long-context memory for AI agents. Injects 500K-1M clean tokens, auto-summarizes with tone/intent preservation, compresses 14-turn history into 800 tokens.",
+  "category": "memory",
+  "tags": [
+    "memory",
+    "context",
+    "rag",
+    "summarization",
+    "compression",
+    "long-context",
+    "agent-infrastructure",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-13",
+  "version": "1.0.0",
+  "contentPath": "skills/recallmax/SKILL.md",
+  "metadataPath": "skills/recallmax/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/recallmax"
+  }
+}

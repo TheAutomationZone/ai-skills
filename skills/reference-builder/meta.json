@@ -1,0 +1,22 @@
+{
+  "id": "reference-builder",
+  "name": "reference-builder",
+  "summary": "Creates exhaustive technical references and API documentation.",
+  "description": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/reference-builder/SKILL.md",
+  "metadataPath": "skills/reference-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/reference-builder"
+  }
+}

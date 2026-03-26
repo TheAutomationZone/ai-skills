@@ -1,0 +1,22 @@
+{
+  "id": "obsidian-markdown",
+  "name": "obsidian-markdown",
+  "summary": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax.",
+  "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/kepano/obsidian-skills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/kepano/obsidian-skills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/obsidian-markdown/SKILL.md",
+  "metadataPath": "skills/obsidian-markdown/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/obsidian-markdown"
+  }
+}

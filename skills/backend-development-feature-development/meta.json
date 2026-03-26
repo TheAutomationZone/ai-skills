@@ -1,0 +1,22 @@
+{
+  "id": "backend-development-feature-development",
+  "name": "backend-development-feature-development",
+  "summary": "Orchestrate end-to-end backend feature development from requirements to deployment.",
+  "description": "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/backend-development-feature-development/SKILL.md",
+  "metadataPath": "skills/backend-development-feature-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/backend-development-feature-development"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "conductor-status",
+  "name": "conductor-status",
+  "summary": "Display project status, active tracks, and next actions",
+  "description": "Display project status, active tracks, and next actions",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/conductor-status/SKILL.md",
+  "metadataPath": "skills/conductor-status/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/conductor-status"
+  }
+}

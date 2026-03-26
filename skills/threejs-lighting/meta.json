@@ -1,0 +1,22 @@
+{
+  "id": "threejs-lighting",
+  "name": "threejs-lighting",
+  "summary": "Three.js lighting - light types, shadows, environment lighting.",
+  "description": "Three.js lighting - light types, shadows, environment lighting. Use when adding lights, configuring shadows, setting up IBL, or optimizing lighting performance.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-lighting/SKILL.md",
+  "metadataPath": "skills/threejs-lighting/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-lighting"
+  }
+}

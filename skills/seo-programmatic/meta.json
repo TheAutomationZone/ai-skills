@@ -1,0 +1,22 @@
+{
+  "id": "seo-programmatic",
+  "name": "seo-programmatic",
+  "summary": "Plan and audit programmatic SEO pages generated at scale from structured data.",
+  "description": "Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/agricidaniel/claude-seo"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/AgriciDaniel/claude-seo",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-programmatic/SKILL.md",
+  "metadataPath": "skills/seo-programmatic/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-programmatic"
+  }
+}

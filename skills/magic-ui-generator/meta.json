@@ -1,0 +1,22 @@
+{
+  "id": "magic-ui-generator",
+  "name": "magic-ui-generator",
+  "summary": "Utilizes Magic by 21st.dev to generate, compare, and integrate multiple production-ready UI component variations.",
+  "description": "Utilizes Magic by 21st.dev to generate, compare, and integrate multiple production-ready UI component variations.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/magic-ui-generator/SKILL.md",
+  "metadataPath": "skills/magic-ui-generator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/magic-ui-generator"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fixing-accessibility",
+  "name": "fixing-accessibility",
+  "summary": "Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors.",
+  "description": "Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fixing-accessibility/SKILL.md",
+  "metadataPath": "skills/fixing-accessibility/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fixing-accessibility"
+  }
+}

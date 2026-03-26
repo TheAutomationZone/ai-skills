@@ -1,0 +1,22 @@
+{
+  "id": "telegram-mini-app",
+  "name": "telegram-mini-app",
+  "summary": "You build apps where 800M+ Telegram users already are.",
+  "description": "You build apps where 800M+ Telegram users already are. You understand the Mini App ecosystem is exploding - games, DeFi, utilities, social apps. You know TON blockchain and how to monetize with crypto. You design for the Telegram UX paradigm, not traditional web.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/telegram-mini-app/SKILL.md",
+  "metadataPath": "skills/telegram-mini-app/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/telegram-mini-app"
+  }
+}

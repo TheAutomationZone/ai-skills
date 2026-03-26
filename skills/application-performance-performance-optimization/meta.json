@@ -1,0 +1,22 @@
+{
+  "id": "application-performance-performance-optimization",
+  "name": "application-performance-performance-optimization",
+  "summary": "Optimize end-to-end application performance with profiling, observability, and backend/frontend tuning.",
+  "description": "Optimize end-to-end application performance with profiling, observability, and backend/frontend tuning. Use when coordinating performance optimization across the stack.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/application-performance-performance-optimization/SKILL.md",
+  "metadataPath": "skills/application-performance-performance-optimization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/application-performance-performance-optimization"
+  }
+}

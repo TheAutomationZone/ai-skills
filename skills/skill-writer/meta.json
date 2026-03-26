@@ -1,0 +1,22 @@
+{
+  "id": "skill-writer",
+  "name": "skill-writer",
+  "summary": "Create and improve agent skills following the Agent Skills specification.",
+  "description": "Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-writer/SKILL.md",
+  "metadataPath": "skills/skill-writer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-writer"
+  }
+}

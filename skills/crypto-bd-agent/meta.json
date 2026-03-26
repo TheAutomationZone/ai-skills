@@ -1,0 +1,23 @@
+{
+  "id": "crypto-bd-agent",
+  "name": "crypto-bd-agent",
+  "summary": "Production-tested patterns for building AI agents that autonomously discover, > evaluate, and acquire token listings for cryptocurrency exchanges.",
+  "description": "Production-tested patterns for building AI agents that autonomously discover, > evaluate, and acquire token listings for cryptocurrency exchanges.",
+  "category": "blockchain",
+  "tags": [
+    "null",
+    "blockchain",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/crypto-bd-agent/SKILL.md",
+  "metadataPath": "skills/crypto-bd-agent/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/crypto-bd-agent"
+  }
+}

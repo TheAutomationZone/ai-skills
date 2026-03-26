@@ -1,0 +1,22 @@
+{
+  "id": "ai-engineer",
+  "name": "ai-engineer",
+  "summary": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents.",
+  "description": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ai-engineer/SKILL.md",
+  "metadataPath": "skills/ai-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ai-engineer"
+  }
+}

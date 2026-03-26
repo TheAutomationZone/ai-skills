@@ -1,0 +1,22 @@
+{
+  "id": "api-security-best-practices",
+  "name": "api-security-best-practices",
+  "summary": "Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities",
+  "description": "Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/api-security-best-practices/SKILL.md",
+  "metadataPath": "skills/api-security-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-security-best-practices"
+  }
+}

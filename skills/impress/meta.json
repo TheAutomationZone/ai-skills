@@ -1,0 +1,23 @@
+{
+  "id": "impress",
+  "name": "impress",
+  "summary": "Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress.",
+  "description": "Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress.",
+  "category": "presentation-processing",
+  "tags": [
+    "presentation-processing",
+    "safe",
+    "personal",
+    "libreoffice"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/impress/SKILL.md",
+  "metadataPath": "skills/impress/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/libreoffice/impress"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "electron-development",
+  "name": "electron-development",
+  "summary": "Master Electron desktop app development with secure IPC, contextIsolation, preload scripts, multi-process architecture, electron-builder packaging, code signing, and auto-update.",
+  "description": "Master Electron desktop app development with secure IPC, contextIsolation, preload scripts, multi-process architecture, electron-builder packaging, code signing, and auto-update.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-12",
+  "version": "1.0.0",
+  "contentPath": "skills/electron-development/SKILL.md",
+  "metadataPath": "skills/electron-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/electron-development"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "typescript-advanced-types",
+  "name": "typescript-advanced-types",
+  "summary": "Comprehensive guidance for mastering TypeScript's advanced type system including generics, conditional types, mapped types, template literal types, and utility types for buildin...",
+  "description": "Comprehensive guidance for mastering TypeScript's advanced type system including generics, conditional types, mapped types, template literal types, and utility types for building robust, type-safe applications.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/typescript-advanced-types/SKILL.md",
+  "metadataPath": "skills/typescript-advanced-types/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/typescript-advanced-types"
+  }
+}

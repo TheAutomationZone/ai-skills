@@ -1,0 +1,22 @@
+{
+  "id": "nutrition-analyzer",
+  "name": "nutrition-analyzer",
+  "summary": "分析营养数据、识别营养模式、评估营养状况，并提供个性化营养建议。支持与运动、睡眠、慢性病数据的关联分析。",
+  "description": "分析营养数据、识别营养模式、评估营养状况，并提供个性化营养建议。支持与运动、睡眠、慢性病数据的关联分析。",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/nutrition-analyzer/SKILL.md",
+  "metadataPath": "skills/nutrition-analyzer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nutrition-analyzer"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "slack-gif-creator",
+  "name": "slack-gif-creator",
+  "summary": "A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack.",
+  "description": "A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/slack-gif-creator/SKILL.md",
+  "metadataPath": "skills/slack-gif-creator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/slack-gif-creator"
+  }
+}

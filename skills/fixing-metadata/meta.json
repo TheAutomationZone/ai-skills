@@ -1,0 +1,22 @@
+{
+  "id": "fixing-metadata",
+  "name": "fixing-metadata",
+  "summary": "Audit and fix HTML metadata including page titles, meta descriptions, canonical URLs, Open Graph tags, Twitter cards, favicons, JSON-LD structured data, and robots directives.",
+  "description": "Audit and fix HTML metadata including page titles, meta descriptions, canonical URLs, Open Graph tags, Twitter cards, favicons, JSON-LD structured data, and robots directives. Use when adding or reviewing SEO and social metadata.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fixing-metadata/SKILL.md",
+  "metadataPath": "skills/fixing-metadata/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fixing-metadata"
+  }
+}

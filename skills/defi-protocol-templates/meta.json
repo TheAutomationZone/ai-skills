@@ -1,0 +1,22 @@
+{
+  "id": "defi-protocol-templates",
+  "name": "defi-protocol-templates",
+  "summary": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems.",
+  "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/defi-protocol-templates/SKILL.md",
+  "metadataPath": "skills/defi-protocol-templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/defi-protocol-templates"
+  }
+}

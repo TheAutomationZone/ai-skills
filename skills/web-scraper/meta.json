@@ -1,0 +1,26 @@
+{
+  "id": "web-scraper",
+  "name": "web-scraper",
+  "summary": "Web scraping inteligente multi-estrategia.",
+  "description": "Web scraping inteligente multi-estrategia. Extrai dados estruturados de paginas web (tabelas, listas, precos). Paginacao, monitoramento e export CSV/JSON.",
+  "category": "data",
+  "tags": [
+    "scraping",
+    "data-extraction",
+    "automation",
+    "csv",
+    "data",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/web-scraper/SKILL.md",
+  "metadataPath": "skills/web-scraper/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/web-scraper"
+  }
+}

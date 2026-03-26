@@ -1,0 +1,22 @@
+{
+  "id": "machine-learning-ops-ml-pipeline",
+  "name": "machine-learning-ops-ml-pipeline",
+  "summary": "Design and implement a complete ML pipeline for: $ARGUMENTS",
+  "description": "Design and implement a complete ML pipeline for: $ARGUMENTS",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/machine-learning-ops-ml-pipeline/SKILL.md",
+  "metadataPath": "skills/machine-learning-ops-ml-pipeline/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/machine-learning-ops-ml-pipeline"
+  }
+}

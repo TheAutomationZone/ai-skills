@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-projects-dotnet",
+  "name": "azure-ai-projects-dotnet",
+  "summary": "Azure AI Projects SDK for .NET.",
+  "description": "Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry projects including agents, connections, datasets, deployments, evaluations, and indexes.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-projects-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-ai-projects-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-projects-dotnet"
+  }
+}

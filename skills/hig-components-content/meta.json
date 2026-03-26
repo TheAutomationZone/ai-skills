@@ -1,0 +1,22 @@
+{
+  "id": "hig-components-content",
+  "name": "hig-components-content",
+  "summary": "Apple Human Interface Guidelines for content display components.",
+  "description": "Apple Human Interface Guidelines for content display components.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-components-content/SKILL.md",
+  "metadataPath": "skills/hig-components-content/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-components-content"
+  }
+}

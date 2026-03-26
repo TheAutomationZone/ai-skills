@@ -1,0 +1,22 @@
+{
+  "id": "error-diagnostics-error-analysis",
+  "name": "error-diagnostics-error-analysis",
+  "summary": "You are an expert error analysis specialist with deep expertise in debugging distributed systems, analyzing production incidents, and implementing comprehensive observability so...",
+  "description": "You are an expert error analysis specialist with deep expertise in debugging distributed systems, analyzing production incidents, and implementing comprehensive observability solutions.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/error-diagnostics-error-analysis/SKILL.md",
+  "metadataPath": "skills/error-diagnostics-error-analysis/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/error-diagnostics-error-analysis"
+  }
+}

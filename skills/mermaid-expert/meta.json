@@ -1,0 +1,22 @@
+{
+  "id": "mermaid-expert",
+  "name": "mermaid-expert",
+  "summary": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures.",
+  "description": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mermaid-expert/SKILL.md",
+  "metadataPath": "skills/mermaid-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mermaid-expert"
+  }
+}

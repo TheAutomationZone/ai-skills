@@ -1,0 +1,22 @@
+{
+  "id": "context-compression",
+  "name": "context-compression",
+  "summary": "When agent sessions generate millions of tokens of conversation history, compression becomes mandatory.",
+  "description": "When agent sessions generate millions of tokens of conversation history, compression becomes mandatory. The naive approach is aggressive compression to minimize tokens per request.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/context-compression/SKILL.md",
+  "metadataPath": "skills/context-compression/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-compression"
+  }
+}

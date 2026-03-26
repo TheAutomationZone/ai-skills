@@ -1,0 +1,22 @@
+{
+  "id": "analytics-tracking",
+  "name": "analytics-tracking",
+  "summary": "Design, audit, and improve analytics tracking systems that produce reliable, decision-ready data.",
+  "description": "Design, audit, and improve analytics tracking systems that produce reliable, decision-ready data.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/analytics-tracking/SKILL.md",
+  "metadataPath": "skills/analytics-tracking/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/analytics-tracking"
+  }
+}

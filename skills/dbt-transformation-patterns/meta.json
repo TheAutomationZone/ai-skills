@@ -1,0 +1,22 @@
+{
+  "id": "dbt-transformation-patterns",
+  "name": "dbt-transformation-patterns",
+  "summary": "Production-ready patterns for dbt (data build tool) including model organization, testing strategies, documentation, and incremental processing.",
+  "description": "Production-ready patterns for dbt (data build tool) including model organization, testing strategies, documentation, and incremental processing.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dbt-transformation-patterns/SKILL.md",
+  "metadataPath": "skills/dbt-transformation-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dbt-transformation-patterns"
+  }
+}

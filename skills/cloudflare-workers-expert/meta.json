@@ -1,0 +1,22 @@
+{
+  "id": "cloudflare-workers-expert",
+  "name": "cloudflare-workers-expert",
+  "summary": "Expert in Cloudflare Workers and the Edge Computing ecosystem.",
+  "description": "Expert in Cloudflare Workers and the Edge Computing ecosystem. Covers Wrangler, KV, D1, Durable Objects, and R2 storage.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cloudflare-workers-expert/SKILL.md",
+  "metadataPath": "skills/cloudflare-workers-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cloudflare-workers-expert"
+  }
+}

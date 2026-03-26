@@ -1,0 +1,22 @@
+{
+  "id": "create-branch",
+  "name": "create-branch",
+  "summary": "Create a git branch following Sentry naming conventions.",
+  "description": "Create a git branch following Sentry naming conventions. Use when asked to \"create a branch\", \"new branch\", \"start a branch\", \"make a branch\", \"switch to a new branch\", or when starting new work on the default branch.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/create-branch/SKILL.md",
+  "metadataPath": "skills/create-branch/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/create-branch"
+  }
+}

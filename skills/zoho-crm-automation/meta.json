@@ -1,0 +1,22 @@
+{
+  "id": "zoho-crm-automation",
+  "name": "zoho-crm-automation",
+  "summary": "Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads.",
+  "description": "Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads. Always search tools first for current schemas.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/zoho-crm-automation/SKILL.md",
+  "metadataPath": "skills/zoho-crm-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/zoho-crm-automation"
+  }
+}

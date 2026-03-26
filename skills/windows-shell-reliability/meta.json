@@ -1,0 +1,22 @@
+{
+  "id": "windows-shell-reliability",
+  "name": "windows-shell-reliability",
+  "summary": "Reliable command execution on Windows: paths, encoding, and common binary pitfalls.",
+  "description": "Reliable command execution on Windows: paths, encoding, and common binary pitfalls.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-19",
+  "version": "1.0.0",
+  "contentPath": "skills/windows-shell-reliability/SKILL.md",
+  "metadataPath": "skills/windows-shell-reliability/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/windows-shell-reliability"
+  }
+}

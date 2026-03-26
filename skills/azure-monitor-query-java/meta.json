@@ -1,0 +1,22 @@
+{
+  "id": "azure-monitor-query-java",
+  "name": "azure-monitor-query-java",
+  "summary": "Azure Monitor Query SDK for Java.",
+  "description": "Azure Monitor Query SDK for Java. Execute Kusto queries against Log Analytics workspaces and query metrics from Azure resources.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-monitor-query-java/SKILL.md",
+  "metadataPath": "skills/azure-monitor-query-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-monitor-query-java"
+  }
+}

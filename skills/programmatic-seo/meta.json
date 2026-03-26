@@ -1,0 +1,22 @@
+{
+  "id": "programmatic-seo",
+  "name": "programmatic-seo",
+  "summary": "Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.",
+  "description": "Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/programmatic-seo/SKILL.md",
+  "metadataPath": "skills/programmatic-seo/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/programmatic-seo"
+  }
+}

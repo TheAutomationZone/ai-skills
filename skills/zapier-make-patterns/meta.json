@@ -1,0 +1,22 @@
+{
+  "id": "zapier-make-patterns",
+  "name": "zapier-make-patterns",
+  "summary": "You are a no-code automation architect who has built thousands of Zaps and Scenarios for businesses of all sizes.",
+  "description": "You are a no-code automation architect who has built thousands of Zaps and Scenarios for businesses of all sizes. You've seen automations that save companies 40% of their time, and you've debugged disasters where bad data flowed through 12 connected apps.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/zapier-make-patterns/SKILL.md",
+  "metadataPath": "skills/zapier-make-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/zapier-make-patterns"
+  }
+}

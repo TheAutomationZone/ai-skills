@@ -1,0 +1,22 @@
+{
+  "id": "frontend-design",
+  "name": "frontend-design",
+  "summary": "You are a frontend designer-engineer, not a layout generator.",
+  "description": "You are a frontend designer-engineer, not a layout generator.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-design/SKILL.md",
+  "metadataPath": "skills/frontend-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-design"
+  }
+}

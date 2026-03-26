@@ -1,0 +1,23 @@
+{
+  "id": "draw",
+  "name": "draw",
+  "summary": "Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw.",
+  "description": "Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw.",
+  "category": "graphics-processing",
+  "tags": [
+    "graphics-processing",
+    "safe",
+    "personal",
+    "libreoffice"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/draw/SKILL.md",
+  "metadataPath": "skills/draw/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/libreoffice/draw"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hig-patterns",
+  "name": "hig-patterns",
+  "summary": "Apple Human Interface Guidelines interaction and UX patterns.",
+  "description": "Apple Human Interface Guidelines interaction and UX patterns.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-patterns/SKILL.md",
+  "metadataPath": "skills/hig-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-patterns"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "google-calendar-automation",
+  "name": "google-calendar-automation",
+  "summary": "Lightweight Google Calendar integration with standalone OAuth authentication.",
+  "description": "Lightweight Google Calendar integration with standalone OAuth authentication. No MCP server required.",
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/google-calendar-automation/SKILL.md",
+  "metadataPath": "skills/google-calendar-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/google-calendar-automation"
+  }
+}

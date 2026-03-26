@@ -1,0 +1,22 @@
+{
+  "id": "cost-optimization",
+  "name": "cost-optimization",
+  "summary": "Strategies and patterns for optimizing cloud costs across AWS, Azure, and GCP.",
+  "description": "Strategies and patterns for optimizing cloud costs across AWS, Azure, and GCP.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cost-optimization/SKILL.md",
+  "metadataPath": "skills/cost-optimization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cost-optimization"
+  }
+}

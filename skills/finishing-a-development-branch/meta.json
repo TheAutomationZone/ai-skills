@@ -1,0 +1,22 @@
+{
+  "id": "finishing-a-development-branch",
+  "name": "finishing-a-development-branch",
+  "summary": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options fo...",
+  "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/finishing-a-development-branch/SKILL.md",
+  "metadataPath": "skills/finishing-a-development-branch/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/finishing-a-development-branch"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "framework-migration-legacy-modernize",
+  "name": "framework-migration-legacy-modernize",
+  "summary": "Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous busines...",
+  "description": "Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/framework-migration-legacy-modernize/SKILL.md",
+  "metadataPath": "skills/framework-migration-legacy-modernize/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/framework-migration-legacy-modernize"
+  }
+}

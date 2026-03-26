@@ -1,0 +1,22 @@
+{
+  "id": "on-call-handoff-patterns",
+  "name": "on-call-handoff-patterns",
+  "summary": "Effective patterns for on-call shift transitions, ensuring continuity, context transfer, and reliable incident response across shifts.",
+  "description": "Effective patterns for on-call shift transitions, ensuring continuity, context transfer, and reliable incident response across shifts.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/on-call-handoff-patterns/SKILL.md",
+  "metadataPath": "skills/on-call-handoff-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/on-call-handoff-patterns"
+  }
+}

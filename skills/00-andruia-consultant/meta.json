@@ -1,0 +1,22 @@
+{
+  "id": "00-andruia-consultant",
+  "name": "00-andruia-consultant",
+  "summary": "Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia.",
+  "description": "Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español.",
+  "category": "andruia",
+  "tags": [
+    "andruia",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/00-andruia-consultant/SKILL.md",
+  "metadataPath": "skills/00-andruia-consultant/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/00-andruia-consultant"
+  }
+}

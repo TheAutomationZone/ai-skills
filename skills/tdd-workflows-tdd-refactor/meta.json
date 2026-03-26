@@ -1,0 +1,22 @@
+{
+  "id": "tdd-workflows-tdd-refactor",
+  "name": "tdd-workflows-tdd-refactor",
+  "summary": "Use when working with tdd workflows tdd refactor",
+  "description": "Use when working with tdd workflows tdd refactor",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tdd-workflows-tdd-refactor/SKILL.md",
+  "metadataPath": "skills/tdd-workflows-tdd-refactor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tdd-workflows-tdd-refactor"
+  }
+}

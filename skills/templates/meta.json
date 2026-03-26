@@ -1,0 +1,22 @@
+{
+  "id": "templates",
+  "name": "templates",
+  "summary": "Project scaffolding templates for new applications.",
+  "description": "Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks.",
+  "category": "app-builder",
+  "tags": [
+    "app-builder",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/templates/SKILL.md",
+  "metadataPath": "skills/templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/app-builder/templates"
+  }
+}

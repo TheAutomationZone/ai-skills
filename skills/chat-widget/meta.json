@@ -1,0 +1,22 @@
+{
+  "id": "chat-widget",
+  "name": "chat-widget",
+  "summary": "Build a real-time support chat system with a floating widget for users and an admin dashboard for support staff.",
+  "description": "Build a real-time support chat system with a floating widget for users and an admin dashboard for support staff. Use when the user wants live chat, customer support chat, real-time messaging, or in-app support.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/chat-widget/SKILL.md",
+  "metadataPath": "skills/chat-widget/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/chat-widget"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-eventgrid-java",
+  "name": "azure-eventgrid-java",
+  "summary": "Build event-driven applications with Azure Event Grid SDK for Java.",
+  "description": "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-eventgrid-java/SKILL.md",
+  "metadataPath": "skills/azure-eventgrid-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-eventgrid-java"
+  }
+}

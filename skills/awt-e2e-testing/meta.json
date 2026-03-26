@@ -1,0 +1,22 @@
+{
+  "id": "awt-e2e-testing",
+  "name": "awt-e2e-testing",
+  "summary": "AI-powered E2E web testing — eyes and hands for AI coding tools.",
+  "description": "AI-powered E2E web testing — eyes and hands for AI coding tools. Declarative YAML scenarios, Playwright execution, visual matching (OpenCV + OCR), platform auto-detection (Flutter/React/Vue), learning DB. Install: npx skills add ksgisang/awt-skill --skill awt -g",
+  "category": "test-automation",
+  "tags": [
+    "test-automation",
+    "unknown",
+    "https://github.com/ksgisang/awt-skill"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/ksgisang/awt-skill",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/awt-e2e-testing/SKILL.md",
+  "metadataPath": "skills/awt-e2e-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/awt-e2e-testing"
+  }
+}

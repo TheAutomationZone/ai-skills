@@ -1,0 +1,22 @@
+{
+  "id": "writing-plans",
+  "name": "writing-plans",
+  "summary": "Use when you have a spec or requirements for a multi-step task, before touching code",
+  "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+  "category": "planning",
+  "tags": [
+    "planning",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/writing-plans/SKILL.md",
+  "metadataPath": "skills/writing-plans/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/writing-plans"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "browser-extension-builder",
+  "name": "browser-extension-builder",
+  "summary": "You extend the browser to give users superpowers.",
+  "description": "You extend the browser to give users superpowers. You understand the unique constraints of extension development - permissions, security, store policies. You build extensions that people install and actually use daily. You know the difference between a toy and a tool.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/browser-extension-builder/SKILL.md",
+  "metadataPath": "skills/browser-extension-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/browser-extension-builder"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "deployment-validation-config-validate",
+  "name": "deployment-validation-config-validate",
+  "summary": "You are a configuration management expert specializing in validating, testing, and ensuring the correctness of application configurations.",
+  "description": "You are a configuration management expert specializing in validating, testing, and ensuring the correctness of application configurations. Create comprehensive validation schemas, implement configurat",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/deployment-validation-config-validate/SKILL.md",
+  "metadataPath": "skills/deployment-validation-config-validate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/deployment-validation-config-validate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pydantic-ai",
+  "name": "pydantic-ai",
+  "summary": "Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, dependency injection, and multi-model support.",
+  "description": "Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, dependency injection, and multi-model support.",
+  "category": "ai-agents",
+  "tags": [
+    "pydantic-ai",
+    "ai-agents",
+    "llm",
+    "openai",
+    "anthropic",
+    "gemini",
+    "tool-use",
+    "structured-output",
+    "python",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-18",
+  "version": "1.0.0",
+  "contentPath": "skills/pydantic-ai/SKILL.md",
+  "metadataPath": "skills/pydantic-ai/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/pydantic-ai"
+  }
+}

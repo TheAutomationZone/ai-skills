@@ -1,0 +1,22 @@
+{
+  "id": "gh-review-requests",
+  "name": "gh-review-requests",
+  "summary": "Fetch unread GitHub notifications for open PRs where review is requested from a specified team or opened by a team member.",
+  "description": "Fetch unread GitHub notifications for open PRs where review is requested from a specified team or opened by a team member. Use when asked to \"find PRs I need to review\", \"show my review requests\", \"what needs my review\", \"fetch GitHub review requests\", or \"check team review queue\".",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/gh-review-requests/SKILL.md",
+  "metadataPath": "skills/gh-review-requests/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/gh-review-requests"
+  }
+}

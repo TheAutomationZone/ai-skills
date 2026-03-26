@@ -1,0 +1,22 @@
+{
+  "id": "docusign-automation",
+  "name": "docusign-automation",
+  "summary": "Automate DocuSign tasks via Rube MCP (Composio): templates, envelopes, signatures, document management.",
+  "description": "Automate DocuSign tasks via Rube MCP (Composio): templates, envelopes, signatures, document management. Always search tools first for current schemas.",
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/docusign-automation/SKILL.md",
+  "metadataPath": "skills/docusign-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/docusign-automation"
+  }
+}

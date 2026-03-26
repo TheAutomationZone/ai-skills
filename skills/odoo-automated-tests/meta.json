@@ -1,0 +1,22 @@
+{
+  "id": "odoo-automated-tests",
+  "name": "odoo-automated-tests",
+  "summary": "Write and run Odoo automated tests using TransactionCase, HttpCase, and browser tour tests.",
+  "description": "Write and run Odoo automated tests using TransactionCase, HttpCase, and browser tour tests. Covers test data setup, mocking, and CI integration.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-automated-tests/SKILL.md",
+  "metadataPath": "skills/odoo-automated-tests/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-automated-tests"
+  }
+}

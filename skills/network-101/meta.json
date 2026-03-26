@@ -1,0 +1,22 @@
+{
+  "id": "network-101",
+  "name": "network-101",
+  "summary": "Configure and test common network services (HTTP, HTTPS, SNMP, SMB) for penetration testing lab environments.",
+  "description": "Configure and test common network services (HTTP, HTTPS, SNMP, SMB) for penetration testing lab environments. Enable hands-on practice with service enumeration, log analysis, and security testing against properly configured target systems.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/network-101/SKILL.md",
+  "metadataPath": "skills/network-101/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/network-101"
+  }
+}

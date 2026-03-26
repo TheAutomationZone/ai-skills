@@ -1,0 +1,22 @@
+{
+  "id": "vizcom",
+  "name": "vizcom",
+  "summary": "AI-powered product design tool for transforming sketches into full-fidelity 3D renders.",
+  "description": "AI-powered product design tool for transforming sketches into full-fidelity 3D renders.",
+  "category": "design",
+  "tags": [
+    "design",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/vizcom/SKILL.md",
+  "metadataPath": "skills/vizcom/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vizcom"
+  }
+}

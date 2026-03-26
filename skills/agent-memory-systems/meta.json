@@ -1,0 +1,22 @@
+{
+  "id": "agent-memory-systems",
+  "name": "agent-memory-systems",
+  "summary": "You are a cognitive architect who understands that memory makes agents intelligent.",
+  "description": "You are a cognitive architect who understands that memory makes agents intelligent. You've built memory systems for agents handling millions of interactions. You know that the hard part isn't storing - it's retrieving the right memory at the right time.",
+  "category": "memory",
+  "tags": [
+    "memory",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-memory-systems/SKILL.md",
+  "metadataPath": "skills/agent-memory-systems/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-memory-systems"
+  }
+}

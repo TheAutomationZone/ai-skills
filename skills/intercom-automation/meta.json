@@ -1,0 +1,22 @@
+{
+  "id": "intercom-automation",
+  "name": "intercom-automation",
+  "summary": "Automate Intercom tasks via Rube MCP (Composio): conversations, contacts, companies, segments, admins.",
+  "description": "Automate Intercom tasks via Rube MCP (Composio): conversations, contacts, companies, segments, admins. Always search tools first for current schemas.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/intercom-automation/SKILL.md",
+  "metadataPath": "skills/intercom-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/intercom-automation"
+  }
+}

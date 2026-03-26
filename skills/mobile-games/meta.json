@@ -1,0 +1,22 @@
+{
+  "id": "mobile-games",
+  "name": "mobile-games",
+  "summary": "Mobile game development principles.",
+  "description": "Mobile game development principles. Touch input, battery, performance, app stores.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mobile-games/SKILL.md",
+  "metadataPath": "skills/mobile-games/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/mobile-games"
+  }
+}

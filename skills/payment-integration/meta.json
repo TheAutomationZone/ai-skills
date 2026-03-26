@@ -1,0 +1,22 @@
+{
+  "id": "payment-integration",
+  "name": "payment-integration",
+  "summary": "Integrate Stripe, PayPal, and payment processors.",
+  "description": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/payment-integration/SKILL.md",
+  "metadataPath": "skills/payment-integration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/payment-integration"
+  }
+}

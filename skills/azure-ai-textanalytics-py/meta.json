@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-textanalytics-py",
+  "name": "azure-ai-textanalytics-py",
+  "summary": "Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP.",
+  "description": "Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language processing on text.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-textanalytics-py/SKILL.md",
+  "metadataPath": "skills/azure-ai-textanalytics-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-textanalytics-py"
+  }
+}

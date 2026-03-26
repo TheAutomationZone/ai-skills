@@ -1,0 +1,22 @@
+{
+  "id": "k8s-manifest-generator",
+  "name": "k8s-manifest-generator",
+  "summary": "Step-by-step guidance for creating production-ready Kubernetes manifests including Deployments, Services, ConfigMaps, Secrets, and PersistentVolumeClaims.",
+  "description": "Step-by-step guidance for creating production-ready Kubernetes manifests including Deployments, Services, ConfigMaps, Secrets, and PersistentVolumeClaims.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/k8s-manifest-generator/SKILL.md",
+  "metadataPath": "skills/k8s-manifest-generator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/k8s-manifest-generator"
+  }
+}

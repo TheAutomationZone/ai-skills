@@ -1,0 +1,22 @@
+{
+  "id": "biopython",
+  "name": "biopython",
+  "summary": "Biopython is a comprehensive set of freely available Python tools for biological computation.",
+  "description": "Biopython is a comprehensive set of freely available Python tools for biological computation. It provides functionality for sequence manipulation, file I/O, database access, structural bioinformatics, phylogenetics, and many other bioinformatics tasks.",
+  "category": "science",
+  "tags": [
+    "science",
+    "unknown",
+    "https://github.com/biopython/biopython"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/biopython/biopython",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/biopython/SKILL.md",
+  "metadataPath": "skills/biopython/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/biopython"
+  }
+}

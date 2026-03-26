@@ -1,0 +1,22 @@
+{
+  "id": "seo-page",
+  "name": "seo-page",
+  "summary": ">",
+  "description": ">",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/agricidaniel/claude-seo"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/AgriciDaniel/claude-seo",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-page/SKILL.md",
+  "metadataPath": "skills/seo-page/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-page"
+  }
+}

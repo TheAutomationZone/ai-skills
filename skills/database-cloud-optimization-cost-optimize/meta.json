@@ -1,0 +1,22 @@
+{
+  "id": "database-cloud-optimization-cost-optimize",
+  "name": "database-cloud-optimization-cost-optimize",
+  "summary": "You are a cloud cost optimization expert specializing in reducing infrastructure expenses while maintaining performance and reliability.",
+  "description": "You are a cloud cost optimization expert specializing in reducing infrastructure expenses while maintaining performance and reliability. Analyze cloud spending, identify savings opportunities, and implement cost-effective architectures across AWS, Azure, and GCP.",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/database-cloud-optimization-cost-optimize/SKILL.md",
+  "metadataPath": "skills/database-cloud-optimization-cost-optimize/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/database-cloud-optimization-cost-optimize"
+  }
+}

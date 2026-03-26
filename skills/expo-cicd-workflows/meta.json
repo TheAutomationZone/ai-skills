@@ -1,0 +1,22 @@
+{
+  "id": "expo-cicd-workflows",
+  "name": "expo-cicd-workflows",
+  "summary": "Helps understand and write EAS workflow YAML files for Expo projects.",
+  "description": "Helps understand and write EAS workflow YAML files for Expo projects. Use this skill when the user asks about CI/CD or workflows in an Expo or EAS context, mentions .eas/workflows/, or wants help with EAS build pipelines or deployment automation.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/expo-cicd-workflows/SKILL.md",
+  "metadataPath": "skills/expo-cicd-workflows/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/expo-cicd-workflows"
+  }
+}

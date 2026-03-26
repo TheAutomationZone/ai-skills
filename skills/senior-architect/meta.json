@@ -1,0 +1,22 @@
+{
+  "id": "senior-architect",
+  "name": "senior-architect",
+  "summary": "Complete toolkit for senior architect with modern tools and best practices.",
+  "description": "Complete toolkit for senior architect with modern tools and best practices.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/senior-architect/SKILL.md",
+  "metadataPath": "skills/senior-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/senior-architect"
+  }
+}

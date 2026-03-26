@@ -1,0 +1,22 @@
+{
+  "id": "comprehensive-review-pr-enhance",
+  "name": "comprehensive-review-pr-enhance",
+  "summary": ">",
+  "description": ">",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/comprehensive-review-pr-enhance/SKILL.md",
+  "metadataPath": "skills/comprehensive-review-pr-enhance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/comprehensive-review-pr-enhance"
+  }
+}

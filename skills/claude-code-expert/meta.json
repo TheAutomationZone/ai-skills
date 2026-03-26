@@ -1,0 +1,26 @@
+{
+  "id": "claude-code-expert",
+  "name": "claude-code-expert",
+  "summary": "Especialista profundo em Claude Code - CLI da Anthropic.",
+  "description": "Especialista profundo em Claude Code - CLI da Anthropic. Maximiza produtividade com atalhos, hooks, MCPs, configuracoes avancadas, workflows, CLAUDE.md, memoria, sub-agentes, permissoes e integracao com ecossistemas.",
+  "category": "ai-ml",
+  "tags": [
+    "claude-code",
+    "productivity",
+    "cli",
+    "configuration",
+    "ai-ml",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/claude-code-expert/SKILL.md",
+  "metadataPath": "skills/claude-code-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claude-code-expert"
+  }
+}

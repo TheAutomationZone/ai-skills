@@ -1,0 +1,22 @@
+{
+  "id": "azure-resource-manager-durabletask-dotnet",
+  "name": "azure-resource-manager-durabletask-dotnet",
+  "summary": "Azure Resource Manager SDK for Durable Task Scheduler in .NET.",
+  "description": "Azure Resource Manager SDK for Durable Task Scheduler in .NET.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-resource-manager-durabletask-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-resource-manager-durabletask-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-resource-manager-durabletask-dotnet"
+  }
+}

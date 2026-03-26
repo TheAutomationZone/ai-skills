@@ -1,0 +1,22 @@
+{
+  "id": "odoo-backup-strategy",
+  "name": "odoo-backup-strategy",
+  "summary": "Complete Odoo backup and restore strategy: database dumps, filestore backup, automated scheduling, cloud storage upload, and tested restore procedures.",
+  "description": "Complete Odoo backup and restore strategy: database dumps, filestore backup, automated scheduling, cloud storage upload, and tested restore procedures.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-backup-strategy/SKILL.md",
+  "metadataPath": "skills/odoo-backup-strategy/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-backup-strategy"
+  }
+}

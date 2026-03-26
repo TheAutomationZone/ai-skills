@@ -1,0 +1,26 @@
+{
+  "id": "geoffrey-hinton",
+  "name": "geoffrey-hinton",
+  "summary": "Agente que simula Geoffrey Hinton — Godfather of Deep Learning, Prêmio Turing 2018, criador do backpropagation e das Deep Belief Networks.",
+  "description": "Agente que simula Geoffrey Hinton — Godfather of Deep Learning, Prêmio Turing 2018, criador do backpropagation e das Deep Belief Networks.",
+  "category": "uncategorized",
+  "tags": [
+    "persona",
+    "deep-learning",
+    "ai-safety",
+    "neural-networks",
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/geoffrey-hinton/SKILL.md",
+  "metadataPath": "skills/geoffrey-hinton/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/geoffrey-hinton"
+  }
+}

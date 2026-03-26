@@ -1,0 +1,22 @@
+{
+  "id": "dependency-upgrade",
+  "name": "dependency-upgrade",
+  "summary": "Master major dependency version upgrades, compatibility analysis, staged upgrade strategies, and comprehensive testing approaches.",
+  "description": "Master major dependency version upgrades, compatibility analysis, staged upgrade strategies, and comprehensive testing approaches.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dependency-upgrade/SKILL.md",
+  "metadataPath": "skills/dependency-upgrade/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dependency-upgrade"
+  }
+}

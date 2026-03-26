@@ -1,0 +1,22 @@
+{
+  "id": "cc-skill-clickhouse-io",
+  "name": "cc-skill-clickhouse-io",
+  "summary": "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.",
+  "description": "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cc-skill-clickhouse-io/SKILL.md",
+  "metadataPath": "skills/cc-skill-clickhouse-io/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cc-skill-clickhouse-io"
+  }
+}

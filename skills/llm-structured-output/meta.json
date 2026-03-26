@@ -1,0 +1,22 @@
+{
+  "id": "llm-structured-output",
+  "name": "llm-structured-output",
+  "summary": ">",
+  "description": ">",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-12",
+  "version": "1.0.0",
+  "contentPath": "skills/llm-structured-output/SKILL.md",
+  "metadataPath": "skills/llm-structured-output/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/llm-structured-output"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "agent-orchestrator",
+  "name": "agent-orchestrator",
+  "summary": "Meta-skill que orquestra todos os agentes do ecossistema.",
+  "description": "Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.",
+  "category": "ai-ml",
+  "tags": [
+    "orchestration",
+    "multi-agent",
+    "workflow",
+    "automation",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-orchestrator/SKILL.md",
+  "metadataPath": "skills/agent-orchestrator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-orchestrator"
+  }
+}

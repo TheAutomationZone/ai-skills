@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-anomalydetector-java",
+  "name": "azure-ai-anomalydetector-java",
+  "summary": "Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java.",
+  "description": "Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-series analysis, or AI-powered monitoring.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-anomalydetector-java/SKILL.md",
+  "metadataPath": "skills/azure-ai-anomalydetector-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-anomalydetector-java"
+  }
+}

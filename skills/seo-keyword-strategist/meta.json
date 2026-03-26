@@ -1,0 +1,22 @@
+{
+  "id": "seo-keyword-strategist",
+  "name": "seo-keyword-strategist",
+  "summary": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic.",
+  "description": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-keyword-strategist/SKILL.md",
+  "metadataPath": "skills/seo-keyword-strategist/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-keyword-strategist"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "evaluation",
+  "name": "evaluation",
+  "summary": "Build evaluation frameworks for agent systems.",
+  "description": "Build evaluation frameworks for agent systems. Use when testing agent performance systematically, validating context engineering choices, or measuring improvements over time.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/muratcankoylan/agent-skills-for-context-engineering/tree/main/skills/evaluation"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/evaluation/SKILL.md",
+  "metadataPath": "skills/evaluation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/evaluation"
+  }
+}

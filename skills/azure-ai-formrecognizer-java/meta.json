@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-formrecognizer-java",
+  "name": "azure-ai-formrecognizer-java",
+  "summary": "Build document analysis applications using the Azure AI Document Intelligence SDK for Java.",
+  "description": "Build document analysis applications using the Azure AI Document Intelligence SDK for Java.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-formrecognizer-java/SKILL.md",
+  "metadataPath": "skills/azure-ai-formrecognizer-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-formrecognizer-java"
+  }
+}

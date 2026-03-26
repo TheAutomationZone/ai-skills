@@ -1,0 +1,22 @@
+{
+  "id": "canva-automation",
+  "name": "canva-automation",
+  "summary": "Automate Canva tasks via Rube MCP (Composio): designs, exports, folders, brand templates, autofill.",
+  "description": "Automate Canva tasks via Rube MCP (Composio): designs, exports, folders, brand templates, autofill. Always search tools first for current schemas.",
+  "category": "design",
+  "tags": [
+    "design",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/canva-automation/SKILL.md",
+  "metadataPath": "skills/canva-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/canva-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lightning-factory-explainer",
+  "name": "lightning-factory-explainer",
+  "summary": "Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeout-signature trees, M...",
+  "description": "Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeout-signature trees, MuSig2, and Taproot. No soft fork required.",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-03-03",
+  "version": "1.0.0",
+  "contentPath": "skills/lightning-factory-explainer/SKILL.md",
+  "metadataPath": "skills/lightning-factory-explainer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/lightning-factory-explainer"
+  }
+}

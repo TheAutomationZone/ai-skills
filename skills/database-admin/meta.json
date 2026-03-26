@@ -1,0 +1,22 @@
+{
+  "id": "database-admin",
+  "name": "database-admin",
+  "summary": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.",
+  "description": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.",
+  "category": "database-processing",
+  "tags": [
+    "database-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/database-admin/SKILL.md",
+  "metadataPath": "skills/database-admin/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/database-admin"
+  }
+}

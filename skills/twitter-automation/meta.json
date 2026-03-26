@@ -1,0 +1,22 @@
+{
+  "id": "twitter-automation",
+  "name": "twitter-automation",
+  "summary": "Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media.",
+  "description": "Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media. Always search tools first for current schemas.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/twitter-automation/SKILL.md",
+  "metadataPath": "skills/twitter-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/twitter-automation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "posix-shell-pro",
+  "name": "posix-shell-pro",
+  "summary": "Expert in strict POSIX sh scripting for maximum portability across Unix-like systems.",
+  "description": "Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (dash, ash, sh, bash --posix).",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/posix-shell-pro/SKILL.md",
+  "metadataPath": "skills/posix-shell-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/posix-shell-pro"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "react-best-practices",
+  "name": "react-best-practices",
+  "summary": "Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel.",
+  "description": "Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages, implementing data fetching (client or server-side), or reviewing code for performance issues.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-best-practices/SKILL.md",
+  "metadataPath": "skills/react-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-best-practices"
+  }
+}

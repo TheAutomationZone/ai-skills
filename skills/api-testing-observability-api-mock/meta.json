@@ -1,0 +1,22 @@
+{
+  "id": "api-testing-observability-api-mock",
+  "name": "api-testing-observability-api-mock",
+  "summary": "You are an API mocking expert specializing in realistic mock services for development, testing, and demos.",
+  "description": "You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and enable parallel development.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/api-testing-observability-api-mock/SKILL.md",
+  "metadataPath": "skills/api-testing-observability-api-mock/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-testing-observability-api-mock"
+  }
+}

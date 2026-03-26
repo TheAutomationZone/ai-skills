@@ -1,0 +1,27 @@
+{
+  "id": "fp-either-ref",
+  "name": "fp-either-ref",
+  "summary": "Quick reference for Either type.",
+  "description": "Quick reference for Either type. Use when user needs error handling, validation, or operations that can fail with typed errors.",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "either",
+    "error-handling",
+    "validation",
+    "quick-reference",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-either-ref/SKILL.md",
+  "metadataPath": "skills/fp-either-ref/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-either-ref"
+  }
+}

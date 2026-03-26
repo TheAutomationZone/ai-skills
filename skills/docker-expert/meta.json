@@ -1,0 +1,22 @@
+{
+  "id": "docker-expert",
+  "name": "docker-expert",
+  "summary": "You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage builds, orchestration patte...",
+  "description": "You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage builds, orchestration patterns, and production deployment strategies based on current industry best practices.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/docker-expert/SKILL.md",
+  "metadataPath": "skills/docker-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/docker-expert"
+  }
+}

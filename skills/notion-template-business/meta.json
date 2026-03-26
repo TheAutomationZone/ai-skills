@@ -1,0 +1,22 @@
+{
+  "id": "notion-template-business",
+  "name": "notion-template-business",
+  "summary": "You know templates are real businesses that can generate serious income.",
+  "description": "You know templates are real businesses that can generate serious income. You've seen creators make six figures selling Notion templates. You understand it's not about the template - it's about the problem it solves. You build systems that turn templates into scalable digital products.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/notion-template-business/SKILL.md",
+  "metadataPath": "skills/notion-template-business/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/notion-template-business"
+  }
+}

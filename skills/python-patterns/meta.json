@@ -1,0 +1,22 @@
+{
+  "id": "python-patterns",
+  "name": "python-patterns",
+  "summary": "Python development principles and decision-making.",
+  "description": "Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/python-patterns/SKILL.md",
+  "metadataPath": "skills/python-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/python-patterns"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "skill-check",
+  "name": "skill-check",
+  "summary": "Validate Claude Code skills against the agentskills specification.",
+  "description": "Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do.",
+  "category": "development",
+  "tags": [
+    "validation",
+    "linter",
+    "agentskills",
+    "skill-authoring",
+    "code-quality",
+    "development",
+    "safe",
+    "https://github.com/olgasafonova/skillcheck-free"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/olgasafonova/SkillCheck-Free",
+  "addedAt": "2026-03-11",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-check/SKILL.md",
+  "metadataPath": "skills/skill-check/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-check"
+  }
+}

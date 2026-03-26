@@ -1,0 +1,22 @@
+{
+  "id": "constant-time-analysis",
+  "name": "constant-time-analysis",
+  "summary": "Analyze cryptographic code to detect operations that leak secret data through execution timing variations.",
+  "description": "Analyze cryptographic code to detect operations that leak secret data through execution timing variations.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/constant-time-analysis/SKILL.md",
+  "metadataPath": "skills/constant-time-analysis/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/constant-time-analysis"
+  }
+}

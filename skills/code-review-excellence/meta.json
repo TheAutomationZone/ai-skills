@@ -1,0 +1,22 @@
+{
+  "id": "code-review-excellence",
+  "name": "code-review-excellence",
+  "summary": "Transform code reviews from gatekeeping to knowledge sharing through constructive feedback, systematic analysis, and collaborative improvement.",
+  "description": "Transform code reviews from gatekeeping to knowledge sharing through constructive feedback, systematic analysis, and collaborative improvement.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/code-review-excellence/SKILL.md",
+  "metadataPath": "skills/code-review-excellence/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/code-review-excellence"
+  }
+}

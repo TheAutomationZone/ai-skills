@@ -1,0 +1,22 @@
+{
+  "id": "typescript-expert",
+  "name": "typescript-expert",
+  "summary": "TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling.",
+  "description": "TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/typescript-expert/SKILL.md",
+  "metadataPath": "skills/typescript-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/typescript-expert"
+  }
+}

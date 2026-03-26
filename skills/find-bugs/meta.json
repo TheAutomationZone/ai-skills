@@ -1,0 +1,22 @@
+{
+  "id": "find-bugs",
+  "name": "find-bugs",
+  "summary": "Find bugs, security vulnerabilities, and code quality issues in local branch changes.",
+  "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/find-bugs/SKILL.md",
+  "metadataPath": "skills/find-bugs/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/find-bugs"
+  }
+}

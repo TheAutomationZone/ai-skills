@@ -1,0 +1,22 @@
+{
+  "id": "hubspot-integration",
+  "name": "hubspot-integration",
+  "summary": "Authentication for single-account integrations",
+  "description": "Authentication for single-account integrations",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hubspot-integration/SKILL.md",
+  "metadataPath": "skills/hubspot-integration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hubspot-integration"
+  }
+}

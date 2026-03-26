@@ -1,0 +1,26 @@
+{
+  "id": "steve-jobs",
+  "name": "steve-jobs",
+  "summary": "Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de prod...",
+  "description": "Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de produtos do mundo.",
+  "category": "uncategorized",
+  "tags": [
+    "persona",
+    "design-thinking",
+    "product",
+    "presentations",
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/steve-jobs/SKILL.md",
+  "metadataPath": "skills/steve-jobs/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/steve-jobs"
+  }
+}

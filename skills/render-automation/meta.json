@@ -1,0 +1,22 @@
+{
+  "id": "render-automation",
+  "name": "render-automation",
+  "summary": "Automate Render tasks via Rube MCP (Composio): services, deployments, projects.",
+  "description": "Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/render-automation/SKILL.md",
+  "metadataPath": "skills/render-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/render-automation"
+  }
+}

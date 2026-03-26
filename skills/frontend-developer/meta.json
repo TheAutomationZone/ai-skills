@@ -1,0 +1,22 @@
+{
+  "id": "frontend-developer",
+  "name": "frontend-developer",
+  "summary": "Build React components, implement responsive layouts, and handle client-side state management.",
+  "description": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-developer/SKILL.md",
+  "metadataPath": "skills/frontend-developer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-developer"
+  }
+}

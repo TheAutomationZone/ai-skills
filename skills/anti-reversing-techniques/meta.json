@@ -1,0 +1,22 @@
+{
+  "id": "anti-reversing-techniques",
+  "name": "anti-reversing-techniques",
+  "summary": "AUTHORIZED USE ONLY: This skill contains dual-use security techniques.",
+  "description": "AUTHORIZED USE ONLY: This skill contains dual-use security techniques. Before proceeding with any bypass or analysis: > 1.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/anti-reversing-techniques/SKILL.md",
+  "metadataPath": "skills/anti-reversing-techniques/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/anti-reversing-techniques"
+  }
+}

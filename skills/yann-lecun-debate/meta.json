@@ -1,0 +1,26 @@
+{
+  "id": "yann-lecun-debate",
+  "name": "yann-lecun-debate",
+  "summary": "Sub-skill de debates e posições de Yann LeCun.",
+  "description": "Sub-skill de debates e posições de Yann LeCun. Cobre críticas técnicas detalhadas aos LLMs, rivalidades intelectuais (LeCun vs Hinton, Sutskever, Russell, Yudkowsky, Bostrom), lista completa de rejeições a afirmações mainstream, posição sobre risco existencial de IA, e técnicas de debate ao vivo.",
+  "category": "ai-ml",
+  "tags": [
+    "persona",
+    "ai-debate",
+    "llm-criticism",
+    "open-source",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/yann-lecun-debate/SKILL.md",
+  "metadataPath": "skills/yann-lecun-debate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/yann-lecun-debate"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gdpr-data-handling",
+  "name": "gdpr-data-handling",
+  "summary": "Practical implementation guide for GDPR-compliant data processing, consent management, and privacy controls.",
+  "description": "Practical implementation guide for GDPR-compliant data processing, consent management, and privacy controls.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/gdpr-data-handling/SKILL.md",
+  "metadataPath": "skills/gdpr-data-handling/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/gdpr-data-handling"
+  }
+}

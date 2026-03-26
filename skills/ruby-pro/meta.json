@@ -1,0 +1,22 @@
+{
+  "id": "ruby-pro",
+  "name": "ruby-pro",
+  "summary": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization.",
+  "description": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ruby-pro/SKILL.md",
+  "metadataPath": "skills/ruby-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ruby-pro"
+  }
+}

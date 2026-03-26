@@ -1,0 +1,22 @@
+{
+  "id": "apify-actorization",
+  "name": "apify-actorization",
+  "summary": "Actorization converts existing software into reusable serverless applications compatible with the Apify platform.",
+  "description": "Actorization converts existing software into reusable serverless applications compatible with the Apify platform. Actors are programs packaged as Docker images that accept well-defined JSON input, perform an action, and optionally produce structured JSON output.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/apify-actorization/SKILL.md",
+  "metadataPath": "skills/apify-actorization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/apify-actorization"
+  }
+}

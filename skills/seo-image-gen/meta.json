@@ -1,0 +1,22 @@
+{
+  "id": "seo-image-gen",
+  "name": "seo-image-gen",
+  "summary": "Generate SEO-focused images such as OG cards, hero images, schema assets, product visuals, and infographics.",
+  "description": "Generate SEO-focused images such as OG cards, hero images, schema assets, product visuals, and infographics. Use when image generation is part of an SEO workflow or content publishing task.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "https://github.com/agricidaniel/claude-seo"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/AgriciDaniel/claude-seo",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-image-gen/SKILL.md",
+  "metadataPath": "skills/seo-image-gen/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-image-gen"
+  }
+}

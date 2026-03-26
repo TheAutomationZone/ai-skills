@@ -1,0 +1,22 @@
+{
+  "id": "spark-optimization",
+  "name": "spark-optimization",
+  "summary": "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning.",
+  "description": "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/spark-optimization/SKILL.md",
+  "metadataPath": "skills/spark-optimization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/spark-optimization"
+  }
+}

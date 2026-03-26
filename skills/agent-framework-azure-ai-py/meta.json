@@ -1,0 +1,22 @@
+{
+  "id": "agent-framework-azure-ai-py",
+  "name": "agent-framework-azure-ai-py",
+  "summary": "Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK.",
+  "description": "Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-framework-azure-ai-py/SKILL.md",
+  "metadataPath": "skills/agent-framework-azure-ai-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-framework-azure-ai-py"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github-issue-creator",
+  "name": "github-issue-creator",
+  "summary": "Transform messy input (error logs, voice notes, screenshots) into clean, actionable GitHub issues.",
+  "description": "Transform messy input (error logs, voice notes, screenshots) into clean, actionable GitHub issues.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/github-issue-creator/SKILL.md",
+  "metadataPath": "skills/github-issue-creator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/github-issue-creator"
+  }
+}

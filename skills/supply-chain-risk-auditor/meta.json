@@ -1,0 +1,22 @@
+{
+  "id": "supply-chain-risk-auditor",
+  "name": "supply-chain-risk-auditor",
+  "summary": "Identifies dependencies at heightened risk of exploitation or takeover.",
+  "description": "Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/supply-chain-risk-auditor/SKILL.md",
+  "metadataPath": "skills/supply-chain-risk-auditor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/supply-chain-risk-auditor"
+  }
+}

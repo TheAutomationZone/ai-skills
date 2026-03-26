@@ -1,0 +1,22 @@
+{
+  "id": "seo-technical",
+  "name": "seo-technical",
+  "summary": "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.t...",
+  "description": "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "https://github.com/agricidaniel/claude-seo"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/AgriciDaniel/claude-seo",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-technical/SKILL.md",
+  "metadataPath": "skills/seo-technical/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-technical"
+  }
+}

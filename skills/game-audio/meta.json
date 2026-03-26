@@ -1,0 +1,22 @@
+{
+  "id": "game-audio",
+  "name": "game-audio",
+  "summary": "Game audio principles.",
+  "description": "Game audio principles. Sound design, music integration, adaptive audio systems.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/game-audio/SKILL.md",
+  "metadataPath": "skills/game-audio/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/game-audio"
+  }
+}

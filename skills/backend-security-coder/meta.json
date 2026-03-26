@@ -1,0 +1,22 @@
+{
+  "id": "backend-security-coder",
+  "name": "backend-security-coder",
+  "summary": "Expert in secure backend coding practices specializing in input validation, authentication, and API security.",
+  "description": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/backend-security-coder/SKILL.md",
+  "metadataPath": "skills/backend-security-coder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/backend-security-coder"
+  }
+}

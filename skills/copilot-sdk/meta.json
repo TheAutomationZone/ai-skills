@@ -1,0 +1,22 @@
+{
+  "id": "copilot-sdk",
+  "name": "copilot-sdk",
+  "summary": "Build applications that programmatically interact with GitHub Copilot.",
+  "description": "Build applications that programmatically interact with GitHub Copilot. The SDK wraps the Copilot CLI via JSON-RPC, providing session management, custom tools, hooks, MCP server integration, and streaming across Node.js, Python, Go, and .NET.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/copilot-sdk/SKILL.md",
+  "metadataPath": "skills/copilot-sdk/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/copilot-sdk"
+  }
+}

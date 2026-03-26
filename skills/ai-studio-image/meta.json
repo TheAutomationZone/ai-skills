@@ -1,0 +1,26 @@
+{
+  "id": "ai-studio-image",
+  "name": "ai-studio-image",
+  "summary": "Geracao de imagens humanizadas via Google AI Studio (Gemini).",
+  "description": "Geracao de imagens humanizadas via Google AI Studio (Gemini). Fotos realistas estilo influencer ou educacional com iluminacao natural e imperfeicoes sutis.",
+  "category": "ai-ml",
+  "tags": [
+    "image-generation",
+    "ai-studio",
+    "google",
+    "photography",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/ai-studio-image/SKILL.md",
+  "metadataPath": "skills/ai-studio-image/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ai-studio-image"
+  }
+}

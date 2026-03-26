@@ -1,0 +1,22 @@
+{
+  "id": "kotlin-coroutines-expert",
+  "name": "kotlin-coroutines-expert",
+  "summary": "Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing.",
+  "description": "Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/kotlin-coroutines-expert/SKILL.md",
+  "metadataPath": "skills/kotlin-coroutines-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/kotlin-coroutines-expert"
+  }
+}

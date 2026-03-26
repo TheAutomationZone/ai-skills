@@ -1,0 +1,22 @@
+{
+  "id": "systems-programming-rust-project",
+  "name": "systems-programming-rust-project",
+  "summary": "You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications.",
+  "description": "You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/systems-programming-rust-project/SKILL.md",
+  "metadataPath": "skills/systems-programming-rust-project/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/systems-programming-rust-project"
+  }
+}

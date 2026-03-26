@@ -1,0 +1,22 @@
+{
+  "id": "screenshots",
+  "name": "screenshots",
+  "summary": "Generate marketing screenshots of your app using Playwright.",
+  "description": "Generate marketing screenshots of your app using Playwright. Use when the user wants to create screenshots for Product Hunt, social media, landing pages, or documentation.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "safe",
+    "https://github.com/shpigford/skills/tree/main/screenshots"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/Shpigford/skills/tree/main/screenshots",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/screenshots/SKILL.md",
+  "metadataPath": "skills/screenshots/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/screenshots"
+  }
+}

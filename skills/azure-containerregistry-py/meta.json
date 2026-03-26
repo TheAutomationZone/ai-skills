@@ -1,0 +1,22 @@
+{
+  "id": "azure-containerregistry-py",
+  "name": "azure-containerregistry-py",
+  "summary": "Azure Container Registry SDK for Python.",
+  "description": "Azure Container Registry SDK for Python. Use for managing container images, artifacts, and repositories.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-containerregistry-py/SKILL.md",
+  "metadataPath": "skills/azure-containerregistry-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-containerregistry-py"
+  }
+}

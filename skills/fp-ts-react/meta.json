@@ -1,0 +1,22 @@
+{
+  "id": "fp-ts-react",
+  "name": "fp-ts-react",
+  "summary": "Practical patterns for using fp-ts with React - hooks, state, forms, data fetching.",
+  "description": "Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Use when building React apps with functional programming patterns. Works with React 18/19, Next.js 14/15.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "https://github.com/whatiskadudoing/fp-ts-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/whatiskadudoing/fp-ts-skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-ts-react/SKILL.md",
+  "metadataPath": "skills/fp-ts-react/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-ts-react"
+  }
+}

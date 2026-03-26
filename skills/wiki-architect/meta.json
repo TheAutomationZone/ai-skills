@@ -1,0 +1,22 @@
+{
+  "id": "wiki-architect",
+  "name": "wiki-architect",
+  "summary": "You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases.",
+  "description": "You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wiki-architect/SKILL.md",
+  "metadataPath": "skills/wiki-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wiki-architect"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "expo-ui-jetpack-compose",
+  "name": "expo-ui-jetpack-compose",
+  "summary": "expo-ui-jetpack-compose",
+  "description": "expo-ui-jetpack-compose",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/expo-ui-jetpack-compose/SKILL.md",
+  "metadataPath": "skills/expo-ui-jetpack-compose/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/expo-ui-jetpack-compose"
+  }
+}

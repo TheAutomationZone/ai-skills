@@ -1,0 +1,22 @@
+{
+  "id": "sql-optimization-patterns",
+  "name": "sql-optimization-patterns",
+  "summary": "Transform slow database queries into lightning-fast operations through systematic optimization, proper indexing, and query plan analysis.",
+  "description": "Transform slow database queries into lightning-fast operations through systematic optimization, proper indexing, and query plan analysis.",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/sql-optimization-patterns/SKILL.md",
+  "metadataPath": "skills/sql-optimization-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sql-optimization-patterns"
+  }
+}

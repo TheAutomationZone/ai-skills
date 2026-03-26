@@ -1,0 +1,22 @@
+{
+  "id": "20-andruia-niche-intelligence",
+  "name": "20-andruia-niche-intelligence",
+  "summary": "Estratega de Inteligencia de Dominio de Andru.ia.",
+  "description": "Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho específico de un proyecto para inyectar conocimientos, regulaciones y estándares únicos del sector. Actívalo tras definir el nicho.",
+  "category": "andruia",
+  "tags": [
+    "andruia",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/20-andruia-niche-intelligence/SKILL.md",
+  "metadataPath": "skills/20-andruia-niche-intelligence/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/20-andruia-niche-intelligence"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "apify-ultimate-scraper",
+  "name": "apify-ultimate-scraper",
+  "summary": "AI-driven data extraction from 55+ Actors across all major platforms.",
+  "description": "AI-driven data extraction from 55+ Actors across all major platforms. This skill automatically selects the best Actor for your task.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/apify-ultimate-scraper/SKILL.md",
+  "metadataPath": "skills/apify-ultimate-scraper/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/apify-ultimate-scraper"
+  }
+}

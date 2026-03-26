@@ -1,0 +1,22 @@
+{
+  "id": "new-rails-project",
+  "name": "new-rails-project",
+  "summary": "Create a new Rails project",
+  "description": "Create a new Rails project",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/new-rails-project/SKILL.md",
+  "metadataPath": "skills/new-rails-project/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/new-rails-project"
+  }
+}

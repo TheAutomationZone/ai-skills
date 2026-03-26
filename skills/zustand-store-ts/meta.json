@@ -1,0 +1,22 @@
+{
+  "id": "zustand-store-ts",
+  "name": "zustand-store-ts",
+  "summary": "Create Zustand stores following established patterns with proper TypeScript types and middleware.",
+  "description": "Create Zustand stores following established patterns with proper TypeScript types and middleware.",
+  "category": "frontend",
+  "tags": [
+    "frontend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/zustand-store-ts/SKILL.md",
+  "metadataPath": "skills/zustand-store-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/zustand-store-ts"
+  }
+}

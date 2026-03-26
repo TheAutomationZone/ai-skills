@@ -1,0 +1,22 @@
+{
+  "id": "product-manager-toolkit",
+  "name": "product-manager-toolkit",
+  "summary": "Essential tools and frameworks for modern product management, from discovery to delivery.",
+  "description": "Essential tools and frameworks for modern product management, from discovery to delivery.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/product-manager-toolkit/SKILL.md",
+  "metadataPath": "skills/product-manager-toolkit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/product-manager-toolkit"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "theme-factory",
+  "name": "theme-factory",
+  "summary": "This skill provides a curated collection of professional font and color themes themes, each with carefully selected color palettes and font pairings.",
+  "description": "This skill provides a curated collection of professional font and color themes themes, each with carefully selected color palettes and font pairings. Once a theme is chosen, it can be applied to any artifact.",
+  "category": "design",
+  "tags": [
+    "design",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/theme-factory/SKILL.md",
+  "metadataPath": "skills/theme-factory/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/theme-factory"
+  }
+}

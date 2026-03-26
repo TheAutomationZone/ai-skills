@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-fabric-dotnet",
+  "name": "azure-mgmt-fabric-dotnet",
+  "summary": "Azure Resource Manager SDK for Fabric in .NET.",
+  "description": "Azure Resource Manager SDK for Fabric in .NET.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-fabric-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-fabric-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-fabric-dotnet"
+  }
+}

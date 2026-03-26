@@ -1,0 +1,22 @@
+{
+  "id": "brand-guidelines-anthropic",
+  "name": "brand-guidelines-anthropic",
+  "summary": "To access Anthropic's official brand identity and style resources, use this skill.",
+  "description": "To access Anthropic's official brand identity and style resources, use this skill.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/brand-guidelines-anthropic/SKILL.md",
+  "metadataPath": "skills/brand-guidelines-anthropic/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/brand-guidelines-anthropic"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-monitor-opentelemetry-py",
+  "name": "azure-monitor-opentelemetry-py",
+  "summary": "Azure Monitor OpenTelemetry Distro for Python.",
+  "description": "Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application Insights setup with auto-instrumentation.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-monitor-opentelemetry-py/SKILL.md",
+  "metadataPath": "skills/azure-monitor-opentelemetry-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-monitor-opentelemetry-py"
+  }
+}

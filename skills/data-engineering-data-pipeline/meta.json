@@ -1,0 +1,22 @@
+{
+  "id": "data-engineering-data-pipeline",
+  "name": "data-engineering-data-pipeline",
+  "summary": "You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing.",
+  "description": "You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing.",
+  "category": "data-science",
+  "tags": [
+    "data-science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/data-engineering-data-pipeline/SKILL.md",
+  "metadataPath": "skills/data-engineering-data-pipeline/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/data-engineering-data-pipeline"
+  }
+}

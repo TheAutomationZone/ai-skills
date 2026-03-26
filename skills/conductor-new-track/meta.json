@@ -1,0 +1,22 @@
+{
+  "id": "conductor-new-track",
+  "name": "conductor-new-track",
+  "summary": "Create a new track with specification and phased implementation plan",
+  "description": "Create a new track with specification and phased implementation plan",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/conductor-new-track/SKILL.md",
+  "metadataPath": "skills/conductor-new-track/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/conductor-new-track"
+  }
+}

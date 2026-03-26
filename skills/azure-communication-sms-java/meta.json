@@ -1,0 +1,22 @@
+{
+  "id": "azure-communication-sms-java",
+  "name": "azure-communication-sms-java",
+  "summary": "Send SMS messages with Azure Communication Services SMS Java SDK.",
+  "description": "Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-communication-sms-java/SKILL.md",
+  "metadataPath": "skills/azure-communication-sms-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-communication-sms-java"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hugging-face-cli",
+  "name": "hugging-face-cli",
+  "summary": "The hf CLI provides direct terminal access to the Hugging Face Hub for downloading, uploading, and managing repositories, cache, and compute resources.",
+  "description": "The hf CLI provides direct terminal access to the Hugging Face Hub for downloading, uploading, and managing repositories, cache, and compute resources.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hugging-face-cli/SKILL.md",
+  "metadataPath": "skills/hugging-face-cli/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hugging-face-cli"
+  }
+}

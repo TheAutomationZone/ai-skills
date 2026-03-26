@@ -1,0 +1,22 @@
+{
+  "id": "webapp-testing",
+  "name": "webapp-testing",
+  "summary": "To test local web applications, write native Python Playwright scripts.",
+  "description": "To test local web applications, write native Python Playwright scripts.",
+  "category": "test-automation",
+  "tags": [
+    "test-automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/webapp-testing/SKILL.md",
+  "metadataPath": "skills/webapp-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/webapp-testing"
+  }
+}

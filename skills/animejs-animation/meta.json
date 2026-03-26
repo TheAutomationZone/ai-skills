@@ -1,0 +1,22 @@
+{
+  "id": "animejs-animation",
+  "name": "animejs-animation",
+  "summary": "Advanced JavaScript animation library skill for creating complex, high-performance web animations.",
+  "description": "Advanced JavaScript animation library skill for creating complex, high-performance web animations.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/animejs-animation/SKILL.md",
+  "metadataPath": "skills/animejs-animation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/animejs-animation"
+  }
+}

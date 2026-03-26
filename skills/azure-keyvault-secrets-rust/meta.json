@@ -1,0 +1,22 @@
+{
+  "id": "azure-keyvault-secrets-rust",
+  "name": "azure-keyvault-secrets-rust",
+  "summary": "Azure Key Vault Secrets SDK for Rust.",
+  "description": "Azure Key Vault Secrets SDK for Rust. Use for storing and retrieving secrets, passwords, and API keys. Triggers: \"keyvault secrets rust\", \"SecretClient rust\", \"get secret rust\", \"set secret rust\".",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-keyvault-secrets-rust/SKILL.md",
+  "metadataPath": "skills/azure-keyvault-secrets-rust/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-keyvault-secrets-rust"
+  }
+}

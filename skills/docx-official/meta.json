@@ -1,0 +1,22 @@
+{
+  "id": "docx-official",
+  "name": "docx-official",
+  "summary": "A user may ask you to create, edit, or analyze the contents of a .docx file.",
+  "description": "A user may ask you to create, edit, or analyze the contents of a .docx file. A .docx file is essentially a ZIP archive containing XML files and other resources that you can read or edit. You have different tools and workflows available for different tasks.",
+  "category": "document-processing",
+  "tags": [
+    "document-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/docx-official/SKILL.md",
+  "metadataPath": "skills/docx-official/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/docx-official"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-arizeaiobservabilityeval-dotnet",
+  "name": "azure-mgmt-arizeaiobservabilityeval-dotnet",
+  "summary": "Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).",
+  "description": "Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-arizeaiobservabilityeval-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-arizeaiobservabilityeval-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-arizeaiobservabilityeval-dotnet"
+  }
+}

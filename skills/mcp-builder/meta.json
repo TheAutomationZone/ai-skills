@@ -1,0 +1,22 @@
+{
+  "id": "mcp-builder",
+  "name": "mcp-builder",
+  "summary": "Create MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools.",
+  "description": "Create MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. The quality of an MCP server is measured by how well it enables LLMs to accomplish real-world tasks.",
+  "category": "ai-agents",
+  "tags": [
+    "ai-agents",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mcp-builder/SKILL.md",
+  "metadataPath": "skills/mcp-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mcp-builder"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ui-ux-designer",
+  "name": "ui-ux-designer",
+  "summary": "Create interface designs, wireframes, and design systems.",
+  "description": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ui-ux-designer/SKILL.md",
+  "metadataPath": "skills/ui-ux-designer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ui-ux-designer"
+  }
+}

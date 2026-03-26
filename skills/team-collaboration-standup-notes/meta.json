@@ -1,0 +1,22 @@
+{
+  "id": "team-collaboration-standup-notes",
+  "name": "team-collaboration-standup-notes",
+  "summary": "You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remote team coordination...",
+  "description": "You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remote team coordination patterns.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/team-collaboration-standup-notes/SKILL.md",
+  "metadataPath": "skills/team-collaboration-standup-notes/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/team-collaboration-standup-notes"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "product-design",
+  "name": "product-design",
+  "summary": "Design de produto nivel Apple — sistemas visuais, UX flows, acessibilidade, linguagem visual proprietaria, design tokens, prototipagem e handoff.",
+  "description": "Design de produto nivel Apple — sistemas visuais, UX flows, acessibilidade, linguagem visual proprietaria, design tokens, prototipagem e handoff. Cobre Figma, design systems, tipografia, cor, espacamento, motion design e principios de design cognitivo.",
+  "category": "business",
+  "tags": [
+    "design",
+    "ux",
+    "design-systems",
+    "accessibility",
+    "figma",
+    "business",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/product-design/SKILL.md",
+  "metadataPath": "skills/product-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/product-design"
+  }
+}

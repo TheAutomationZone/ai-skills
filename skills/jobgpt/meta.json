@@ -1,0 +1,22 @@
+{
+  "id": "jobgpt",
+  "name": "jobgpt",
+  "summary": "Job search automation, auto apply, resume generation, application tracking, salary intelligence, and recruiter outreach using the JobGPT MCP server.",
+  "description": "Job search automation, auto apply, resume generation, application tracking, salary intelligence, and recruiter outreach using the JobGPT MCP server.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-23",
+  "version": "1.0.0",
+  "contentPath": "skills/jobgpt/SKILL.md",
+  "metadataPath": "skills/jobgpt/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/jobgpt"
+  }
+}

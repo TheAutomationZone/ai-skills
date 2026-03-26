@@ -1,0 +1,22 @@
+{
+  "id": "legacy-modernizer",
+  "name": "legacy-modernizer",
+  "summary": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization.",
+  "description": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/legacy-modernizer/SKILL.md",
+  "metadataPath": "skills/legacy-modernizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/legacy-modernizer"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "aws-security-audit",
+  "name": "aws-security-audit",
+  "summary": "Comprehensive AWS security posture assessment using AWS CLI and security best practices",
+  "description": "Comprehensive AWS security posture assessment using AWS CLI and security best practices",
+  "category": "security",
+  "tags": [
+    "\"[aws",
+    "security",
+    "audit",
+    "compliance",
+    "kiro-cli",
+    "security-assessment]\"",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/aws-security-audit/SKILL.md",
+  "metadataPath": "skills/aws-security-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security/aws-security-audit"
+  }
+}

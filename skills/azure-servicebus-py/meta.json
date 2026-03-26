@@ -1,0 +1,22 @@
+{
+  "id": "azure-servicebus-py",
+  "name": "azure-servicebus-py",
+  "summary": "Azure Service Bus SDK for Python messaging.",
+  "description": "Azure Service Bus SDK for Python messaging. Use for queues, topics, subscriptions, and enterprise messaging patterns.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-servicebus-py/SKILL.md",
+  "metadataPath": "skills/azure-servicebus-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-servicebus-py"
+  }
+}

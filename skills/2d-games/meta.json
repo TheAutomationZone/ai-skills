@@ -1,0 +1,22 @@
+{
+  "id": "2d-games",
+  "name": "2d-games",
+  "summary": "2D game development principles.",
+  "description": "2D game development principles. Sprites, tilemaps, physics, camera.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/2d-games/SKILL.md",
+  "metadataPath": "skills/2d-games/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/2d-games"
+  }
+}

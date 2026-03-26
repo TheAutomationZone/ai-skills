@@ -1,0 +1,22 @@
+{
+  "id": "makepad-deployment",
+  "name": "makepad-deployment",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/makepad-deployment/SKILL.md",
+  "metadataPath": "skills/makepad-deployment/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/makepad-deployment"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "design-md",
+  "name": "design-md",
+  "summary": "Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files",
+  "description": "Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files",
+  "category": "design",
+  "tags": [
+    "design",
+    "safe",
+    "https://github.com/google-labs-code/stitch-skills/tree/main/skills/design-md"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/google-labs-code/stitch-skills/tree/main/skills/design-md",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/design-md/SKILL.md",
+  "metadataPath": "skills/design-md/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/design-md"
+  }
+}

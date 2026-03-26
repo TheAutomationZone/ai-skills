@@ -1,0 +1,31 @@
+{
+  "id": "videodb",
+  "name": "videodb",
+  "summary": "Video and audio perception, indexing, and editing.",
+  "description": "Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.",
+  "category": "media",
+  "tags": [
+    "\"[video",
+    "editing",
+    "transcription",
+    "subtitles",
+    "search",
+    "streaming",
+    "ai-generation",
+    "media",
+    "live-streams",
+    "desktop-capture]\"",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/videodb/SKILL.md",
+  "metadataPath": "skills/videodb/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/videodb"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "todoist-automation",
+  "name": "todoist-automation",
+  "summary": "Automate Todoist task management, projects, sections, filtering, and bulk operations via Rube MCP (Composio).",
+  "description": "Automate Todoist task management, projects, sections, filtering, and bulk operations via Rube MCP (Composio). Always search tools first for current schemas.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/todoist-automation/SKILL.md",
+  "metadataPath": "skills/todoist-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/todoist-automation"
+  }
+}

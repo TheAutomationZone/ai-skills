@@ -1,0 +1,22 @@
+{
+  "id": "n8n-node-configuration",
+  "name": "n8n-node-configuration",
+  "summary": "Operation-aware node configuration guidance.",
+  "description": "Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning common configuration patterns by node type.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/n8n-node-configuration/SKILL.md",
+  "metadataPath": "skills/n8n-node-configuration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/n8n-node-configuration"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "skill-developer",
+  "name": "skill-developer",
+  "summary": "Comprehensive guide for creating and managing skills in Claude Code with auto-activation system, following Anthropic's official best practices including the 500-line rule and pr...",
+  "description": "Comprehensive guide for creating and managing skills in Claude Code with auto-activation system, following Anthropic's official best practices including the 500-line rule and progressive disclosure pattern.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-developer/SKILL.md",
+  "metadataPath": "skills/skill-developer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-developer"
+  }
+}

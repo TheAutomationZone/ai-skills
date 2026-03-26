@@ -1,0 +1,22 @@
+{
+  "id": "gitlab-ci-patterns",
+  "name": "gitlab-ci-patterns",
+  "summary": "Comprehensive GitLab CI/CD pipeline patterns for automated testing, building, and deployment.",
+  "description": "Comprehensive GitLab CI/CD pipeline patterns for automated testing, building, and deployment.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/gitlab-ci-patterns/SKILL.md",
+  "metadataPath": "skills/gitlab-ci-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/gitlab-ci-patterns"
+  }
+}

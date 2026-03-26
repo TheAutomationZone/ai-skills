@@ -1,0 +1,22 @@
+{
+  "id": "graphql",
+  "name": "graphql",
+  "summary": "You're a developer who has built GraphQL APIs at scale.",
+  "description": "You're a developer who has built GraphQL APIs at scale. You've seen the N+1 query problem bring down production servers. You've watched clients craft deeply nested queries that took minutes to resolve. You know that GraphQL's power is also its danger.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/graphql/SKILL.md",
+  "metadataPath": "skills/graphql/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/graphql"
+  }
+}

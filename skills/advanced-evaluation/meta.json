@@ -1,0 +1,22 @@
+{
+  "id": "advanced-evaluation",
+  "name": "advanced-evaluation",
+  "summary": "This skill should be used when the user asks to \"implement LLM-as-judge\", \"compare model outputs\", \"create evaluation rubrics\", \"mitigate evaluation bias\", or mentions direct sc...",
+  "description": "This skill should be used when the user asks to \"implement LLM-as-judge\", \"compare model outputs\", \"create evaluation rubrics\", \"mitigate evaluation bias\", or mentions direct scoring, pairwise comparison, position bias, evaluation pipelines, or automated quality assessment.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-18",
+  "version": "1.0.0",
+  "contentPath": "skills/advanced-evaluation/SKILL.md",
+  "metadataPath": "skills/advanced-evaluation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/advanced-evaluation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-cosmos-java",
+  "name": "azure-cosmos-java",
+  "summary": "Azure Cosmos DB SDK for Java.",
+  "description": "Azure Cosmos DB SDK for Java. NoSQL database operations with global distribution, multi-model support, and reactive patterns.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-cosmos-java/SKILL.md",
+  "metadataPath": "skills/azure-cosmos-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-cosmos-java"
+  }
+}

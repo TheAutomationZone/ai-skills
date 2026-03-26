@@ -1,0 +1,22 @@
+{
+  "id": "debug-buttercup",
+  "name": "debug-buttercup",
+  "summary": "All pods run in namespace crs.",
+  "description": "All pods run in namespace crs. Use when pods in the crs namespace are in CrashLoopBackOff, OOMKilled, or restarting, multiple services restart simultaneously (cascade failure), or redis is unresponsive or showing AOF warnings.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/debug-buttercup/SKILL.md",
+  "metadataPath": "skills/debug-buttercup/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/debug-buttercup"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "claude-ally-health",
+  "name": "claude-ally-health",
+  "summary": "A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.",
+  "description": "A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/huifer/claude-ally-health"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/huifer/Claude-Ally-Health",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/claude-ally-health/SKILL.md",
+  "metadataPath": "skills/claude-ally-health/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claude-ally-health"
+  }
+}

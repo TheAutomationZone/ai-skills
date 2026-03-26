@@ -1,0 +1,22 @@
+{
+  "id": "dependency-management-deps-audit",
+  "name": "dependency-management-deps-audit",
+  "summary": "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security.",
+  "description": "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues, outdated packages, and provide actionable remediation strategies.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dependency-management-deps-audit/SKILL.md",
+  "metadataPath": "skills/dependency-management-deps-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dependency-management-deps-audit"
+  }
+}

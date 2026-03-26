@@ -1,0 +1,22 @@
+{
+  "id": "stitch-ui-design",
+  "name": "stitch-ui-design",
+  "summary": "Expert guidance for crafting effective prompts in Google Stitch, the AI-powered UI design tool by Google Labs.",
+  "description": "Expert guidance for crafting effective prompts in Google Stitch, the AI-powered UI design tool by Google Labs. This skill helps create precise, actionable prompts that generate high-quality UI designs for web and mobile applications.",
+  "category": "design",
+  "tags": [
+    "design",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/stitch-ui-design/SKILL.md",
+  "metadataPath": "skills/stitch-ui-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/stitch-ui-design"
+  }
+}

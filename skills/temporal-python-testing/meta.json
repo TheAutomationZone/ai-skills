@@ -1,0 +1,22 @@
+{
+  "id": "temporal-python-testing",
+  "name": "temporal-python-testing",
+  "summary": "Comprehensive testing approaches for Temporal workflows using pytest, progressive disclosure resources for specific testing scenarios.",
+  "description": "Comprehensive testing approaches for Temporal workflows using pytest, progressive disclosure resources for specific testing scenarios.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/temporal-python-testing/SKILL.md",
+  "metadataPath": "skills/temporal-python-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/temporal-python-testing"
+  }
+}

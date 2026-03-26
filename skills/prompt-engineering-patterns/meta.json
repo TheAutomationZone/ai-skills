@@ -1,0 +1,22 @@
+{
+  "id": "prompt-engineering-patterns",
+  "name": "prompt-engineering-patterns",
+  "summary": "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability.",
+  "description": "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/prompt-engineering-patterns/SKILL.md",
+  "metadataPath": "skills/prompt-engineering-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/prompt-engineering-patterns"
+  }
+}

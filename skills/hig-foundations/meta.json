@@ -1,0 +1,22 @@
+{
+  "id": "hig-foundations",
+  "name": "hig-foundations",
+  "summary": "Apple Human Interface Guidelines design foundations.",
+  "description": "Apple Human Interface Guidelines design foundations.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-foundations/SKILL.md",
+  "metadataPath": "skills/hig-foundations/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-foundations"
+  }
+}

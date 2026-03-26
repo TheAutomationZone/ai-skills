@@ -1,0 +1,22 @@
+{
+  "id": "seo-structure-architect",
+  "name": "seo-structure-architect",
+  "summary": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities.",
+  "description": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-structure-architect/SKILL.md",
+  "metadataPath": "skills/seo-structure-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-structure-architect"
+  }
+}

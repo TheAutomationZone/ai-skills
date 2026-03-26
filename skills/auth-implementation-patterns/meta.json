@@ -1,0 +1,22 @@
+{
+  "id": "auth-implementation-patterns",
+  "name": "auth-implementation-patterns",
+  "summary": "Build secure, scalable authentication and authorization systems using industry-standard patterns and modern best practices.",
+  "description": "Build secure, scalable authentication and authorization systems using industry-standard patterns and modern best practices.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/auth-implementation-patterns/SKILL.md",
+  "metadataPath": "skills/auth-implementation-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/auth-implementation-patterns"
+  }
+}

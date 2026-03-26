@@ -1,0 +1,22 @@
+{
+  "id": "django-perf-review",
+  "name": "django-perf-review",
+  "summary": "Django performance code review.",
+  "description": "Django performance code review. Use when asked to \"review Django performance\", \"find N+1 queries\", \"optimize Django\", \"check queryset performance\", \"database performance\", \"Django ORM issues\", or audit Django code for performance problems.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/django-perf-review/SKILL.md",
+  "metadataPath": "skills/django-perf-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/django-perf-review"
+  }
+}

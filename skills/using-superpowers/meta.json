@@ -1,0 +1,22 @@
+{
+  "id": "using-superpowers",
+  "name": "using-superpowers",
+  "summary": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+  "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/using-superpowers/SKILL.md",
+  "metadataPath": "skills/using-superpowers/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/using-superpowers"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "odoo-manufacturing-advisor",
+  "name": "odoo-manufacturing-advisor",
+  "summary": "Expert guide for Odoo Manufacturing: Bills of Materials (BoM), Work Centers, routings, MRP planning, and production order workflows.",
+  "description": "Expert guide for Odoo Manufacturing: Bills of Materials (BoM), Work Centers, routings, MRP planning, and production order workflows.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-manufacturing-advisor/SKILL.md",
+  "metadataPath": "skills/odoo-manufacturing-advisor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-manufacturing-advisor"
+  }
+}

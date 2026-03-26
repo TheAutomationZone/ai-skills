@@ -1,0 +1,22 @@
+{
+  "id": "c-pro",
+  "name": "c-pro",
+  "summary": "Write efficient C code with proper memory management, pointer",
+  "description": "Write efficient C code with proper memory management, pointer",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/c-pro/SKILL.md",
+  "metadataPath": "skills/c-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/c-pro"
+  }
+}

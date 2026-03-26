@@ -1,0 +1,22 @@
+{
+  "id": "service-mesh-observability",
+  "name": "service-mesh-observability",
+  "summary": "Complete guide to observability patterns for Istio, Linkerd, and service mesh deployments.",
+  "description": "Complete guide to observability patterns for Istio, Linkerd, and service mesh deployments.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/service-mesh-observability/SKILL.md",
+  "metadataPath": "skills/service-mesh-observability/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/service-mesh-observability"
+  }
+}

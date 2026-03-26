@@ -1,0 +1,22 @@
+{
+  "id": "unsplash-integration",
+  "name": "unsplash-integration",
+  "summary": "Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash.",
+  "description": "Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/unsplash-integration/SKILL.md",
+  "metadataPath": "skills/unsplash-integration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/unsplash-integration"
+  }
+}

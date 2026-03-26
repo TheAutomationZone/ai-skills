@@ -1,0 +1,22 @@
+{
+  "id": "cc-skill-project-guidelines-example",
+  "name": "cc-skill-project-guidelines-example",
+  "summary": "Project Guidelines Skill (Example)",
+  "description": "Project Guidelines Skill (Example)",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cc-skill-project-guidelines-example/SKILL.md",
+  "metadataPath": "skills/cc-skill-project-guidelines-example/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cc-skill-project-guidelines-example"
+  }
+}

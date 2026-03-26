@@ -1,0 +1,22 @@
+{
+  "id": "threejs-animation",
+  "name": "threejs-animation",
+  "summary": "Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing.",
+  "description": "Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use when animating objects, playing GLTF animations, creating procedural motion, or blending animations.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-animation/SKILL.md",
+  "metadataPath": "skills/threejs-animation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-animation"
+  }
+}

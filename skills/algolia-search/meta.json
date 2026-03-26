@@ -1,0 +1,22 @@
+{
+  "id": "algolia-search",
+  "name": "algolia-search",
+  "summary": "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api,...",
+  "description": "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api, search functionality.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/algolia-search/SKILL.md",
+  "metadataPath": "skills/algolia-search/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/algolia-search"
+  }
+}

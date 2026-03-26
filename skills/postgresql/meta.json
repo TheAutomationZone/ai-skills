@@ -1,0 +1,22 @@
+{
+  "id": "postgresql",
+  "name": "postgresql",
+  "summary": "Design a PostgreSQL-specific schema.",
+  "description": "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/postgresql/SKILL.md",
+  "metadataPath": "skills/postgresql/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/postgresql"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-eventhub-py",
+  "name": "azure-eventhub-py",
+  "summary": "Azure Event Hubs SDK for Python streaming.",
+  "description": "Azure Event Hubs SDK for Python streaming. Use for high-throughput event ingestion, producers, consumers, and checkpointing.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-eventhub-py/SKILL.md",
+  "metadataPath": "skills/azure-eventhub-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-eventhub-py"
+  }
+}

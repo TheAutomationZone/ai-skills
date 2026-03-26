@@ -1,0 +1,22 @@
+{
+  "id": "ai-seo",
+  "name": "ai-seo",
+  "summary": "Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems.",
+  "description": "Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. Use when improving AI visibility, answer engine optimization, or citation readiness.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/ai-seo/SKILL.md",
+  "metadataPath": "skills/ai-seo/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ai-seo"
+  }
+}

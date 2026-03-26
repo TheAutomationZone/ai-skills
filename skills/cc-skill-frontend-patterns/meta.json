@@ -1,0 +1,22 @@
+{
+  "id": "cc-skill-frontend-patterns",
+  "name": "cc-skill-frontend-patterns",
+  "summary": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.",
+  "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cc-skill-frontend-patterns/SKILL.md",
+  "metadataPath": "skills/cc-skill-frontend-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cc-skill-frontend-patterns"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "remotion-best-practices",
+  "name": "remotion-best-practices",
+  "summary": "Best practices for Remotion - Video creation in React",
+  "description": "Best practices for Remotion - Video creation in React",
+  "category": "media",
+  "tags": [
+    "\"remotion",
+    "video",
+    "react",
+    "animation",
+    "composition\"",
+    "media",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/remotion-best-practices/SKILL.md",
+  "metadataPath": "skills/remotion-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/remotion-best-practices"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "saas-mvp-launcher",
+  "name": "saas-mvp-launcher",
+  "summary": "Use when planning or building a SaaS MVP from scratch.",
+  "description": "Use when planning or building a SaaS MVP from scratch. Provides a structured roadmap covering tech stack, architecture, auth, payments, and launch checklist.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-04",
+  "version": "1.0.0",
+  "contentPath": "skills/saas-mvp-launcher/SKILL.md",
+  "metadataPath": "skills/saas-mvp-launcher/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/saas-mvp-launcher"
+  }
+}

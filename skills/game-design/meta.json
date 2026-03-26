@@ -1,0 +1,22 @@
+{
+  "id": "game-design",
+  "name": "game-design",
+  "summary": "Game design principles.",
+  "description": "Game design principles. GDD structure, balancing, player psychology, progression.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/game-design/SKILL.md",
+  "metadataPath": "skills/game-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/game-design"
+  }
+}

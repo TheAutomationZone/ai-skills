@@ -1,0 +1,22 @@
+{
+  "id": "godot-gdscript-patterns",
+  "name": "godot-gdscript-patterns",
+  "summary": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization.",
+  "description": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/godot-gdscript-patterns/SKILL.md",
+  "metadataPath": "skills/godot-gdscript-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/godot-gdscript-patterns"
+  }
+}

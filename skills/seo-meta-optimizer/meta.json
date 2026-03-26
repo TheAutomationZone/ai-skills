@@ -1,0 +1,22 @@
+{
+  "id": "seo-meta-optimizer",
+  "name": "seo-meta-optimizer",
+  "summary": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices.",
+  "description": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-meta-optimizer/SKILL.md",
+  "metadataPath": "skills/seo-meta-optimizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-meta-optimizer"
+  }
+}

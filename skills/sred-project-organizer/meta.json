@@ -1,0 +1,22 @@
+{
+  "id": "sred-project-organizer",
+  "name": "sred-project-organizer",
+  "summary": "Take a list of projects and their related documentation, and organize them into the SRED format for submission.",
+  "description": "Take a list of projects and their related documentation, and organize them into the SRED format for submission.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/sred-project-organizer/SKILL.md",
+  "metadataPath": "skills/sred-project-organizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sred-project-organizer"
+  }
+}

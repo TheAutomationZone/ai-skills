@@ -1,0 +1,23 @@
+{
+  "id": "calc",
+  "name": "calc",
+  "summary": "Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, data automation with LibreOffice Calc.",
+  "description": "Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, data automation with LibreOffice Calc.",
+  "category": "spreadsheet-processing",
+  "tags": [
+    "spreadsheet-processing",
+    "safe",
+    "personal",
+    "libreoffice"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/calc/SKILL.md",
+  "metadataPath": "skills/calc/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/libreoffice/calc"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "brainstorming",
+  "name": "brainstorming",
+  "summary": "Use before creative or constructive work (features, architecture, behavior).",
+  "description": "Use before creative or constructive work (features, architecture, behavior). Transforms vague ideas into validated designs through disciplined reasoning and collaboration.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/brainstorming/SKILL.md",
+  "metadataPath": "skills/brainstorming/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/brainstorming"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "security-auditor",
+  "name": "security-auditor",
+  "summary": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks.",
+  "description": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/security-auditor/SKILL.md",
+  "metadataPath": "skills/security-auditor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security-auditor"
+  }
+}

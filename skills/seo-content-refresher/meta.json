@@ -1,0 +1,22 @@
+{
+  "id": "seo-content-refresher",
+  "name": "seo-content-refresher",
+  "summary": "Identifies outdated elements in provided content and suggests updates to maintain freshness.",
+  "description": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-content-refresher/SKILL.md",
+  "metadataPath": "skills/seo-content-refresher/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-content-refresher"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "remotion",
+  "name": "remotion",
+  "summary": "Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays",
+  "description": "Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays",
+  "category": "media",
+  "tags": [
+    "media",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/remotion/SKILL.md",
+  "metadataPath": "skills/remotion/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/remotion"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "box-automation",
+  "name": "box-automation",
+  "summary": "Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit.",
+  "description": "Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit.",
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/box-automation/SKILL.md",
+  "metadataPath": "skills/box-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/box-automation"
+  }
+}

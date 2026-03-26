@@ -1,0 +1,22 @@
+{
+  "id": "odoo-purchase-workflow",
+  "name": "odoo-purchase-workflow",
+  "summary": "Expert guide for Odoo Purchase: RFQ → PO → Receipt → Vendor Bill workflow, purchase agreements, vendor price lists, and 3-way matching.",
+  "description": "Expert guide for Odoo Purchase: RFQ → PO → Receipt → Vendor Bill workflow, purchase agreements, vendor price lists, and 3-way matching.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-purchase-workflow/SKILL.md",
+  "metadataPath": "skills/odoo-purchase-workflow/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-purchase-workflow"
+  }
+}

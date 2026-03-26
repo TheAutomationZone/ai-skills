@@ -1,0 +1,27 @@
+{
+  "id": "earllm-build",
+  "name": "earllm-build",
+  "summary": "Build, maintain, and extend the EarLLM One Android project — a Kotlin/Compose app that connects Bluetooth earbuds to an LLM via voice pipeline.",
+  "description": "Build, maintain, and extend the EarLLM One Android project — a Kotlin/Compose app that connects Bluetooth earbuds to an LLM via voice pipeline.",
+  "category": "uncategorized",
+  "tags": [
+    "android",
+    "kotlin",
+    "bluetooth",
+    "llm",
+    "voice",
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/earllm-build/SKILL.md",
+  "metadataPath": "skills/earllm-build/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/earllm-build"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "conductor-validator",
+  "name": "conductor-validator",
+  "summary": "'Validates Conductor project artifacts for completeness,",
+  "description": "'Validates Conductor project artifacts for completeness,",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/conductor-validator/SKILL.md",
+  "metadataPath": "skills/conductor-validator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/conductor-validator"
+  }
+}

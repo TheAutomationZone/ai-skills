@@ -1,0 +1,22 @@
+{
+  "id": "azure-storage-blob-py",
+  "name": "azure-storage-blob-py",
+  "summary": "Azure Blob Storage SDK for Python.",
+  "description": "Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-storage-blob-py/SKILL.md",
+  "metadataPath": "skills/azure-storage-blob-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-storage-blob-py"
+  }
+}

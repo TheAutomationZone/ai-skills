@@ -1,0 +1,22 @@
+{
+  "id": "skill-scanner",
+  "name": "skill-scanner",
+  "summary": "Scan agent skills for security issues before adoption.",
+  "description": "Scan agent skills for security issues before adoption. Detects prompt injection, malicious code, excessive permissions, secret exposure, and supply chain risks.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-scanner/SKILL.md",
+  "metadataPath": "skills/skill-scanner/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-scanner"
+  }
+}

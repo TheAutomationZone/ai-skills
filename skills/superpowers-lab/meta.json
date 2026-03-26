@@ -1,0 +1,22 @@
+{
+  "id": "superpowers-lab",
+  "name": "superpowers-lab",
+  "summary": "Lab environment for Claude superpowers",
+  "description": "Lab environment for Claude superpowers",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "https://github.com/obra/superpowers-lab"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/obra/superpowers-lab",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/superpowers-lab/SKILL.md",
+  "metadataPath": "skills/superpowers-lab/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/superpowers-lab"
+  }
+}

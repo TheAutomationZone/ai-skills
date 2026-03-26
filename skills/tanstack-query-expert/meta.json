@@ -1,0 +1,22 @@
+{
+  "id": "tanstack-query-expert",
+  "name": "tanstack-query-expert",
+  "summary": "Expert in TanStack Query (React Query) — asynchronous state management.",
+  "description": "Expert in TanStack Query (React Query) — asynchronous state management. Covers data fetching, stale time configuration, mutations, optimistic updates, and Next.js App Router (SSR) integration.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/tanstack-query-expert/SKILL.md",
+  "metadataPath": "skills/tanstack-query-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tanstack-query-expert"
+  }
+}

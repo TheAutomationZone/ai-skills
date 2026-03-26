@@ -1,0 +1,22 @@
+{
+  "id": "oss-hunter",
+  "name": "oss-hunter",
+  "summary": "Automatically hunt for high-impact OSS contribution opportunities in trending repositories.",
+  "description": "Automatically hunt for high-impact OSS contribution opportunities in trending repositories.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "https://github.com/jackjin1997/clawforge"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/jackjin1997/ClawForge",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/oss-hunter/SKILL.md",
+  "metadataPath": "skills/oss-hunter/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/oss-hunter"
+  }
+}

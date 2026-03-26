@@ -1,0 +1,22 @@
+{
+  "id": "wordpress-penetration-testing",
+  "name": "wordpress-penetration-testing",
+  "summary": "Assess WordPress installations for common vulnerabilities and WordPress 7.0 attack surfaces.",
+  "description": "Assess WordPress installations for common vulnerabilities and WordPress 7.0 attack surfaces.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wordpress-penetration-testing/SKILL.md",
+  "metadataPath": "skills/wordpress-penetration-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wordpress-penetration-testing"
+  }
+}

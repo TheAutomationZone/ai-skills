@@ -1,0 +1,32 @@
+{
+  "id": "fp-react",
+  "name": "fp-react",
+  "summary": "Practical patterns for using fp-ts with React - hooks, state, forms, data fetching.",
+  "description": "Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Works with React 18/19, Next.js 14/15.",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "react",
+    "typescript",
+    "hooks",
+    "state-management",
+    "forms",
+    "data-fetching",
+    "remote-data",
+    "react-19",
+    "next-js",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-react/SKILL.md",
+  "metadataPath": "skills/fp-react/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-react"
+  }
+}

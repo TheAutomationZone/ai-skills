@@ -1,0 +1,22 @@
+{
+  "id": "startup-metrics-framework",
+  "name": "startup-metrics-framework",
+  "summary": "Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A.",
+  "description": "Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/startup-metrics-framework/SKILL.md",
+  "metadataPath": "skills/startup-metrics-framework/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/startup-metrics-framework"
+  }
+}

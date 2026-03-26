@@ -1,0 +1,27 @@
+{
+  "id": "amazon-alexa",
+  "name": "amazon-alexa",
+  "summary": "Integracao completa com Amazon Alexa para criar skills de voz inteligentes, transformar Alexa em assistente com Claude como cerebro (projeto Auri) e integrar com AWS ecosystem (...",
+  "description": "Integracao completa com Amazon Alexa para criar skills de voz inteligentes, transformar Alexa em assistente com Claude como cerebro (projeto Auri) e integrar com AWS ecosystem (Lambda, DynamoDB, Polly, Transcribe, Lex, Smart Home).",
+  "category": "cloud",
+  "tags": [
+    "voice",
+    "alexa",
+    "aws",
+    "smart-home",
+    "iot",
+    "cloud",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/amazon-alexa/SKILL.md",
+  "metadataPath": "skills/amazon-alexa/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/amazon-alexa"
+  }
+}

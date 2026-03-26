@@ -1,0 +1,22 @@
+{
+  "id": "database-migrations-sql-migrations",
+  "name": "database-migrations-sql-migrations",
+  "summary": "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server.",
+  "description": "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans.",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/database-migrations-sql-migrations/SKILL.md",
+  "metadataPath": "skills/database-migrations-sql-migrations/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/database-migrations-sql-migrations"
+  }
+}

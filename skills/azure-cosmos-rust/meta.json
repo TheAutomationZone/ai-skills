@@ -1,0 +1,22 @@
+{
+  "id": "azure-cosmos-rust",
+  "name": "azure-cosmos-rust",
+  "summary": "Azure Cosmos DB SDK for Rust (NoSQL API).",
+  "description": "Azure Cosmos DB SDK for Rust (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-cosmos-rust/SKILL.md",
+  "metadataPath": "skills/azure-cosmos-rust/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-cosmos-rust"
+  }
+}

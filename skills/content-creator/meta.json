@@ -1,0 +1,22 @@
+{
+  "id": "content-creator",
+  "name": "content-creator",
+  "summary": "Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks.",
+  "description": "Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/content-creator/SKILL.md",
+  "metadataPath": "skills/content-creator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/content-creator"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "data-storytelling",
+  "name": "data-storytelling",
+  "summary": "Transform raw data into compelling narratives that drive decisions and inspire action.",
+  "description": "Transform raw data into compelling narratives that drive decisions and inspire action.",
+  "category": "data-science",
+  "tags": [
+    "data-science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/data-storytelling/SKILL.md",
+  "metadataPath": "skills/data-storytelling/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/data-storytelling"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "os-scripting",
+  "name": "os-scripting",
+  "summary": "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows.",
+  "description": "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation.",
+  "category": "workflow-bundle",
+  "tags": [
+    "workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/os-scripting/SKILL.md",
+  "metadataPath": "skills/os-scripting/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/os-scripting"
+  }
+}

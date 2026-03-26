@@ -1,0 +1,22 @@
+{
+  "id": "systematic-debugging",
+  "name": "systematic-debugging",
+  "summary": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+  "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+  "category": "development-and-testing",
+  "tags": [
+    "development-and-testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/systematic-debugging/SKILL.md",
+  "metadataPath": "skills/systematic-debugging/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/systematic-debugging"
+  }
+}

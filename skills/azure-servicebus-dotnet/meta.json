@@ -1,0 +1,22 @@
+{
+  "id": "azure-servicebus-dotnet",
+  "name": "azure-servicebus-dotnet",
+  "summary": "Azure Service Bus SDK for .NET.",
+  "description": "Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-servicebus-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-servicebus-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-servicebus-dotnet"
+  }
+}

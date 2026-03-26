@@ -1,0 +1,22 @@
+{
+  "id": "bullmq-specialist",
+  "name": "bullmq-specialist",
+  "summary": "BullMQ expert for Redis-backed job queues, background processing, and reliable async execution in Node.js/TypeScript applications.",
+  "description": "BullMQ expert for Redis-backed job queues, background processing, and reliable async execution in Node.js/TypeScript applications. Use when: bullmq, bull queue, redis queue, background job, job queue.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bullmq-specialist/SKILL.md",
+  "metadataPath": "skills/bullmq-specialist/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bullmq-specialist"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "shodan-reconnaissance",
+  "name": "shodan-reconnaissance",
+  "summary": "Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements.",
+  "description": "Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/shodan-reconnaissance/SKILL.md",
+  "metadataPath": "skills/shodan-reconnaissance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/shodan-reconnaissance"
+  }
+}

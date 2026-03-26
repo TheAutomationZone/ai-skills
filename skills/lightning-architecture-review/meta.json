@@ -1,0 +1,22 @@
+{
+  "id": "lightning-architecture-review",
+  "name": "lightning-architecture-review",
+  "summary": "Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs.",
+  "description": "Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. Covers trust models, on-chain footprint, consensus requirements, HTLC/PTLC compatibility, liveness, and watchtower support.",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-03-03",
+  "version": "1.0.0",
+  "contentPath": "skills/lightning-architecture-review/SKILL.md",
+  "metadataPath": "skills/lightning-architecture-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/lightning-architecture-review"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-keyvault-py",
+  "name": "azure-keyvault-py",
+  "summary": "Azure Key Vault SDK for Python.",
+  "description": "Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-keyvault-py/SKILL.md",
+  "metadataPath": "skills/azure-keyvault-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-keyvault-py"
+  }
+}

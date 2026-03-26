@@ -1,0 +1,22 @@
+{
+  "id": "odoo-upgrade-advisor",
+  "name": "odoo-upgrade-advisor",
+  "summary": "Step-by-step Odoo version upgrade advisor: pre-upgrade checklist, community vs enterprise upgrade path, OCA module compatibility, and post-upgrade validation.",
+  "description": "Step-by-step Odoo version upgrade advisor: pre-upgrade checklist, community vs enterprise upgrade path, OCA module compatibility, and post-upgrade validation.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-upgrade-advisor/SKILL.md",
+  "metadataPath": "skills/odoo-upgrade-advisor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-upgrade-advisor"
+  }
+}

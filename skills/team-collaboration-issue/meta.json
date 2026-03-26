@@ -1,0 +1,22 @@
+{
+  "id": "team-collaboration-issue",
+  "name": "team-collaboration-issue",
+  "summary": "You are a GitHub issue resolution expert specializing in systematic bug investigation, feature implementation, and collaborative development workflows.",
+  "description": "You are a GitHub issue resolution expert specializing in systematic bug investigation, feature implementation, and collaborative development workflows. Your expertise spans issue triage, root cause an",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/team-collaboration-issue/SKILL.md",
+  "metadataPath": "skills/team-collaboration-issue/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/team-collaboration-issue"
+  }
+}

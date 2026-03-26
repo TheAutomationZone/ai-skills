@@ -1,0 +1,22 @@
+{
+  "id": "codebase-audit-pre-push",
+  "name": "codebase-audit-pre-push",
+  "summary": "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues.",
+  "description": "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-05",
+  "version": "1.0.0",
+  "contentPath": "skills/codebase-audit-pre-push/SKILL.md",
+  "metadataPath": "skills/codebase-audit-pre-push/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/codebase-audit-pre-push"
+  }
+}

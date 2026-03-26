@@ -1,0 +1,22 @@
+{
+  "id": "incident-response-smart-fix",
+  "name": "incident-response-smart-fix",
+  "summary": "[Extended thinking: This workflow implements a sophisticated debugging and resolution pipeline that leverages AI-assisted debugging tools and observability platforms to systemat...",
+  "description": "[Extended thinking: This workflow implements a sophisticated debugging and resolution pipeline that leverages AI-assisted debugging tools and observability platforms to systematically diagnose and res",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/incident-response-smart-fix/SKILL.md",
+  "metadataPath": "skills/incident-response-smart-fix/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/incident-response-smart-fix"
+  }
+}

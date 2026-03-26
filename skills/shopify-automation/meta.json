@@ -1,0 +1,22 @@
+{
+  "id": "shopify-automation",
+  "name": "shopify-automation",
+  "summary": "Automate Shopify tasks via Rube MCP (Composio): products, orders, customers, inventory, collections.",
+  "description": "Automate Shopify tasks via Rube MCP (Composio): products, orders, customers, inventory, collections. Always search tools first for current schemas.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/shopify-automation/SKILL.md",
+  "metadataPath": "skills/shopify-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/shopify-automation"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ai-engineering-toolkit",
+  "name": "ai-engineering-toolkit",
+  "summary": "6 production-ready AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), ev...",
+  "description": "6 production-ready AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), eval harness building, and product sense coaching.",
+  "category": "data-ai",
+  "tags": [
+    "prompt-engineering",
+    "rag",
+    "security",
+    "evaluation",
+    "ai-engineering",
+    "llm",
+    "data-ai",
+    "offensive",
+    "community"
+  ],
+  "risk": "offensive",
+  "source": "community",
+  "addedAt": "2026-03-15",
+  "version": "1.0.0",
+  "contentPath": "skills/ai-engineering-toolkit/SKILL.md",
+  "metadataPath": "skills/ai-engineering-toolkit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ai-engineering-toolkit"
+  }
+}

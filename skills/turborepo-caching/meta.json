@@ -1,0 +1,22 @@
+{
+  "id": "turborepo-caching",
+  "name": "turborepo-caching",
+  "summary": "Configure Turborepo for efficient monorepo builds with local and remote caching.",
+  "description": "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/turborepo-caching/SKILL.md",
+  "metadataPath": "skills/turborepo-caching/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/turborepo-caching"
+  }
+}

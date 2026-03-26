@@ -1,0 +1,22 @@
+{
+  "id": "concise-planning",
+  "name": "concise-planning",
+  "summary": "Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist.",
+  "description": "Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist.",
+  "category": "planning",
+  "tags": [
+    "planning",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/concise-planning/SKILL.md",
+  "metadataPath": "skills/concise-planning/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/concise-planning"
+  }
+}

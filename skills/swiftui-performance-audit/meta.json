@@ -1,0 +1,22 @@
+{
+  "id": "swiftui-performance-audit",
+  "name": "swiftui-performance-audit",
+  "summary": "Audit SwiftUI performance issues from code review and profiling evidence.",
+  "description": "Audit SwiftUI performance issues from code review and profiling evidence.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/swiftui-performance-audit/SKILL.md",
+  "metadataPath": "skills/swiftui-performance-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/swiftui-performance-audit"
+  }
+}

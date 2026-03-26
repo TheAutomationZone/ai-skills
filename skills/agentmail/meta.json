@@ -1,0 +1,22 @@
+{
+  "id": "agentmail",
+  "name": "agentmail",
+  "summary": "Email infrastructure for AI agents.",
+  "description": "Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/agentmail/SKILL.md",
+  "metadataPath": "skills/agentmail/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agentmail"
+  }
+}

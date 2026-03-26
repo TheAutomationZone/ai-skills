@@ -1,0 +1,22 @@
+{
+  "id": "azure-web-pubsub-ts",
+  "name": "azure-web-pubsub-ts",
+  "summary": "Real-time messaging with WebSocket connections and pub/sub patterns.",
+  "description": "Real-time messaging with WebSocket connections and pub/sub patterns.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-web-pubsub-ts/SKILL.md",
+  "metadataPath": "skills/azure-web-pubsub-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-web-pubsub-ts"
+  }
+}

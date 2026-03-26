@@ -1,0 +1,22 @@
+{
+  "id": "schema-markup",
+  "name": "schema-markup",
+  "summary": "Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.",
+  "description": "Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/schema-markup/SKILL.md",
+  "metadataPath": "skills/schema-markup/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/schema-markup"
+  }
+}

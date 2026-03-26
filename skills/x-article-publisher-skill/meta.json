@@ -1,0 +1,22 @@
+{
+  "id": "x-article-publisher-skill",
+  "name": "x-article-publisher-skill",
+  "summary": "Publish articles to X/Twitter",
+  "description": "Publish articles to X/Twitter",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "safe",
+    "https://github.com/wshuyi/x-article-publisher-skill"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/wshuyi/x-article-publisher-skill",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/x-article-publisher-skill/SKILL.md",
+  "metadataPath": "skills/x-article-publisher-skill/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/x-article-publisher-skill"
+  }
+}

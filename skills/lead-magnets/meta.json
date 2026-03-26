@@ -1,0 +1,22 @@
+{
+  "id": "lead-magnets",
+  "name": "lead-magnets",
+  "summary": "Plan and optimize lead magnets for email capture and lead generation.",
+  "description": "Plan and optimize lead magnets for email capture and lead generation. Use when designing gated content, checklists, templates, downloadable resources, or other offers that convert visitors into subscribers.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/lead-magnets/SKILL.md",
+  "metadataPath": "skills/lead-magnets/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/lead-magnets"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "database-design",
+  "name": "database-design",
+  "summary": "Database design principles and decision-making.",
+  "description": "Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases.",
+  "category": "database-processing",
+  "tags": [
+    "database-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/database-design/SKILL.md",
+  "metadataPath": "skills/database-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/database-design"
+  }
+}

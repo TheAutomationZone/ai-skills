@@ -1,0 +1,26 @@
+{
+  "id": "growth-engine",
+  "name": "growth-engine",
+  "summary": "Motor de crescimento para produtos digitais -- growth hacking, SEO, ASO, viral loops, email marketing, CRM, referral programs e aquisicao organica.",
+  "description": "Motor de crescimento para produtos digitais -- growth hacking, SEO, ASO, viral loops, email marketing, CRM, referral programs e aquisicao organica.",
+  "category": "marketing",
+  "tags": [
+    "growth",
+    "seo",
+    "marketing",
+    "viral",
+    "acquisition",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/growth-engine/SKILL.md",
+  "metadataPath": "skills/growth-engine/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/growth-engine"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fp-async",
+  "name": "fp-async",
+  "summary": "Practical async patterns using TaskEither - clean pipelines instead of try/catch hell, with real API examples",
+  "description": "Practical async patterns using TaskEither - clean pipelines instead of try/catch hell, with real API examples",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "typescript",
+    "async",
+    "error-handling",
+    "practical",
+    "promises",
+    "api",
+    "fetch",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-async/SKILL.md",
+  "metadataPath": "skills/fp-async/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-async"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "flutter-expert",
+  "name": "flutter-expert",
+  "summary": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment.",
+  "description": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/flutter-expert/SKILL.md",
+  "metadataPath": "skills/flutter-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/flutter-expert"
+  }
+}

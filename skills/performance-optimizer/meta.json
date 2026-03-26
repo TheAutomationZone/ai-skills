@@ -1,0 +1,22 @@
+{
+  "id": "performance-optimizer",
+  "name": "performance-optimizer",
+  "summary": "Identifies and fixes performance bottlenecks in code, databases, and APIs.",
+  "description": "Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and after to prove improvements.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-05",
+  "version": "1.0.0",
+  "contentPath": "skills/performance-optimizer/SKILL.md",
+  "metadataPath": "skills/performance-optimizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/performance-optimizer"
+  }
+}

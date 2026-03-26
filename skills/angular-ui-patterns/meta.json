@@ -1,0 +1,22 @@
+{
+  "id": "angular-ui-patterns",
+  "name": "angular-ui-patterns",
+  "summary": "Modern Angular UI patterns for loading states, error handling, and data display.",
+  "description": "Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component states.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/angular-ui-patterns/SKILL.md",
+  "metadataPath": "skills/angular-ui-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/angular-ui-patterns"
+  }
+}

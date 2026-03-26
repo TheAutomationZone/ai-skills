@@ -1,0 +1,22 @@
+{
+  "id": "claude-win11-speckit-update-skill",
+  "name": "claude-win11-speckit-update-skill",
+  "summary": "Windows 11 system management",
+  "description": "Windows 11 system management",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/notmyself/claude-win11-speckit-update-skill"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/NotMyself/claude-win11-speckit-update-skill",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/claude-win11-speckit-update-skill/SKILL.md",
+  "metadataPath": "skills/claude-win11-speckit-update-skill/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claude-win11-speckit-update-skill"
+  }
+}

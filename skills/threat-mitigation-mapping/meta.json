@@ -1,0 +1,22 @@
+{
+  "id": "threat-mitigation-mapping",
+  "name": "threat-mitigation-mapping",
+  "summary": "Map identified threats to appropriate security controls and mitigations.",
+  "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/threat-mitigation-mapping/SKILL.md",
+  "metadataPath": "skills/threat-mitigation-mapping/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threat-mitigation-mapping"
+  }
+}

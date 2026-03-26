@@ -1,0 +1,22 @@
+{
+  "id": "azure-keyvault-secrets-ts",
+  "name": "azure-keyvault-secrets-ts",
+  "summary": "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets).",
+  "description": "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-keyvault-secrets-ts/SKILL.md",
+  "metadataPath": "skills/azure-keyvault-secrets-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-keyvault-secrets-ts"
+  }
+}

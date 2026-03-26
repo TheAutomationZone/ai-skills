@@ -1,0 +1,22 @@
+{
+  "id": "frontend-mobile-development-component-scaffold",
+  "name": "frontend-mobile-development-component-scaffold",
+  "summary": "You are a React component architecture expert specializing in scaffolding production-ready, accessible, and performant components.",
+  "description": "You are a React component architecture expert specializing in scaffolding production-ready, accessible, and performant components. Generate complete component implementations with TypeScript, tests, s",
+  "category": "app-builder",
+  "tags": [
+    "app-builder",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-mobile-development-component-scaffold/SKILL.md",
+  "metadataPath": "skills/frontend-mobile-development-component-scaffold/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-mobile-development-component-scaffold"
+  }
+}

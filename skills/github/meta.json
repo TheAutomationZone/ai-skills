@@ -1,0 +1,22 @@
+{
+  "id": "github",
+  "name": "github",
+  "summary": "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries.",
+  "description": "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/github/SKILL.md",
+  "metadataPath": "skills/github/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/github"
+  }
+}

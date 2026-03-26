@@ -1,0 +1,22 @@
+{
+  "id": "server-management",
+  "name": "server-management",
+  "summary": "Server management principles and decision-making.",
+  "description": "Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/server-management/SKILL.md",
+  "metadataPath": "skills/server-management/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/server-management"
+  }
+}

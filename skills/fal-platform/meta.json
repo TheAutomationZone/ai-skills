@@ -1,0 +1,22 @@
+{
+  "id": "fal-platform",
+  "name": "fal-platform",
+  "summary": "Platform APIs for model management, pricing, and usage tracking",
+  "description": "Platform APIs for model management, pricing, and usage tracking",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-platform/skill.md"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-platform/SKILL.md",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fal-platform/SKILL.md",
+  "metadataPath": "skills/fal-platform/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fal-platform"
+  }
+}

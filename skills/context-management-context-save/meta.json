@@ -1,0 +1,22 @@
+{
+  "id": "context-management-context-save",
+  "name": "context-management-context-save",
+  "summary": "Use when working with context management context save",
+  "description": "Use when working with context management context save",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/context-management-context-save/SKILL.md",
+  "metadataPath": "skills/context-management-context-save/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-management-context-save"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "distributed-tracing",
+  "name": "distributed-tracing",
+  "summary": "Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices.",
+  "description": "Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/distributed-tracing/SKILL.md",
+  "metadataPath": "skills/distributed-tracing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/distributed-tracing"
+  }
+}

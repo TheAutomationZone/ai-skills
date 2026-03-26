@@ -1,0 +1,26 @@
+{
+  "id": "skill-sentinel",
+  "name": "skill-sentinel",
+  "summary": "Auditoria e evolucao do ecossistema de skills.",
+  "description": "Auditoria e evolucao do ecossistema de skills. Qualidade de codigo, seguranca, custos, gaps, duplicacoes, dependencias e relatorios de saude.",
+  "category": "meta",
+  "tags": [
+    "governance",
+    "audit",
+    "quality",
+    "skill-health",
+    "meta",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-sentinel/SKILL.md",
+  "metadataPath": "skills/skill-sentinel/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-sentinel"
+  }
+}

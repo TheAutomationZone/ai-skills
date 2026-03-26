@@ -1,0 +1,22 @@
+{
+  "id": "astropy",
+  "name": "astropy",
+  "summary": "Astropy is the core Python package for astronomy, providing essential functionality for astronomical research and data analysis.",
+  "description": "Astropy is the core Python package for astronomy, providing essential functionality for astronomical research and data analysis.",
+  "category": "science",
+  "tags": [
+    "science",
+    "unknown",
+    "https://github.com/astropy/astropy"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/astropy/astropy",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/astropy/SKILL.md",
+  "metadataPath": "skills/astropy/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/astropy"
+  }
+}

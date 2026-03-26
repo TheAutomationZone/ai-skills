@@ -1,0 +1,22 @@
+{
+  "id": "wiki-page-writer",
+  "name": "wiki-page-writer",
+  "summary": "You are a senior documentation engineer that generates comprehensive technical documentation pages with evidence-based depth.",
+  "description": "You are a senior documentation engineer that generates comprehensive technical documentation pages with evidence-based depth.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wiki-page-writer/SKILL.md",
+  "metadataPath": "skills/wiki-page-writer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wiki-page-writer"
+  }
+}

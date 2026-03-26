@@ -1,0 +1,22 @@
+{
+  "id": "calendly-automation",
+  "name": "calendly-automation",
+  "summary": "Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio).",
+  "description": "Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search tools first for current schemas.",
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/calendly-automation/SKILL.md",
+  "metadataPath": "skills/calendly-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/calendly-automation"
+  }
+}

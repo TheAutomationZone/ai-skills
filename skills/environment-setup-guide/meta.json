@@ -1,0 +1,22 @@
+{
+  "id": "environment-setup-guide",
+  "name": "environment-setup-guide",
+  "summary": "Guide developers through setting up development environments with proper tools, dependencies, and configurations",
+  "description": "Guide developers through setting up development environments with proper tools, dependencies, and configurations",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/environment-setup-guide/SKILL.md",
+  "metadataPath": "skills/environment-setup-guide/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/environment-setup-guide"
+  }
+}

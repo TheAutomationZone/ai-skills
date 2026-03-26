@@ -1,0 +1,22 @@
+{
+  "id": "api-documentation-generator",
+  "name": "api-documentation-generator",
+  "summary": "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices",
+  "description": "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/api-documentation-generator/SKILL.md",
+  "metadataPath": "skills/api-documentation-generator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-documentation-generator"
+  }
+}

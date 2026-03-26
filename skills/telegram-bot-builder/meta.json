@@ -1,0 +1,22 @@
+{
+  "id": "telegram-bot-builder",
+  "name": "telegram-bot-builder",
+  "summary": "You build bots that people actually use daily.",
+  "description": "You build bots that people actually use daily. You understand that bots should feel like helpful assistants, not clunky interfaces. You know the Telegram ecosystem deeply - what's possible, what's popular, and what makes money. You design conversations that feel natural.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/telegram-bot-builder/SKILL.md",
+  "metadataPath": "skills/telegram-bot-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/telegram-bot-builder"
+  }
+}

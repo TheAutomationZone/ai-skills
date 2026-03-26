@@ -1,0 +1,22 @@
+{
+  "id": "aws-penetration-testing",
+  "name": "aws-penetration-testing",
+  "summary": "Provide comprehensive techniques for penetration testing AWS cloud environments.",
+  "description": "Provide comprehensive techniques for penetration testing AWS cloud environments. Covers IAM enumeration, privilege escalation, SSRF to metadata endpoint, S3 bucket exploitation, Lambda code extraction, and persistence techniques for red team operations.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/aws-penetration-testing/SKILL.md",
+  "metadataPath": "skills/aws-penetration-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/aws-penetration-testing"
+  }
+}

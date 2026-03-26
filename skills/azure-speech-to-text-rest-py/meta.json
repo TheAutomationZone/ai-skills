@@ -1,0 +1,22 @@
+{
+  "id": "azure-speech-to-text-rest-py",
+  "name": "azure-speech-to-text-rest-py",
+  "summary": "Azure Speech to Text REST API for short audio (Python).",
+  "description": "Azure Speech to Text REST API for short audio (Python). Use for simple speech recognition of audio files up to 60 seconds without the Speech SDK.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-speech-to-text-rest-py/SKILL.md",
+  "metadataPath": "skills/azure-speech-to-text-rest-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-speech-to-text-rest-py"
+  }
+}

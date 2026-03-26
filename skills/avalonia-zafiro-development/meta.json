@@ -1,0 +1,22 @@
+{
+  "id": "avalonia-zafiro-development",
+  "name": "avalonia-zafiro-development",
+  "summary": "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.",
+  "description": "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/avalonia-zafiro-development/SKILL.md",
+  "metadataPath": "skills/avalonia-zafiro-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/avalonia-zafiro-development"
+  }
+}

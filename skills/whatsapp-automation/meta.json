@@ -1,0 +1,22 @@
+{
+  "id": "whatsapp-automation",
+  "name": "whatsapp-automation",
+  "summary": "Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts.",
+  "description": "Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/whatsapp-automation/SKILL.md",
+  "metadataPath": "skills/whatsapp-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/whatsapp-automation"
+  }
+}

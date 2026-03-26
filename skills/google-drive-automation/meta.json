@@ -1,0 +1,22 @@
+{
+  "id": "google-drive-automation",
+  "name": "google-drive-automation",
+  "summary": "Lightweight Google Drive integration with standalone OAuth authentication.",
+  "description": "Lightweight Google Drive integration with standalone OAuth authentication. No MCP server required. Full read/write access.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/google-drive-automation/SKILL.md",
+  "metadataPath": "skills/google-drive-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/google-drive-automation"
+  }
+}

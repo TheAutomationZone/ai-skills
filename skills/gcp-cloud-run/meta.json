@@ -1,0 +1,22 @@
+{
+  "id": "gcp-cloud-run",
+  "name": "gcp-cloud-run",
+  "summary": "When to use: ['Web applications and APIs', 'Need any runtime or library', 'Complex services with multiple endpoints', 'Stateless containerized workloads']",
+  "description": "When to use: ['Web applications and APIs', 'Need any runtime or library', 'Complex services with multiple endpoints', 'Stateless containerized workloads']",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/gcp-cloud-run/SKILL.md",
+  "metadataPath": "skills/gcp-cloud-run/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/gcp-cloud-run"
+  }
+}

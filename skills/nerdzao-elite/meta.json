@@ -1,0 +1,22 @@
+{
+  "id": "nerdzao-elite",
+  "name": "nerdzao-elite",
+  "summary": "Senior Elite Software Engineer (15+) and Senior Product Designer.",
+  "description": "Senior Elite Software Engineer (15+) and Senior Product Designer. Full workflow with planning, architecture, TDD, clean code, and pixel-perfect UX validation.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nerdzao-elite/SKILL.md",
+  "metadataPath": "skills/nerdzao-elite/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nerdzao-elite"
+  }
+}

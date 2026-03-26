@@ -1,0 +1,22 @@
+{
+  "id": "quality-nonconformance",
+  "name": "quality-nonconformance",
+  "summary": "Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing.",
+  "description": "Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "https://github.com/ai-evos/agent-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/ai-evos/agent-skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/quality-nonconformance/SKILL.md",
+  "metadataPath": "skills/quality-nonconformance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/quality-nonconformance"
+  }
+}

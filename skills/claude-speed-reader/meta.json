@@ -1,0 +1,22 @@
+{
+  "id": "claude-speed-reader",
+  "name": "claude-speed-reader",
+  "summary": "-Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting",
+  "description": "-Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/seanzor/claude-speed-reader"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/SeanZoR/claude-speed-reader",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/claude-speed-reader/SKILL.md",
+  "metadataPath": "skills/claude-speed-reader/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claude-speed-reader"
+  }
+}

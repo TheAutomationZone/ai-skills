@@ -1,0 +1,22 @@
+{
+  "id": "istio-traffic-management",
+  "name": "istio-traffic-management",
+  "summary": "Comprehensive guide to Istio traffic management for production service mesh deployments.",
+  "description": "Comprehensive guide to Istio traffic management for production service mesh deployments.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/istio-traffic-management/SKILL.md",
+  "metadataPath": "skills/istio-traffic-management/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/istio-traffic-management"
+  }
+}

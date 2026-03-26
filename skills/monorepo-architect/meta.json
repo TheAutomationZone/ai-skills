@@ -1,0 +1,22 @@
+{
+  "id": "monorepo-architect",
+  "name": "monorepo-architect",
+  "summary": "Expert in monorepo architecture, build systems, and dependency management at scale.",
+  "description": "Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turborepo, Bazel, and Lerna for efficient multi-project development. Use PROACTIVELY for monorepo setup,",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/monorepo-architect/SKILL.md",
+  "metadataPath": "skills/monorepo-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/monorepo-architect"
+  }
+}

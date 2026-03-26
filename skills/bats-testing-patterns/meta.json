@@ -1,0 +1,22 @@
+{
+  "id": "bats-testing-patterns",
+  "name": "bats-testing-patterns",
+  "summary": "Master Bash Automated Testing System (Bats) for comprehensive shell script testing.",
+  "description": "Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring test-driven development of shell utilities.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bats-testing-patterns/SKILL.md",
+  "metadataPath": "skills/bats-testing-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bats-testing-patterns"
+  }
+}

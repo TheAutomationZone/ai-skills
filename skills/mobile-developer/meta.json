@@ -1,0 +1,22 @@
+{
+  "id": "mobile-developer",
+  "name": "mobile-developer",
+  "summary": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns.",
+  "description": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mobile-developer/SKILL.md",
+  "metadataPath": "skills/mobile-developer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mobile-developer"
+  }
+}

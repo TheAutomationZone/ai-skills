@@ -1,0 +1,22 @@
+{
+  "id": "bitbucket-automation",
+  "name": "bitbucket-automation",
+  "summary": "Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio).",
+  "description": "Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio). Always search tools first for current schemas.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bitbucket-automation/SKILL.md",
+  "metadataPath": "skills/bitbucket-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bitbucket-automation"
+  }
+}

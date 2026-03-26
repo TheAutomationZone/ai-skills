@@ -1,0 +1,22 @@
+{
+  "id": "tdd-orchestrator",
+  "name": "tdd-orchestrator",
+  "summary": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices.",
+  "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tdd-orchestrator/SKILL.md",
+  "metadataPath": "skills/tdd-orchestrator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tdd-orchestrator"
+  }
+}

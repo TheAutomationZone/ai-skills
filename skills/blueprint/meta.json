@@ -1,0 +1,22 @@
+{
+  "id": "blueprint",
+  "name": "blueprint",
+  "summary": "Turn a one-line objective into a step-by-step construction plan any coding agent can execute cold.",
+  "description": "Turn a one-line objective into a step-by-step construction plan any coding agent can execute cold. Each step has a self-contained context brief — a fresh agent in a new session can pick up any step without reading prior steps.",
+  "category": "planning",
+  "tags": [
+    "planning",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-10",
+  "version": "1.0.0",
+  "contentPath": "skills/blueprint/SKILL.md",
+  "metadataPath": "skills/blueprint/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/blueprint"
+  }
+}

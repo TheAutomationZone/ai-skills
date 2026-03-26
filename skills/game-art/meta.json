@@ -1,0 +1,22 @@
+{
+  "id": "game-art",
+  "name": "game-art",
+  "summary": "Game art principles.",
+  "description": "Game art principles. Visual style selection, asset pipeline, animation workflow.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/game-art/SKILL.md",
+  "metadataPath": "skills/game-art/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/game-art"
+  }
+}

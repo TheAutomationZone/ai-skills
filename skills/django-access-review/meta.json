@@ -1,0 +1,22 @@
+{
+  "id": "django-access-review",
+  "name": "django-access-review",
+  "summary": "django-access-review",
+  "description": "django-access-review",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/django-access-review/SKILL.md",
+  "metadataPath": "skills/django-access-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/django-access-review"
+  }
+}

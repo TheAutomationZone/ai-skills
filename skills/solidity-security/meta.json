@@ -1,0 +1,22 @@
+{
+  "id": "solidity-security",
+  "name": "solidity-security",
+  "summary": "Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns.",
+  "description": "Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/solidity-security/SKILL.md",
+  "metadataPath": "skills/solidity-security/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/solidity-security"
+  }
+}

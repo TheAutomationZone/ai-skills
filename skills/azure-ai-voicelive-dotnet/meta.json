@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-voicelive-dotnet",
+  "name": "azure-ai-voicelive-dotnet",
+  "summary": "Azure AI Voice Live SDK for .NET.",
+  "description": "Azure AI Voice Live SDK for .NET. Build real-time voice AI applications with bidirectional WebSocket communication.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-voicelive-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-ai-voicelive-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-voicelive-dotnet"
+  }
+}

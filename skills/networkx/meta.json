@@ -1,0 +1,22 @@
+{
+  "id": "networkx",
+  "name": "networkx",
+  "summary": "NetworkX is a Python package for creating, manipulating, and analyzing complex networks and graphs.",
+  "description": "NetworkX is a Python package for creating, manipulating, and analyzing complex networks and graphs.",
+  "category": "science",
+  "tags": [
+    "science",
+    "unknown",
+    "https://github.com/networkx/networkx"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/networkx/networkx",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/networkx/SKILL.md",
+  "metadataPath": "skills/networkx/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/networkx"
+  }
+}

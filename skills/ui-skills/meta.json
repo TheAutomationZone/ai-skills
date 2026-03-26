@@ -1,0 +1,22 @@
+{
+  "id": "ui-skills",
+  "name": "ui-skills",
+  "summary": "Opinionated, evolving constraints to guide agents when building interfaces",
+  "description": "Opinionated, evolving constraints to guide agents when building interfaces",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/ibelick/ui-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/ibelick/ui-skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ui-skills/SKILL.md",
+  "metadataPath": "skills/ui-skills/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ui-skills"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "landing-page-generator",
+  "name": "landing-page-generator",
+  "summary": "Generates high-converting Next.js/React landing pages with Tailwind CSS.",
+  "description": "Generates high-converting Next.js/React landing pages with Tailwind CSS. Uses PAS, AIDA, and BAB frameworks for optimized copy/components (Heroes, Features, Pricing). Focuses on Core Web Vitals/SEO.",
+  "category": "front-end",
+  "tags": [
+    "nextjs",
+    "react",
+    "tailwind",
+    "landing-page",
+    "marketing",
+    "seo",
+    "cro",
+    "front-end",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-18",
+  "version": "1.0.0",
+  "contentPath": "skills/landing-page-generator/SKILL.md",
+  "metadataPath": "skills/landing-page-generator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/landing-page-generator"
+  }
+}

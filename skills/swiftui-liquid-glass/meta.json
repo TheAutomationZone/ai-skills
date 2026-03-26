@@ -1,0 +1,22 @@
+{
+  "id": "swiftui-liquid-glass",
+  "name": "swiftui-liquid-glass",
+  "summary": "Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.",
+  "description": "Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/swiftui-liquid-glass/SKILL.md",
+  "metadataPath": "skills/swiftui-liquid-glass/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/swiftui-liquid-glass"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hig-components-dialogs",
+  "name": "hig-components-dialogs",
+  "summary": "Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.",
+  "description": "Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-components-dialogs/SKILL.md",
+  "metadataPath": "skills/hig-components-dialogs/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-components-dialogs"
+  }
+}

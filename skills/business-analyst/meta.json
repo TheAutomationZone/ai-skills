@@ -1,0 +1,22 @@
+{
+  "id": "business-analyst",
+  "name": "business-analyst",
+  "summary": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights.",
+  "description": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/business-analyst/SKILL.md",
+  "metadataPath": "skills/business-analyst/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/business-analyst"
+  }
+}

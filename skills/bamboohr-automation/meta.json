@@ -1,0 +1,22 @@
+{
+  "id": "bamboohr-automation",
+  "name": "bamboohr-automation",
+  "summary": "Automate BambooHR tasks via Rube MCP (Composio): employees, time-off, benefits, dependents, employee updates.",
+  "description": "Automate BambooHR tasks via Rube MCP (Composio): employees, time-off, benefits, dependents, employee updates. Always search tools first for current schemas.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bamboohr-automation/SKILL.md",
+  "metadataPath": "skills/bamboohr-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bamboohr-automation"
+  }
+}

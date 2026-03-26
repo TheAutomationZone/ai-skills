@@ -1,0 +1,22 @@
+{
+  "id": "project-skill-audit",
+  "name": "project-skill-audit",
+  "summary": "Audit a project and recommend the highest-value skills to add or update.",
+  "description": "Audit a project and recommend the highest-value skills to add or update.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/project-skill-audit/SKILL.md",
+  "metadataPath": "skills/project-skill-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/project-skill-audit"
+  }
+}

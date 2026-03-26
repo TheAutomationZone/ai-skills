@@ -1,0 +1,22 @@
+{
+  "id": "stripe-integration",
+  "name": "stripe-integration",
+  "summary": "Master Stripe payment processing integration for robust, PCI-compliant payment flows including checkout, subscriptions, webhooks, and refunds.",
+  "description": "Master Stripe payment processing integration for robust, PCI-compliant payment flows including checkout, subscriptions, webhooks, and refunds.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/stripe-integration/SKILL.md",
+  "metadataPath": "skills/stripe-integration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/stripe-integration"
+  }
+}

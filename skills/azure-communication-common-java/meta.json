@@ -1,0 +1,22 @@
+{
+  "id": "azure-communication-common-java",
+  "name": "azure-communication-common-java",
+  "summary": "Azure Communication Services common utilities for Java.",
+  "description": "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-communication-common-java/SKILL.md",
+  "metadataPath": "skills/azure-communication-common-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-communication-common-java"
+  }
+}

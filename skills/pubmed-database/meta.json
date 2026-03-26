@@ -1,0 +1,22 @@
+{
+  "id": "pubmed-database",
+  "name": "pubmed-database",
+  "summary": "Direct REST API access to PubMed.",
+  "description": "Direct REST API access to PubMed. Advanced Boolean/MeSH queries, E-utilities API, batch processing, citation management. For Python workflows, prefer biopython (Bio.Entrez). Use this for direct HTTP/REST work or custom API implementations.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/pubmed-database/SKILL.md",
+  "metadataPath": "skills/pubmed-database/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/pubmed-database"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "app-builder",
+  "name": "app-builder",
+  "summary": "Main application building orchestrator.",
+  "description": "Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordinates agents.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/app-builder/SKILL.md",
+  "metadataPath": "skills/app-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/app-builder"
+  }
+}

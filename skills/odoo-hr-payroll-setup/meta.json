@@ -1,0 +1,22 @@
+{
+  "id": "odoo-hr-payroll-setup",
+  "name": "odoo-hr-payroll-setup",
+  "summary": "Expert guide for Odoo HR and Payroll: salary structures, payslip rules, leave policies, employee contracts, and payroll journal entries.",
+  "description": "Expert guide for Odoo HR and Payroll: salary structures, payslip rules, leave policies, employee contracts, and payroll journal entries.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-hr-payroll-setup/SKILL.md",
+  "metadataPath": "skills/odoo-hr-payroll-setup/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-hr-payroll-setup"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "llm-ops",
+  "name": "llm-ops",
+  "summary": "LLM Operations -- RAG, embeddings, vector databases, fine-tuning, prompt engineering avancado, custos de LLM, evals de qualidade e arquiteturas de IA para producao.",
+  "description": "LLM Operations -- RAG, embeddings, vector databases, fine-tuning, prompt engineering avancado, custos de LLM, evals de qualidade e arquiteturas de IA para producao.",
+  "category": "ai-ml",
+  "tags": [
+    "llm",
+    "rag",
+    "embeddings",
+    "vector-db",
+    "fine-tuning",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/llm-ops/SKILL.md",
+  "metadataPath": "skills/llm-ops/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/llm-ops"
+  }
+}

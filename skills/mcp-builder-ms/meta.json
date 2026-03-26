@@ -1,0 +1,22 @@
+{
+  "id": "mcp-builder-ms",
+  "name": "mcp-builder-ms",
+  "summary": "Use this skill when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+  "description": "Use this skill when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+  "category": "ai-agents",
+  "tags": [
+    "ai-agents",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mcp-builder-ms/SKILL.md",
+  "metadataPath": "skills/mcp-builder-ms/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mcp-builder-ms"
+  }
+}

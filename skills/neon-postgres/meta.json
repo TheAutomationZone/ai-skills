@@ -1,0 +1,22 @@
+{
+  "id": "neon-postgres",
+  "name": "neon-postgres",
+  "summary": "Configure Prisma for Neon with connection pooling.",
+  "description": "Configure Prisma for Neon with connection pooling.",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/neon-postgres/SKILL.md",
+  "metadataPath": "skills/neon-postgres/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/neon-postgres"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dispatching-parallel-agents",
+  "name": "dispatching-parallel-agents",
+  "summary": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+  "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+  "category": "ai-agents",
+  "tags": [
+    "ai-agents",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/dispatching-parallel-agents/SKILL.md",
+  "metadataPath": "skills/dispatching-parallel-agents/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/dispatching-parallel-agents"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "odoo-migration-helper",
+  "name": "odoo-migration-helper",
+  "summary": "Step-by-step guide for migrating Odoo custom modules between versions (v14→v15→v16→v17).",
+  "description": "Step-by-step guide for migrating Odoo custom modules between versions (v14→v15→v16→v17). Covers API changes, deprecated methods, and view migration.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-migration-helper/SKILL.md",
+  "metadataPath": "skills/odoo-migration-helper/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-migration-helper"
+  }
+}

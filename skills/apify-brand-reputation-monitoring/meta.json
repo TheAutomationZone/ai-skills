@@ -1,0 +1,22 @@
+{
+  "id": "apify-brand-reputation-monitoring",
+  "name": "apify-brand-reputation-monitoring",
+  "summary": "Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors.",
+  "description": "Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/apify-brand-reputation-monitoring/SKILL.md",
+  "metadataPath": "skills/apify-brand-reputation-monitoring/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/apify-brand-reputation-monitoring"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "saga-orchestration",
+  "name": "saga-orchestration",
+  "summary": "Patterns for managing distributed transactions and long-running business processes.",
+  "description": "Patterns for managing distributed transactions and long-running business processes.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/saga-orchestration/SKILL.md",
+  "metadataPath": "skills/saga-orchestration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/saga-orchestration"
+  }
+}

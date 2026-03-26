@@ -1,0 +1,22 @@
+{
+  "id": "debugger",
+  "name": "debugger",
+  "summary": "'Debugging specialist for errors, test failures, and unexpected",
+  "description": "'Debugging specialist for errors, test failures, and unexpected",
+  "category": "development-and-testing",
+  "tags": [
+    "development-and-testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/debugger/SKILL.md",
+  "metadataPath": "skills/debugger/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/debugger"
+  }
+}

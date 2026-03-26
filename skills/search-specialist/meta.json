@@ -1,0 +1,22 @@
+{
+  "id": "search-specialist",
+  "name": "search-specialist",
+  "summary": "Expert web researcher using advanced search techniques and",
+  "description": "Expert web researcher using advanced search techniques and",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/search-specialist/SKILL.md",
+  "metadataPath": "skills/search-specialist/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/search-specialist"
+  }
+}

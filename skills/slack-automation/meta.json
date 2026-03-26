@@ -1,0 +1,22 @@
+{
+  "id": "slack-automation",
+  "name": "slack-automation",
+  "summary": "Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit.",
+  "description": "Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/slack-automation/SKILL.md",
+  "metadataPath": "skills/slack-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/slack-automation"
+  }
+}

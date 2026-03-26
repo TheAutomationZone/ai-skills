@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-agents-persistent-dotnet",
+  "name": "azure-ai-agents-persistent-dotnet",
+  "summary": "Azure AI Agents Persistent SDK for .NET.",
+  "description": "Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-agents-persistent-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-ai-agents-persistent-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-agents-persistent-dotnet"
+  }
+}

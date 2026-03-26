@@ -1,0 +1,26 @@
+{
+  "id": "skill-installer",
+  "name": "skill-installer",
+  "summary": "Instala, valida, registra e verifica novas skills no ecossistema.",
+  "description": "Instala, valida, registra e verifica novas skills no ecossistema. 10 checks de seguranca, copia, registro no orchestrator e verificacao pos-instalacao.",
+  "category": "meta",
+  "tags": [
+    "skill-management",
+    "deployment",
+    "validation",
+    "installation",
+    "meta",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-installer/SKILL.md",
+  "metadataPath": "skills/skill-installer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-installer"
+  }
+}

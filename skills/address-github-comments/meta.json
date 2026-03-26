@@ -1,0 +1,22 @@
+{
+  "id": "address-github-comments",
+  "name": "address-github-comments",
+  "summary": "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI.",
+  "description": "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/address-github-comments/SKILL.md",
+  "metadataPath": "skills/address-github-comments/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/address-github-comments"
+  }
+}

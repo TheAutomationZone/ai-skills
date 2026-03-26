@@ -1,0 +1,22 @@
+{
+  "id": "sexual-health-analyzer",
+  "name": "sexual-health-analyzer",
+  "summary": "Sexual Health Analyzer",
+  "description": "Sexual Health Analyzer",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/sexual-health-analyzer/SKILL.md",
+  "metadataPath": "skills/sexual-health-analyzer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sexual-health-analyzer"
+  }
+}

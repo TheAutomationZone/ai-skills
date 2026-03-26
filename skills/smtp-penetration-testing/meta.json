@@ -1,0 +1,22 @@
+{
+  "id": "smtp-penetration-testing",
+  "name": "smtp-penetration-testing",
+  "summary": "Conduct comprehensive security assessments of SMTP (Simple Mail Transfer Protocol) servers to identify vulnerabilities including open relays, user enumeration, weak authenticati...",
+  "description": "Conduct comprehensive security assessments of SMTP (Simple Mail Transfer Protocol) servers to identify vulnerabilities including open relays, user enumeration, weak authentication, and misconfiguration.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/smtp-penetration-testing/SKILL.md",
+  "metadataPath": "skills/smtp-penetration-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/smtp-penetration-testing"
+  }
+}

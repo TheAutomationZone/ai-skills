@@ -1,0 +1,22 @@
+{
+  "id": "react-flow-node-ts",
+  "name": "react-flow-node-ts",
+  "summary": "Create React Flow node components following established patterns with proper TypeScript types and store integration.",
+  "description": "Create React Flow node components following established patterns with proper TypeScript types and store integration.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-flow-node-ts/SKILL.md",
+  "metadataPath": "skills/react-flow-node-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-flow-node-ts"
+  }
+}

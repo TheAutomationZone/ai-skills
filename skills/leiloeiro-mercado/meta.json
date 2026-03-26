@@ -1,0 +1,26 @@
+{
+  "id": "leiloeiro-mercado",
+  "name": "leiloeiro-mercado",
+  "summary": "Analise de mercado imobiliario para leiloes.",
+  "description": "Analise de mercado imobiliario para leiloes. Liquidez, desagio tipico, ROI, estrategias de saida (flip/reforma/renda), Selic 2025 e benchmark CDI/FII.",
+  "category": "leiloeiro",
+  "tags": [
+    "market-analysis",
+    "real-estate",
+    "roi",
+    "brazilian",
+    "leiloeiro",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/leiloeiro-mercado/SKILL.md",
+  "metadataPath": "skills/leiloeiro-mercado/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/leiloeiro-mercado"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-resource-manager-postgresql-dotnet",
+  "name": "azure-resource-manager-postgresql-dotnet",
+  "summary": "Azure PostgreSQL Flexible Server SDK for .NET.",
+  "description": "Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-resource-manager-postgresql-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-resource-manager-postgresql-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-resource-manager-postgresql-dotnet"
+  }
+}

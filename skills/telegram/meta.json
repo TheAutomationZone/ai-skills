@@ -1,0 +1,26 @@
+{
+  "id": "telegram",
+  "name": "telegram",
+  "summary": "Integracao completa com Telegram Bot API.",
+  "description": "Integracao completa com Telegram Bot API. Setup com BotFather, mensagens, webhooks, inline keyboards, grupos, canais. Boilerplates Node.js e Python.",
+  "category": "backend",
+  "tags": [
+    "messaging",
+    "telegram",
+    "bots",
+    "webhooks",
+    "backend",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/telegram/SKILL.md",
+  "metadataPath": "skills/telegram/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/telegram"
+  }
+}

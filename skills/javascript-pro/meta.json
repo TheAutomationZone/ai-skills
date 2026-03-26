@@ -1,0 +1,22 @@
+{
+  "id": "javascript-pro",
+  "name": "javascript-pro",
+  "summary": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs.",
+  "description": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/javascript-pro/SKILL.md",
+  "metadataPath": "skills/javascript-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/javascript-pro"
+  }
+}

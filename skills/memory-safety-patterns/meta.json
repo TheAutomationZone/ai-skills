@@ -1,0 +1,22 @@
+{
+  "id": "memory-safety-patterns",
+  "name": "memory-safety-patterns",
+  "summary": "Cross-language patterns for memory-safe programming including RAII, ownership, smart pointers, and resource management.",
+  "description": "Cross-language patterns for memory-safe programming including RAII, ownership, smart pointers, and resource management.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/memory-safety-patterns/SKILL.md",
+  "metadataPath": "skills/memory-safety-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/memory-safety-patterns"
+  }
+}

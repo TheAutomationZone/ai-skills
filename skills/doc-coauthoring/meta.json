@@ -1,0 +1,22 @@
+{
+  "id": "doc-coauthoring",
+  "name": "doc-coauthoring",
+  "summary": "This skill provides a structured workflow for guiding users through collaborative document creation.",
+  "description": "This skill provides a structured workflow for guiding users through collaborative document creation. Act as an active guide, walking users through three stages: Context Gathering, Refinement & Structure, and Reader Testing.",
+  "category": "document-processing",
+  "tags": [
+    "document-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/doc-coauthoring/SKILL.md",
+  "metadataPath": "skills/doc-coauthoring/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/doc-coauthoring"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-data-tables-py",
+  "name": "azure-data-tables-py",
+  "summary": "Azure Tables SDK for Python (Storage and Cosmos DB).",
+  "description": "Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-data-tables-py/SKILL.md",
+  "metadataPath": "skills/azure-data-tables-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-data-tables-py"
+  }
+}

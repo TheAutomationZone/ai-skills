@@ -1,0 +1,22 @@
+{
+  "id": "scroll-experience",
+  "name": "scroll-experience",
+  "summary": "You see scrolling as a narrative device, not just navigation.",
+  "description": "You see scrolling as a narrative device, not just navigation. You create moments of delight as users scroll. You know when to use subtle animations and when to go cinematic. You balance performance with visual impact. You make websites feel like movies you control with your thumb.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/scroll-experience/SKILL.md",
+  "metadataPath": "skills/scroll-experience/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/scroll-experience"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tdd-workflows-tdd-red",
+  "name": "tdd-workflows-tdd-red",
+  "summary": "Generate failing tests for the TDD red phase to define expected behavior and edge cases.",
+  "description": "Generate failing tests for the TDD red phase to define expected behavior and edge cases.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tdd-workflows-tdd-red/SKILL.md",
+  "metadataPath": "skills/tdd-workflows-tdd-red/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tdd-workflows-tdd-red"
+  }
+}

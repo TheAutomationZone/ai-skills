@@ -1,0 +1,22 @@
+{
+  "id": "rust-async-patterns",
+  "name": "rust-async-patterns",
+  "summary": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns.",
+  "description": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/rust-async-patterns/SKILL.md",
+  "metadataPath": "skills/rust-async-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/rust-async-patterns"
+  }
+}

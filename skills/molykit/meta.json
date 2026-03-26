@@ -1,0 +1,22 @@
+{
+  "id": "molykit",
+  "name": "molykit",
+  "summary": "|",
+  "description": "|",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/molykit/SKILL.md",
+  "metadataPath": "skills/molykit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/molykit"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aws-compliance-checker",
+  "name": "aws-compliance-checker",
+  "summary": "Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks",
+  "description": "Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks",
+  "category": "security",
+  "tags": [
+    "\"[aws",
+    "compliance",
+    "audit",
+    "cis",
+    "pci-dss",
+    "hipaa",
+    "kiro-cli]\"",
+    "security",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/aws-compliance-checker/SKILL.md",
+  "metadataPath": "skills/aws-compliance-checker/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security/aws-compliance-checker"
+  }
+}

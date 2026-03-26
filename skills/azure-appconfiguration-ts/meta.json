@@ -1,0 +1,22 @@
+{
+  "id": "azure-appconfiguration-ts",
+  "name": "azure-appconfiguration-ts",
+  "summary": "Centralized configuration management with feature flags and dynamic refresh.",
+  "description": "Centralized configuration management with feature flags and dynamic refresh.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-appconfiguration-ts/SKILL.md",
+  "metadataPath": "skills/azure-appconfiguration-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-appconfiguration-ts"
+  }
+}

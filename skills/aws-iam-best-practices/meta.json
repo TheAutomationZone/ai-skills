@@ -1,0 +1,27 @@
+{
+  "id": "aws-iam-best-practices",
+  "name": "aws-iam-best-practices",
+  "summary": "IAM policy review, hardening, and least privilege implementation",
+  "description": "IAM policy review, hardening, and least privilege implementation",
+  "category": "security",
+  "tags": [
+    "\"[aws",
+    "iam",
+    "security",
+    "access-control",
+    "kiro-cli",
+    "least-privilege]\"",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/aws-iam-best-practices/SKILL.md",
+  "metadataPath": "skills/aws-iam-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security/aws-iam-best-practices"
+  }
+}

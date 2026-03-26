@@ -1,0 +1,22 @@
+{
+  "id": "iterate-pr",
+  "name": "iterate-pr",
+  "summary": "Iterate on a PR until CI passes.",
+  "description": "Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/iterate-pr/SKILL.md",
+  "metadataPath": "skills/iterate-pr/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/iterate-pr"
+  }
+}

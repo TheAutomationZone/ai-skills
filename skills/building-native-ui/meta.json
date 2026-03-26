@@ -1,0 +1,22 @@
+{
+  "id": "building-native-ui",
+  "name": "building-native-ui",
+  "summary": "Complete guide for building beautiful apps with Expo Router.",
+  "description": "Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/building-native-ui/SKILL.md",
+  "metadataPath": "skills/building-native-ui/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/building-native-ui"
+  }
+}

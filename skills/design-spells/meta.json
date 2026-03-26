@@ -1,0 +1,22 @@
+{
+  "id": "design-spells",
+  "name": "design-spells",
+  "summary": "Curated micro-interactions and design details that add \"magic\" and personality to websites and apps.",
+  "description": "Curated micro-interactions and design details that add \"magic\" and personality to websites and apps.",
+  "category": "design",
+  "tags": [
+    "design",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/design-spells/SKILL.md",
+  "metadataPath": "skills/design-spells/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/design-spells"
+  }
+}

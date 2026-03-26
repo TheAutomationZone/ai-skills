@@ -1,0 +1,22 @@
+{
+  "id": "verification-before-completion",
+  "name": "verification-before-completion",
+  "summary": "Claiming work is complete without verification is dishonesty, not efficiency.",
+  "description": "Claiming work is complete without verification is dishonesty, not efficiency. Use when ANY variation of success/completion claims, ANY expression of satisfaction, or ANY positive statement about work state.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/verification-before-completion/SKILL.md",
+  "metadataPath": "skills/verification-before-completion/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/verification-before-completion"
+  }
+}

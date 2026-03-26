@@ -1,0 +1,22 @@
+{
+  "id": "code-refactoring-tech-debt",
+  "name": "code-refactoring-tech-debt",
+  "summary": "You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical debt in software projects.",
+  "description": "You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical debt in software projects. Analyze the codebase to uncover debt, assess its impact, and create acti",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/code-refactoring-tech-debt/SKILL.md",
+  "metadataPath": "skills/code-refactoring-tech-debt/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/code-refactoring-tech-debt"
+  }
+}

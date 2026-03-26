@@ -1,0 +1,22 @@
+{
+  "id": "startup-business-analyst-financial-projections",
+  "name": "startup-business-analyst-financial-projections",
+  "summary": "'Create detailed 3-5 year financial model with revenue, costs, cash",
+  "description": "'Create detailed 3-5 year financial model with revenue, costs, cash",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/startup-business-analyst-financial-projections/SKILL.md",
+  "metadataPath": "skills/startup-business-analyst-financial-projections/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/startup-business-analyst-financial-projections"
+  }
+}

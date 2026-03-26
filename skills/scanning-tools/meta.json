@@ -1,0 +1,22 @@
+{
+  "id": "scanning-tools",
+  "name": "scanning-tools",
+  "summary": "Master essential security scanning tools for network discovery, vulnerability assessment, web application testing, wireless security, and compliance validation.",
+  "description": "Master essential security scanning tools for network discovery, vulnerability assessment, web application testing, wireless security, and compliance validation. This skill covers tool selection, configuration, and practical usage across different scanning categories.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/scanning-tools/SKILL.md",
+  "metadataPath": "skills/scanning-tools/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/scanning-tools"
+  }
+}

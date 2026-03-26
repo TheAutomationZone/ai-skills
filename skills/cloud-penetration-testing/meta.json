@@ -1,0 +1,22 @@
+{
+  "id": "cloud-penetration-testing",
+  "name": "cloud-penetration-testing",
+  "summary": "Conduct comprehensive security assessments of cloud infrastructure across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).",
+  "description": "Conduct comprehensive security assessments of cloud infrastructure across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cloud-penetration-testing/SKILL.md",
+  "metadataPath": "skills/cloud-penetration-testing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cloud-penetration-testing"
+  }
+}

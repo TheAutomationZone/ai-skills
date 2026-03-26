@@ -1,0 +1,22 @@
+{
+  "id": "odoo-woocommerce-bridge",
+  "name": "odoo-woocommerce-bridge",
+  "summary": "Sync Odoo with WooCommerce: products, inventory, orders, and customers via WooCommerce REST API and Odoo external API.",
+  "description": "Sync Odoo with WooCommerce: products, inventory, orders, and customers via WooCommerce REST API and Odoo external API.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-woocommerce-bridge/SKILL.md",
+  "metadataPath": "skills/odoo-woocommerce-bridge/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-woocommerce-bridge"
+  }
+}

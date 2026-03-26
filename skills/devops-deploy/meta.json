@@ -1,0 +1,27 @@
+{
+  "id": "devops-deploy",
+  "name": "devops-deploy",
+  "summary": "DevOps e deploy de aplicacoes — Docker, CI/CD com GitHub Actions, AWS Lambda, SAM, Terraform, infraestrutura como codigo e monitoramento.",
+  "description": "DevOps e deploy de aplicacoes — Docker, CI/CD com GitHub Actions, AWS Lambda, SAM, Terraform, infraestrutura como codigo e monitoramento.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "docker",
+    "ci-cd",
+    "aws",
+    "terraform",
+    "github-actions",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/devops-deploy/SKILL.md",
+  "metadataPath": "skills/devops-deploy/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/devops-deploy"
+  }
+}

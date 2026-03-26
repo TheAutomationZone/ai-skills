@@ -1,0 +1,22 @@
+{
+  "id": "error-handling-patterns",
+  "name": "error-handling-patterns",
+  "summary": "Build resilient applications with robust error handling strategies that gracefully handle failures and provide excellent debugging experiences.",
+  "description": "Build resilient applications with robust error handling strategies that gracefully handle failures and provide excellent debugging experiences.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/error-handling-patterns/SKILL.md",
+  "metadataPath": "skills/error-handling-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/error-handling-patterns"
+  }
+}

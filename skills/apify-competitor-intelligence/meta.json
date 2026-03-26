@@ -1,0 +1,22 @@
+{
+  "id": "apify-competitor-intelligence",
+  "name": "apify-competitor-intelligence",
+  "summary": "Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.",
+  "description": "Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/apify-competitor-intelligence/SKILL.md",
+  "metadataPath": "skills/apify-competitor-intelligence/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/apify-competitor-intelligence"
+  }
+}

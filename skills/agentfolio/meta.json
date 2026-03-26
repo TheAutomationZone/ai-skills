@@ -1,0 +1,22 @@
+{
+  "id": "agentfolio",
+  "name": "agentfolio",
+  "summary": "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory.",
+  "description": "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "agentfolio.io"
+  ],
+  "risk": "unknown",
+  "source": "agentfolio.io",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agentfolio/SKILL.md",
+  "metadataPath": "skills/agentfolio/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agentfolio"
+  }
+}

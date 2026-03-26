@@ -1,0 +1,22 @@
+{
+  "id": "documentation-generation-doc-generate",
+  "name": "documentation-generation-doc-generate",
+  "summary": "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code.",
+  "description": "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/documentation-generation-doc-generate/SKILL.md",
+  "metadataPath": "skills/documentation-generation-doc-generate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/documentation-generation-doc-generate"
+  }
+}

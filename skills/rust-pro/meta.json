@@ -1,0 +1,22 @@
+{
+  "id": "rust-pro",
+  "name": "rust-pro",
+  "summary": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.",
+  "description": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/rust-pro/SKILL.md",
+  "metadataPath": "skills/rust-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/rust-pro"
+  }
+}

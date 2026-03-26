@@ -1,0 +1,22 @@
+{
+  "id": "langchain-architecture",
+  "name": "langchain-architecture",
+  "summary": "Master the LangChain framework for building sophisticated LLM applications with agents, chains, memory, and tool integration.",
+  "description": "Master the LangChain framework for building sophisticated LLM applications with agents, chains, memory, and tool integration.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/langchain-architecture/SKILL.md",
+  "metadataPath": "skills/langchain-architecture/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/langchain-architecture"
+  }
+}

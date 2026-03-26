@@ -1,0 +1,22 @@
+{
+  "id": "emblemai-crypto-wallet",
+  "name": "emblemai-crypto-wallet",
+  "summary": "Crypto wallet management across 7 blockchains via EmblemAI Agent Hustle API.",
+  "description": "Crypto wallet management across 7 blockchains via EmblemAI Agent Hustle API. Balance checks, token swaps, portfolio analysis, and transaction execution for Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "critical",
+    "emblemcompany/agent-skills (mit)"
+  ],
+  "risk": "critical",
+  "source": "EmblemCompany/Agent-skills (MIT)",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/emblemai-crypto-wallet/SKILL.md",
+  "metadataPath": "skills/emblemai-crypto-wallet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/emblemai-crypto-wallet"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "copy-editing",
+  "name": "copy-editing",
+  "summary": "You are an expert copy editor specializing in marketing and conversion copy.",
+  "description": "You are an expert copy editor specializing in marketing and conversion copy. Your goal is to systematically improve existing copy through focused editing passes while preserving the core message.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/copy-editing/SKILL.md",
+  "metadataPath": "skills/copy-editing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/copy-editing"
+  }
+}

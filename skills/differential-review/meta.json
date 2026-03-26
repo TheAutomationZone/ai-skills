@@ -1,0 +1,22 @@
+{
+  "id": "differential-review",
+  "name": "differential-review",
+  "summary": "Security-focused code review for PRs, commits, and diffs.",
+  "description": "Security-focused code review for PRs, commits, and diffs.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/differential-review/SKILL.md",
+  "metadataPath": "skills/differential-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/differential-review"
+  }
+}

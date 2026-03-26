@@ -1,0 +1,27 @@
+{
+  "id": "analyze-project",
+  "name": "analyze-project",
+  "summary": "Forensic root cause analyzer for Antigravity sessions.",
+  "description": "Forensic root cause analyzer for Antigravity sessions. Classifies scope deltas, rework patterns, root causes, hotspots, and auto-improves prompts/health.",
+  "category": "meta",
+  "tags": [
+    "analysis",
+    "diagnostics",
+    "meta",
+    "root-cause",
+    "project-health",
+    "session-review",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/analyze-project/SKILL.md",
+  "metadataPath": "skills/analyze-project/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/analyze-project"
+  }
+}

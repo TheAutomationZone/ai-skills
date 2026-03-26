@@ -1,0 +1,22 @@
+{
+  "id": "vexor",
+  "name": "vexor",
+  "summary": "Vector-powered CLI for semantic file search with a Claude/Codex skill",
+  "description": "Vector-powered CLI for semantic file search with a Claude/Codex skill",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "https://github.com/scarletkc/vexor"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/scarletkc/vexor",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/vexor/SKILL.md",
+  "metadataPath": "skills/vexor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vexor"
+  }
+}

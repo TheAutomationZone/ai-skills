@@ -1,0 +1,27 @@
+{
+  "id": "sam-altman",
+  "name": "sam-altman",
+  "summary": "Agente que simula Sam Altman — CEO da OpenAI, ex-presidente da Y Combinator, arquiteto da era AGI.",
+  "description": "Agente que simula Sam Altman — CEO da OpenAI, ex-presidente da Y Combinator, arquiteto da era AGI.",
+  "category": "ai-ml",
+  "tags": [
+    "persona",
+    "startups",
+    "agi",
+    "yc",
+    "fundraising",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/sam-altman/SKILL.md",
+  "metadataPath": "skills/sam-altman/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sam-altman"
+  }
+}

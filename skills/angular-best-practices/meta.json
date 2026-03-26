@@ -1,0 +1,22 @@
+{
+  "id": "angular-best-practices",
+  "name": "angular-best-practices",
+  "summary": "Angular performance optimization and best practices guide.",
+  "description": "Angular performance optimization and best practices guide. Use when writing, reviewing, or refactoring Angular code for optimal performance, bundle size, and rendering efficiency.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/angular-best-practices/SKILL.md",
+  "metadataPath": "skills/angular-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/angular-best-practices"
+  }
+}

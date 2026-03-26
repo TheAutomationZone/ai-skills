@@ -1,0 +1,22 @@
+{
+  "id": "odoo-inventory-optimizer",
+  "name": "odoo-inventory-optimizer",
+  "summary": "Expert guide for Odoo Inventory: stock valuation (FIFO/AVCO), reordering rules, putaway strategies, routes, and multi-warehouse configuration.",
+  "description": "Expert guide for Odoo Inventory: stock valuation (FIFO/AVCO), reordering rules, putaway strategies, routes, and multi-warehouse configuration.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-inventory-optimizer/SKILL.md",
+  "metadataPath": "skills/odoo-inventory-optimizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-inventory-optimizer"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pc-games",
+  "name": "pc-games",
+  "summary": "PC and console game development principles.",
+  "description": "PC and console game development principles. Engine selection, platform features, optimization strategies.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/pc-games/SKILL.md",
+  "metadataPath": "skills/pc-games/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/pc-games"
+  }
+}

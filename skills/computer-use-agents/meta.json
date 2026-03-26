@@ -1,0 +1,22 @@
+{
+  "id": "computer-use-agents",
+  "name": "computer-use-agents",
+  "summary": "The fundamental architecture of computer use agents: observe screen, reason about next action, execute action, repeat.",
+  "description": "The fundamental architecture of computer use agents: observe screen, reason about next action, execute action, repeat. This loop integrates vision models with action execution through an iterative pipeline.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/computer-use-agents/SKILL.md",
+  "metadataPath": "skills/computer-use-agents/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/computer-use-agents"
+  }
+}

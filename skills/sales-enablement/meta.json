@@ -1,0 +1,22 @@
+{
+  "id": "sales-enablement",
+  "name": "sales-enablement",
+  "summary": "Create sales collateral such as decks, one-pagers, objection docs, demo scripts, playbooks, and proposal templates.",
+  "description": "Create sales collateral such as decks, one-pagers, objection docs, demo scripts, playbooks, and proposal templates. Use when a sales team needs assets that help reps move deals forward and close.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/sales-enablement/SKILL.md",
+  "metadataPath": "skills/sales-enablement/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sales-enablement"
+  }
+}

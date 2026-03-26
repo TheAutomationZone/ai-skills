@@ -1,0 +1,30 @@
+{
+  "id": "astro",
+  "name": "astro",
+  "summary": "Build content-focused websites with Astro — zero JS by default, islands architecture, multi-framework components, and Markdown/MDX support.",
+  "description": "Build content-focused websites with Astro — zero JS by default, islands architecture, multi-framework components, and Markdown/MDX support.",
+  "category": "frontend",
+  "tags": [
+    "astro",
+    "ssg",
+    "ssr",
+    "islands",
+    "content",
+    "markdown",
+    "mdx",
+    "performance",
+    "frontend",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-18",
+  "version": "1.0.0",
+  "contentPath": "skills/astro/SKILL.md",
+  "metadataPath": "skills/astro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/astro"
+  }
+}

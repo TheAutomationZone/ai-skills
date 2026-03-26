@@ -1,0 +1,22 @@
+{
+  "id": "unit-testing-test-generate",
+  "name": "unit-testing-test-generate",
+  "summary": "Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus.",
+  "description": "Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/unit-testing-test-generate/SKILL.md",
+  "metadataPath": "skills/unit-testing-test-generate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/unit-testing-test-generate"
+  }
+}

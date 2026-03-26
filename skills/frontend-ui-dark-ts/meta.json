@@ -1,0 +1,22 @@
+{
+  "id": "frontend-ui-dark-ts",
+  "name": "frontend-ui-dark-ts",
+  "summary": "A modern dark-themed React UI system using Tailwind CSS and Framer Motion.",
+  "description": "A modern dark-themed React UI system using Tailwind CSS and Framer Motion. Designed for dashboards, admin panels, and data-rich applications with glassmorphism effects and tasteful animations.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-ui-dark-ts/SKILL.md",
+  "metadataPath": "skills/frontend-ui-dark-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-ui-dark-ts"
+  }
+}

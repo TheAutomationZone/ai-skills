@@ -1,0 +1,22 @@
+{
+  "id": "comprehensive-review-full-review",
+  "name": "comprehensive-review-full-review",
+  "summary": "Use when working with comprehensive review full review",
+  "description": "Use when working with comprehensive review full review",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/comprehensive-review-full-review/SKILL.md",
+  "metadataPath": "skills/comprehensive-review-full-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/comprehensive-review-full-review"
+  }
+}

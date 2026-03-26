@@ -1,0 +1,22 @@
+{
+  "id": "scientific-writing",
+  "name": "scientific-writing",
+  "summary": "This is the core skill for the deep research and writing tool—combining AI-driven deep research with well-formatted written outputs.",
+  "description": "This is the core skill for the deep research and writing tool—combining AI-driven deep research with well-formatted written outputs. Every document produced is backed by comprehensive literature search and verified citations through the research-lookup skill.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/scientific-writing/SKILL.md",
+  "metadataPath": "skills/scientific-writing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/scientific-writing"
+  }
+}

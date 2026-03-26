@@ -1,0 +1,22 @@
+{
+  "id": "performance-testing-review-multi-agent-review",
+  "name": "performance-testing-review-multi-agent-review",
+  "summary": "Use when working with performance testing review multi agent review",
+  "description": "Use when working with performance testing review multi agent review",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/performance-testing-review-multi-agent-review/SKILL.md",
+  "metadataPath": "skills/performance-testing-review-multi-agent-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/performance-testing-review-multi-agent-review"
+  }
+}

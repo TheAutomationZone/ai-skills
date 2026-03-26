@@ -1,0 +1,22 @@
+{
+  "id": "threejs-shaders",
+  "name": "threejs-shaders",
+  "summary": "Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects.",
+  "description": "Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual effects, modifying vertices, writing fragment shaders, or extending built-in materials.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-shaders/SKILL.md",
+  "metadataPath": "skills/threejs-shaders/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-shaders"
+  }
+}

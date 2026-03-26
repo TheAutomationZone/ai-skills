@@ -1,0 +1,22 @@
+{
+  "id": "azure-storage-file-share-py",
+  "name": "azure-storage-file-share-py",
+  "summary": "Azure Storage File Share SDK for Python.",
+  "description": "Azure Storage File Share SDK for Python. Use for SMB file shares, directories, and file operations in the cloud.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-storage-file-share-py/SKILL.md",
+  "metadataPath": "skills/azure-storage-file-share-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-storage-file-share-py"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "context-agent",
+  "name": "context-agent",
+  "summary": "Agente de contexto para continuidade entre sessoes.",
+  "description": "Agente de contexto para continuidade entre sessoes. Salva resumos, decisoes, tarefas pendentes e carrega briefing automatico na sessao seguinte.",
+  "category": "ai-ml",
+  "tags": [
+    "context",
+    "session-management",
+    "continuity",
+    "memory",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/context-agent/SKILL.md",
+  "metadataPath": "skills/context-agent/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-agent"
+  }
+}

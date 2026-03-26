@@ -1,0 +1,22 @@
+{
+  "id": "issues",
+  "name": "issues",
+  "summary": "Interact with GitHub issues - create, list, and view issues.",
+  "description": "Interact with GitHub issues - create, list, and view issues.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/issues/SKILL.md",
+  "metadataPath": "skills/issues/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/issues"
+  }
+}

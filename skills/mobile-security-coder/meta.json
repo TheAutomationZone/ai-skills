@@ -1,0 +1,22 @@
+{
+  "id": "mobile-security-coder",
+  "name": "mobile-security-coder",
+  "summary": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns.",
+  "description": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mobile-security-coder/SKILL.md",
+  "metadataPath": "skills/mobile-security-coder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mobile-security-coder"
+  }
+}

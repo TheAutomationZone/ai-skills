@@ -1,0 +1,22 @@
+{
+  "id": "azure-servicebus-ts",
+  "name": "azure-servicebus-ts",
+  "summary": "Enterprise messaging with queues, topics, and subscriptions.",
+  "description": "Enterprise messaging with queues, topics, and subscriptions.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-servicebus-ts/SKILL.md",
+  "metadataPath": "skills/azure-servicebus-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-servicebus-ts"
+  }
+}

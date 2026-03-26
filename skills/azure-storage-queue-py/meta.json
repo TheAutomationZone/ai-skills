@@ -1,0 +1,22 @@
+{
+  "id": "azure-storage-queue-py",
+  "name": "azure-storage-queue-py",
+  "summary": "Azure Queue Storage SDK for Python.",
+  "description": "Azure Queue Storage SDK for Python. Use for reliable message queuing, task distribution, and asynchronous processing.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-storage-queue-py/SKILL.md",
+  "metadataPath": "skills/azure-storage-queue-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-storage-queue-py"
+  }
+}

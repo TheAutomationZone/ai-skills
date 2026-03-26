@@ -1,0 +1,22 @@
+{
+  "id": "threejs-loaders",
+  "name": "threejs-loaders",
+  "summary": "Three.js asset loading - GLTF, textures, images, models, async patterns.",
+  "description": "Three.js asset loading - GLTF, textures, images, models, async patterns. Use when loading 3D models, textures, HDR environments, or managing loading progress.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-loaders/SKILL.md",
+  "metadataPath": "skills/threejs-loaders/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-loaders"
+  }
+}

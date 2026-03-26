@@ -1,0 +1,22 @@
+{
+  "id": "risk-metrics-calculation",
+  "name": "risk-metrics-calculation",
+  "summary": "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis.",
+  "description": "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/risk-metrics-calculation/SKILL.md",
+  "metadataPath": "skills/risk-metrics-calculation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/risk-metrics-calculation"
+  }
+}

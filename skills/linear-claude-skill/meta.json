@@ -1,0 +1,22 @@
+{
+  "id": "linear-claude-skill",
+  "name": "linear-claude-skill",
+  "summary": "Manage Linear issues, projects, and teams",
+  "description": "Manage Linear issues, projects, and teams",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "safe",
+    "https://github.com/wrsmith108/linear-claude-skill"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/wrsmith108/linear-claude-skill",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/linear-claude-skill/SKILL.md",
+  "metadataPath": "skills/linear-claude-skill/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/linear-claude-skill"
+  }
+}

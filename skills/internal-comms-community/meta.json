@@ -1,0 +1,22 @@
+{
+  "id": "internal-comms-community",
+  "name": "internal-comms-community",
+  "summary": "To write internal communications, use this skill for:",
+  "description": "To write internal communications, use this skill for:",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/internal-comms-community/SKILL.md",
+  "metadataPath": "skills/internal-comms-community/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/internal-comms-community"
+  }
+}

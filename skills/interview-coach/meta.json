@@ -1,0 +1,28 @@
+{
+  "id": "interview-coach",
+  "name": "interview-coach",
+  "summary": "Full job search coaching system — JD decoding, resume, storybank, mock interviews, transcript analysis, comp negotiation.",
+  "description": "Full job search coaching system — JD decoding, resume, storybank, mock interviews, transcript analysis, comp negotiation. 23 commands, persistent state.",
+  "category": "productivity",
+  "tags": [
+    "interview",
+    "job-search",
+    "coaching",
+    "career",
+    "storybank",
+    "negotiation",
+    "productivity",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-11",
+  "version": "1.0.0",
+  "contentPath": "skills/interview-coach/SKILL.md",
+  "metadataPath": "skills/interview-coach/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/interview-coach"
+  }
+}

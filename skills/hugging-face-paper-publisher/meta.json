@@ -1,0 +1,22 @@
+{
+  "id": "hugging-face-paper-publisher",
+  "name": "hugging-face-paper-publisher",
+  "summary": "Publish and manage research papers on Hugging Face Hub.",
+  "description": "Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/hugging-face-paper-publisher/SKILL.md",
+  "metadataPath": "skills/hugging-face-paper-publisher/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hugging-face-paper-publisher"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-messaging-webpubsubservice-py",
+  "name": "azure-messaging-webpubsubservice-py",
+  "summary": "Azure Web PubSub Service SDK for Python.",
+  "description": "Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-messaging-webpubsubservice-py/SKILL.md",
+  "metadataPath": "skills/azure-messaging-webpubsubservice-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-messaging-webpubsubservice-py"
+  }
+}

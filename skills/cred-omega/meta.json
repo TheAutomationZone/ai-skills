@@ -1,0 +1,26 @@
+{
+  "id": "cred-omega",
+  "name": "cred-omega",
+  "summary": "CISO operacional enterprise para gestao total de credenciais e segredos.",
+  "description": "CISO operacional enterprise para gestao total de credenciais e segredos.",
+  "category": "security",
+  "tags": [
+    "credentials",
+    "secrets",
+    "security",
+    "api-keys",
+    "vault",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/cred-omega/SKILL.md",
+  "metadataPath": "skills/cred-omega/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cred-omega"
+  }
+}

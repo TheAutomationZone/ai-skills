@@ -1,0 +1,22 @@
+{
+  "id": "event-sourcing-architect",
+  "name": "event-sourcing-architect",
+  "summary": "Expert in event sourcing, CQRS, and event-driven architecture patterns.",
+  "description": "Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, projection building, saga orchestration, and eventual consistency patterns. Use PROACTIVELY for event-sourced systems, audit trail requirements, or complex domain modeling with temporal queries.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/event-sourcing-architect/SKILL.md",
+  "metadataPath": "skills/event-sourcing-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/event-sourcing-architect"
+  }
+}

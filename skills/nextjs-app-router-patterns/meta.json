@@ -1,0 +1,22 @@
+{
+  "id": "nextjs-app-router-patterns",
+  "name": "nextjs-app-router-patterns",
+  "summary": "Comprehensive patterns for Next.js 14+ App Router architecture, Server Components, and modern full-stack React development.",
+  "description": "Comprehensive patterns for Next.js 14+ App Router architecture, Server Components, and modern full-stack React development.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nextjs-app-router-patterns/SKILL.md",
+  "metadataPath": "skills/nextjs-app-router-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nextjs-app-router-patterns"
+  }
+}

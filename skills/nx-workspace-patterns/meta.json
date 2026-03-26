@@ -1,0 +1,22 @@
+{
+  "id": "nx-workspace-patterns",
+  "name": "nx-workspace-patterns",
+  "summary": "Configure and optimize Nx monorepo workspaces.",
+  "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nx-workspace-patterns/SKILL.md",
+  "metadataPath": "skills/nx-workspace-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nx-workspace-patterns"
+  }
+}

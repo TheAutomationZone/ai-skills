@@ -1,0 +1,22 @@
+{
+  "id": "hosted-agents-v2-py",
+  "name": "hosted-agents-v2-py",
+  "summary": "Build hosted agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition.",
+  "description": "Build hosted agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition. Use when creating container-based agents in Azure AI Foundry.",
+  "category": "ai-agents",
+  "tags": [
+    "ai-agents",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hosted-agents-v2-py/SKILL.md",
+  "metadataPath": "skills/hosted-agents-v2-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hosted-agents-v2-py"
+  }
+}

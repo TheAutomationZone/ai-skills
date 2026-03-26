@@ -1,0 +1,22 @@
+{
+  "id": "accessibility-compliance-accessibility-audit",
+  "name": "accessibility-compliance-accessibility-audit",
+  "summary": "You are an accessibility expert specializing in WCAG compliance, inclusive design, and assistive technology compatibility.",
+  "description": "You are an accessibility expert specializing in WCAG compliance, inclusive design, and assistive technology compatibility. Conduct audits, identify barriers, and provide remediation guidance.",
+  "category": "design",
+  "tags": [
+    "design",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/accessibility-compliance-accessibility-audit/SKILL.md",
+  "metadataPath": "skills/accessibility-compliance-accessibility-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/accessibility-compliance-accessibility-audit"
+  }
+}

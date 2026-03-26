@@ -1,0 +1,28 @@
+{
+  "id": "sankhya-dashboard-html-jsp-custom-best-pratices",
+  "name": "sankhya-dashboard-html-jsp-custom-best-pratices",
+  "summary": "This skill should be used when the user asks for patterns, best practices, creation, or fixing of Sankhya dashboards using HTML, JSP, Java, and SQL.",
+  "description": "This skill should be used when the user asks for patterns, best practices, creation, or fixing of Sankhya dashboards using HTML, JSP, Java, and SQL.",
+  "category": "code",
+  "tags": [
+    "sankhya",
+    "dashboard",
+    "jsp",
+    "html",
+    "sql",
+    "best-practices",
+    "code",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-10",
+  "version": "1.0.0",
+  "contentPath": "skills/sankhya-dashboard-html-jsp-custom-best-pratices/SKILL.md",
+  "metadataPath": "skills/sankhya-dashboard-html-jsp-custom-best-pratices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sankhya-dashboard-html-jsp-custom-best-pratices"
+  }
+}

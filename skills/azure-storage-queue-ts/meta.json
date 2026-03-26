@@ -1,0 +1,22 @@
+{
+  "id": "azure-storage-queue-ts",
+  "name": "azure-storage-queue-ts",
+  "summary": "Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations.",
+  "description": "Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages in queues.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-storage-queue-ts/SKILL.md",
+  "metadataPath": "skills/azure-storage-queue-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-storage-queue-ts"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "favicon",
+  "name": "favicon",
+  "summary": "Generate favicons from a source image",
+  "description": "Generate favicons from a source image",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/favicon/SKILL.md",
+  "metadataPath": "skills/favicon/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/favicon"
+  }
+}

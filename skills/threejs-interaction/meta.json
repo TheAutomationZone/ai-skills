@@ -1,0 +1,22 @@
+{
+  "id": "threejs-interaction",
+  "name": "threejs-interaction",
+  "summary": "Three.js interaction - raycasting, controls, mouse/touch input, object selection.",
+  "description": "Three.js interaction - raycasting, controls, mouse/touch input, object selection. Use when handling user input, implementing click detection, adding camera controls, or creating interactive 3D experiences.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-interaction/SKILL.md",
+  "metadataPath": "skills/threejs-interaction/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-interaction"
+  }
+}

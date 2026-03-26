@@ -1,0 +1,22 @@
+{
+  "id": "hugging-face-dataset-viewer",
+  "name": "hugging-face-dataset-viewer",
+  "summary": "Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/split metadata, paginate rows, search text, apply filters, download parquet URLs, and read size or...",
+  "description": "Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/split metadata, paginate rows, search text, apply filters, download parquet URLs, and read size or statistics.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/hugging-face-dataset-viewer/SKILL.md",
+  "metadataPath": "skills/hugging-face-dataset-viewer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hugging-face-dataset-viewer"
+  }
+}

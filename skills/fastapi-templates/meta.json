@@ -1,0 +1,22 @@
+{
+  "id": "fastapi-templates",
+  "name": "fastapi-templates",
+  "summary": "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling.",
+  "description": "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects.",
+  "category": "app-builder",
+  "tags": [
+    "app-builder",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fastapi-templates/SKILL.md",
+  "metadataPath": "skills/fastapi-templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fastapi-templates"
+  }
+}

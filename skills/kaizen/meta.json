@@ -1,0 +1,22 @@
+{
+  "id": "kaizen",
+  "name": "kaizen",
+  "summary": "Guide for continuous improvement, error proofing, and standardization.",
+  "description": "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements.",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/kaizen/SKILL.md",
+  "metadataPath": "skills/kaizen/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/kaizen"
+  }
+}

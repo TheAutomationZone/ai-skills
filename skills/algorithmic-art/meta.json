@@ -1,0 +1,22 @@
+{
+  "id": "algorithmic-art",
+  "name": "algorithmic-art",
+  "summary": "Algorithmic philosophies are computational aesthetic movements that are then expressed through code.",
+  "description": "Algorithmic philosophies are computational aesthetic movements that are then expressed through code. Output .md files (philosophy), .html files (interactive viewer), and .js files (generative algorithms).",
+  "category": "graphics-processing",
+  "tags": [
+    "graphics-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/algorithmic-art/SKILL.md",
+  "metadataPath": "skills/algorithmic-art/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/algorithmic-art"
+  }
+}

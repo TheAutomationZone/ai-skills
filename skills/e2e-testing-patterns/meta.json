@@ -1,0 +1,22 @@
+{
+  "id": "e2e-testing-patterns",
+  "name": "e2e-testing-patterns",
+  "summary": "Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship code quickly and catch regressions before users do.",
+  "description": "Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship code quickly and catch regressions before users do.",
+  "category": "test-automation",
+  "tags": [
+    "test-automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/e2e-testing-patterns/SKILL.md",
+  "metadataPath": "skills/e2e-testing-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/e2e-testing-patterns"
+  }
+}

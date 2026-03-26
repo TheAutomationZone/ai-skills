@@ -1,0 +1,22 @@
+{
+  "id": "odoo-sales-crm-expert",
+  "name": "odoo-sales-crm-expert",
+  "summary": "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting.",
+  "description": "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-sales-crm-expert/SKILL.md",
+  "metadataPath": "skills/odoo-sales-crm-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-sales-crm-expert"
+  }
+}

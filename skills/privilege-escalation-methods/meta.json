@@ -1,0 +1,22 @@
+{
+  "id": "privilege-escalation-methods",
+  "name": "privilege-escalation-methods",
+  "summary": "Provide comprehensive techniques for escalating privileges from a low-privileged user to root/administrator access on compromised Linux and Windows systems.",
+  "description": "Provide comprehensive techniques for escalating privileges from a low-privileged user to root/administrator access on compromised Linux and Windows systems. Essential for penetration testing post-exploitation phase and red team operations.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/privilege-escalation-methods/SKILL.md",
+  "metadataPath": "skills/privilege-escalation-methods/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/privilege-escalation-methods"
+  }
+}

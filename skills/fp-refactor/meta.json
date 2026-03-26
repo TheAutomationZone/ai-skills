@@ -1,0 +1,31 @@
+{
+  "id": "fp-refactor",
+  "name": "fp-refactor",
+  "summary": "Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns",
+  "description": "Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "refactoring",
+    "functional-programming",
+    "typescript",
+    "migration",
+    "either",
+    "option",
+    "task",
+    "reader",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-refactor/SKILL.md",
+  "metadataPath": "skills/fp-refactor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-refactor"
+  }
+}

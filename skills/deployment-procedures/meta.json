@@ -1,0 +1,22 @@
+{
+  "id": "deployment-procedures",
+  "name": "deployment-procedures",
+  "summary": "Production deployment principles and decision-making.",
+  "description": "Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/deployment-procedures/SKILL.md",
+  "metadataPath": "skills/deployment-procedures/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/deployment-procedures"
+  }
+}

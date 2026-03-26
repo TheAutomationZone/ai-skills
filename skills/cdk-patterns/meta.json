@@ -1,0 +1,22 @@
+{
+  "id": "cdk-patterns",
+  "name": "cdk-patterns",
+  "summary": "Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java.",
+  "description": "Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cdk-patterns/SKILL.md",
+  "metadataPath": "skills/cdk-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cdk-patterns"
+  }
+}

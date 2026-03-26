@@ -1,0 +1,22 @@
+{
+  "id": "tavily-web",
+  "name": "tavily-web",
+  "summary": "Web search, content extraction, crawling, and research capabilities using Tavily API.",
+  "description": "Web search, content extraction, crawling, and research capabilities using Tavily API. Use when you need to search the web for current information, extracting content from URLs, or crawling websites.",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tavily-web/SKILL.md",
+  "metadataPath": "skills/tavily-web/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tavily-web"
+  }
+}

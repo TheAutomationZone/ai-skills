@@ -1,0 +1,22 @@
+{
+  "id": "beautiful-prose",
+  "name": "beautiful-prose",
+  "summary": "A hard-edged writing style contract for timeless, forceful English prose without modern AI tics.",
+  "description": "A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/beautiful-prose/SKILL.md",
+  "metadataPath": "skills/beautiful-prose/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/beautiful-prose"
+  }
+}

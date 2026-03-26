@@ -1,0 +1,22 @@
+{
+  "id": "react-component-performance",
+  "name": "react-component-performance",
+  "summary": "Diagnose slow React components and suggest targeted performance fixes.",
+  "description": "Diagnose slow React components and suggest targeted performance fixes.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/react-component-performance/SKILL.md",
+  "metadataPath": "skills/react-component-performance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-component-performance"
+  }
+}

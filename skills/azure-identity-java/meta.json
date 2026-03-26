@@ -1,0 +1,22 @@
+{
+  "id": "azure-identity-java",
+  "name": "azure-identity-java",
+  "summary": "Authenticate Java applications with Azure services using Microsoft Entra ID (Azure AD).",
+  "description": "Authenticate Java applications with Azure services using Microsoft Entra ID (Azure AD).",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-identity-java/SKILL.md",
+  "metadataPath": "skills/azure-identity-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-identity-java"
+  }
+}

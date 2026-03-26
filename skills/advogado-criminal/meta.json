@@ -1,0 +1,25 @@
+{
+  "id": "advogado-criminal",
+  "name": "advogado-criminal",
+  "summary": "Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.",
+  "description": "Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.",
+  "category": "legal",
+  "tags": [
+    "legal",
+    "brazilian-law",
+    "criminal-law",
+    "portuguese",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/advogado-criminal/SKILL.md",
+  "metadataPath": "skills/advogado-criminal/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/advogado-criminal"
+  }
+}

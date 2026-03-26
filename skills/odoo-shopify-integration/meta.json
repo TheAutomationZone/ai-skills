@@ -1,0 +1,22 @@
+{
+  "id": "odoo-shopify-integration",
+  "name": "odoo-shopify-integration",
+  "summary": "Connect Odoo with Shopify: sync products, inventory, orders, and customers using the Shopify API and Odoo's external API or connector modules.",
+  "description": "Connect Odoo with Shopify: sync products, inventory, orders, and customers using the Shopify API and Odoo's external API or connector modules.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-shopify-integration/SKILL.md",
+  "metadataPath": "skills/odoo-shopify-integration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-shopify-integration"
+  }
+}

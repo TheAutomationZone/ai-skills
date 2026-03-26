@@ -1,0 +1,22 @@
+{
+  "id": "local-llm-expert",
+  "name": "local-llm-expert",
+  "summary": "Master local LLM inference, model selection, VRAM optimization, and local deployment using Ollama, llama.cpp, vLLM, and LM Studio.",
+  "description": "Master local LLM inference, model selection, VRAM optimization, and local deployment using Ollama, llama.cpp, vLLM, and LM Studio. Expert in quantization formats (GGUF, EXL2) and local AI privacy.",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-03-11",
+  "version": "1.0.0",
+  "contentPath": "skills/local-llm-expert/SKILL.md",
+  "metadataPath": "skills/local-llm-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/local-llm-expert"
+  }
+}

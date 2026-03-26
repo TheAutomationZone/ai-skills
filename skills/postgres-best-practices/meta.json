@@ -1,0 +1,22 @@
+{
+  "id": "postgres-best-practices",
+  "name": "postgres-best-practices",
+  "summary": "Postgres performance optimization and best practices from Supabase.",
+  "description": "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/postgres-best-practices/SKILL.md",
+  "metadataPath": "skills/postgres-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/postgres-best-practices"
+  }
+}

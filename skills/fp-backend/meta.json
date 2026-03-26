@@ -1,0 +1,30 @@
+{
+  "id": "fp-backend",
+  "name": "fp-backend",
+  "summary": "Functional programming patterns for Node.js/Deno backend development using fp-ts, ReaderTaskEither, and functional dependency injection",
+  "description": "Functional programming patterns for Node.js/Deno backend development using fp-ts, ReaderTaskEither, and functional dependency injection",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "typescript",
+    "backend",
+    "functional-programming",
+    "node",
+    "deno",
+    "dependency-injection",
+    "reader-task-either",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-backend/SKILL.md",
+  "metadataPath": "skills/fp-backend/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-backend"
+  }
+}

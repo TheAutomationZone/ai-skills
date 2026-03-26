@@ -1,0 +1,27 @@
+{
+  "id": "tool-use-guardian",
+  "name": "tool-use-guardian",
+  "summary": "FREE — Intelligent tool-call reliability wrapper.",
+  "description": "FREE — Intelligent tool-call reliability wrapper. Monitors, retries, fixes, and learns from tool failures. Auto-recovers from truncated JSON, timeouts, rate limits, and mid-chain failures.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "tool-use",
+    "error-handling",
+    "retries",
+    "recovery",
+    "agent-infrastructure",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-13",
+  "version": "1.0.0",
+  "contentPath": "skills/tool-use-guardian/SKILL.md",
+  "metadataPath": "skills/tool-use-guardian/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tool-use-guardian"
+  }
+}

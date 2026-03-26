@@ -1,0 +1,22 @@
+{
+  "id": "python-pro",
+  "name": "python-pro",
+  "summary": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices.",
+  "description": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/python-pro/SKILL.md",
+  "metadataPath": "skills/python-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/python-pro"
+  }
+}

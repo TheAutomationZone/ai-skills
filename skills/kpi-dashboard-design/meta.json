@@ -1,0 +1,22 @@
+{
+  "id": "kpi-dashboard-design",
+  "name": "kpi-dashboard-design",
+  "summary": "Comprehensive patterns for designing effective Key Performance Indicator (KPI) dashboards that drive business decisions.",
+  "description": "Comprehensive patterns for designing effective Key Performance Indicator (KPI) dashboards that drive business decisions.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/kpi-dashboard-design/SKILL.md",
+  "metadataPath": "skills/kpi-dashboard-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/kpi-dashboard-design"
+  }
+}

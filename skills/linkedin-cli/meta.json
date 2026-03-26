@@ -1,0 +1,22 @@
+{
+  "id": "linkedin-cli",
+  "name": "linkedin-cli",
+  "summary": "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator.",
+  "description": "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/linkedin-cli/SKILL.md",
+  "metadataPath": "skills/linkedin-cli/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/linkedin-cli"
+  }
+}

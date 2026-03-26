@@ -1,0 +1,22 @@
+{
+  "id": "similarity-search-patterns",
+  "name": "similarity-search-patterns",
+  "summary": "Implement efficient similarity search with vector databases.",
+  "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/similarity-search-patterns/SKILL.md",
+  "metadataPath": "skills/similarity-search-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/similarity-search-patterns"
+  }
+}

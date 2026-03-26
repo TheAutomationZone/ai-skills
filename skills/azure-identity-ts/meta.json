@@ -1,0 +1,22 @@
+{
+  "id": "azure-identity-ts",
+  "name": "azure-identity-ts",
+  "summary": "Authenticate to Azure services with various credential types.",
+  "description": "Authenticate to Azure services with various credential types.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-identity-ts/SKILL.md",
+  "metadataPath": "skills/azure-identity-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-identity-ts"
+  }
+}

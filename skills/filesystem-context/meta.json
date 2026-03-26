@@ -1,0 +1,22 @@
+{
+  "id": "filesystem-context",
+  "name": "filesystem-context",
+  "summary": "Use for file-based context management, dynamic context discovery, and reducing context window bloat.",
+  "description": "Use for file-based context management, dynamic context discovery, and reducing context window bloat. Offload context to files for just-in-time loading.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/filesystem-context/SKILL.md",
+  "metadataPath": "skills/filesystem-context/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/filesystem-context"
+  }
+}

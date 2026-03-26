@@ -1,0 +1,22 @@
+{
+  "id": "vibe-code-auditor",
+  "name": "vibe-code-auditor",
+  "summary": "Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.",
+  "description": "Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "safe",
+    "original"
+  ],
+  "risk": "safe",
+  "source": "original",
+  "addedAt": "2026-02-28",
+  "version": "1.0.0",
+  "contentPath": "skills/vibe-code-auditor/SKILL.md",
+  "metadataPath": "skills/vibe-code-auditor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vibe-code-auditor"
+  }
+}

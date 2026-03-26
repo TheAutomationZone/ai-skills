@@ -1,0 +1,22 @@
+{
+  "id": "blockchain-developer",
+  "name": "blockchain-developer",
+  "summary": "Build production-ready Web3 applications, smart contracts, and decentralized systems.",
+  "description": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations.",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/blockchain-developer/SKILL.md",
+  "metadataPath": "skills/blockchain-developer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/blockchain-developer"
+  }
+}

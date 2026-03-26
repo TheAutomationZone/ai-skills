@@ -1,0 +1,22 @@
+{
+  "id": "tdd-workflows-tdd-green",
+  "name": "tdd-workflows-tdd-green",
+  "summary": "Implement the minimal code needed to make failing tests pass in the TDD green phase.",
+  "description": "Implement the minimal code needed to make failing tests pass in the TDD green phase.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tdd-workflows-tdd-green/SKILL.md",
+  "metadataPath": "skills/tdd-workflows-tdd-green/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tdd-workflows-tdd-green"
+  }
+}

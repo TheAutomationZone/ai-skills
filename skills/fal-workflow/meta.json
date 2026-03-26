@@ -1,0 +1,22 @@
+{
+  "id": "fal-workflow",
+  "name": "fal-workflow",
+  "summary": "Generate workflow JSON files for chaining AI models",
+  "description": "Generate workflow JSON files for chaining AI models",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/skill.md"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fal-workflow/SKILL.md",
+  "metadataPath": "skills/fal-workflow/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fal-workflow"
+  }
+}

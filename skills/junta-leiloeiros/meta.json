@@ -1,0 +1,26 @@
+{
+  "id": "junta-leiloeiros",
+  "name": "junta-leiloeiros",
+  "summary": "Coleta e consulta dados de leiloeiros oficiais de todas as 27 Juntas Comerciais do Brasil.",
+  "description": "Coleta e consulta dados de leiloeiros oficiais de todas as 27 Juntas Comerciais do Brasil. Scraper multi-UF, banco SQLite, API FastAPI e exportacao CSV/JSON.",
+  "category": "backend",
+  "tags": [
+    "scraping",
+    "brazilian-data",
+    "auctioneers",
+    "api",
+    "backend",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/junta-leiloeiros/SKILL.md",
+  "metadataPath": "skills/junta-leiloeiros/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/junta-leiloeiros"
+  }
+}

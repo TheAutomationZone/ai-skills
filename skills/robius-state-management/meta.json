@@ -1,0 +1,22 @@
+{
+  "id": "robius-state-management",
+  "name": "robius-state-management",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/robius-state-management/SKILL.md",
+  "metadataPath": "skills/robius-state-management/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/robius-state-management"
+  }
+}

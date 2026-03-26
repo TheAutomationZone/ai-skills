@@ -1,0 +1,22 @@
+{
+  "id": "frontend-security-coder",
+  "name": "frontend-security-coder",
+  "summary": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.",
+  "description": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-security-coder/SKILL.md",
+  "metadataPath": "skills/frontend-security-coder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-security-coder"
+  }
+}

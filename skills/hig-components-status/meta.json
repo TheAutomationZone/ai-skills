@@ -1,0 +1,22 @@
+{
+  "id": "hig-components-status",
+  "name": "hig-components-status",
+  "summary": "Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.",
+  "description": "Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-components-status/SKILL.md",
+  "metadataPath": "skills/hig-components-status/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-components-status"
+  }
+}

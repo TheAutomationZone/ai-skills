@@ -1,0 +1,22 @@
+{
+  "id": "python-performance-optimization",
+  "name": "python-performance-optimization",
+  "summary": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices.",
+  "description": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/python-performance-optimization/SKILL.md",
+  "metadataPath": "skills/python-performance-optimization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/python-performance-optimization"
+  }
+}

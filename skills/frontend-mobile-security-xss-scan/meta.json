@@ -1,0 +1,22 @@
+{
+  "id": "frontend-mobile-security-xss-scan",
+  "name": "frontend-mobile-security-xss-scan",
+  "summary": "You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention.",
+  "description": "You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention. Analyze React, Vue, Angular, and vanilla JavaScript code to identify injection poi",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-mobile-security-xss-scan/SKILL.md",
+  "metadataPath": "skills/frontend-mobile-security-xss-scan/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-mobile-security-xss-scan"
+  }
+}

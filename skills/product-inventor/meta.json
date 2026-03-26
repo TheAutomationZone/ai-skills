@@ -1,0 +1,26 @@
+{
+  "id": "product-inventor",
+  "name": "product-inventor",
+  "summary": "Product Inventor e Design Alchemist de nivel maximo — combina Product Thinking, Design Systems, UI Engineering, Psicologia Cognitiva, Storytelling e execucao impecavel nivel Job...",
+  "description": "Product Inventor e Design Alchemist de nivel maximo — combina Product Thinking, Design Systems, UI Engineering, Psicologia Cognitiva, Storytelling e execucao impecavel nivel Jobs/Apple.",
+  "category": "business",
+  "tags": [
+    "product-thinking",
+    "innovation",
+    "ux-design",
+    "storytelling",
+    "business",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/product-inventor/SKILL.md",
+  "metadataPath": "skills/product-inventor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/product-inventor"
+  }
+}

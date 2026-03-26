@@ -1,0 +1,29 @@
+{
+  "id": "fp-errors",
+  "name": "fp-errors",
+  "summary": "Stop throwing everywhere - handle errors as values using Either and TaskEither for cleaner, more predictable code",
+  "description": "Stop throwing everywhere - handle errors as values using Either and TaskEither for cleaner, more predictable code",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "error-handling",
+    "either",
+    "task-either",
+    "typescript",
+    "validation",
+    "practical",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-errors/SKILL.md",
+  "metadataPath": "skills/fp-errors/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-errors"
+  }
+}

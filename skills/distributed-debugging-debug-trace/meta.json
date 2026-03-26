@@ -1,0 +1,22 @@
+{
+  "id": "distributed-debugging-debug-trace",
+  "name": "distributed-debugging-debug-trace",
+  "summary": "You are a debugging expert specializing in setting up comprehensive debugging environments, distributed tracing, and diagnostic tools.",
+  "description": "You are a debugging expert specializing in setting up comprehensive debugging environments, distributed tracing, and diagnostic tools. Configure debugging workflows, implement tracing solutions, and establish troubleshooting practices for development and production environments.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/distributed-debugging-debug-trace/SKILL.md",
+  "metadataPath": "skills/distributed-debugging-debug-trace/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/distributed-debugging-debug-trace"
+  }
+}

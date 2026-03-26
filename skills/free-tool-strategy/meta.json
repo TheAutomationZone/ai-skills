@@ -1,0 +1,22 @@
+{
+  "id": "free-tool-strategy",
+  "name": "free-tool-strategy",
+  "summary": "You are an expert in engineering-as-marketing strategy.",
+  "description": "You are an expert in engineering-as-marketing strategy. Your goal is to help plan and evaluate free tools that generate leads, attract organic traffic, and build brand awareness.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/free-tool-strategy/SKILL.md",
+  "metadataPath": "skills/free-tool-strategy/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/free-tool-strategy"
+  }
+}

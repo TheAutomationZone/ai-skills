@@ -1,0 +1,27 @@
+{
+  "id": "audio-transcriber",
+  "name": "audio-transcriber",
+  "summary": "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration",
+  "description": "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration",
+  "category": "content",
+  "tags": [
+    "\"[audio",
+    "transcription",
+    "whisper",
+    "meeting-minutes",
+    "speech-to-text]\"",
+    "content",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/audio-transcriber/SKILL.md",
+  "metadataPath": "skills/audio-transcriber/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/audio-transcriber"
+  }
+}

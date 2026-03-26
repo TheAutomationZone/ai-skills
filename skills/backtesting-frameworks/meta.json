@@ -1,0 +1,22 @@
+{
+  "id": "backtesting-frameworks",
+  "name": "backtesting-frameworks",
+  "summary": "Build robust, production-grade backtesting systems that avoid common pitfalls and produce reliable strategy performance estimates.",
+  "description": "Build robust, production-grade backtesting systems that avoid common pitfalls and produce reliable strategy performance estimates.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/backtesting-frameworks/SKILL.md",
+  "metadataPath": "skills/backtesting-frameworks/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/backtesting-frameworks"
+  }
+}

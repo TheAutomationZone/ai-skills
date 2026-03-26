@@ -1,0 +1,22 @@
+{
+  "id": "debugging-toolkit-smart-debug",
+  "name": "debugging-toolkit-smart-debug",
+  "summary": "Use when working with debugging toolkit smart debug",
+  "description": "Use when working with debugging toolkit smart debug",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/debugging-toolkit-smart-debug/SKILL.md",
+  "metadataPath": "skills/debugging-toolkit-smart-debug/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/debugging-toolkit-smart-debug"
+  }
+}

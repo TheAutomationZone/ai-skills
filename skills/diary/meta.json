@@ -1,0 +1,22 @@
+{
+  "id": "diary",
+  "name": "diary",
+  "summary": "Unified Diary System: A context-preserving automated logger for multi-project development.",
+  "description": "Unified Diary System: A context-preserving automated logger for multi-project development.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/diary/SKILL.md",
+  "metadataPath": "skills/diary/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/diary"
+  }
+}

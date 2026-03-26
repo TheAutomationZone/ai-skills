@@ -1,0 +1,22 @@
+{
+  "id": "customs-trade-compliance",
+  "name": "customs-trade-compliance",
+  "summary": "Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple jurisdictions.",
+  "description": "Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple jurisdictions.",
+  "category": "legal",
+  "tags": [
+    "legal",
+    "safe",
+    "https://github.com/ai-evos/agent-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/ai-evos/agent-skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/customs-trade-compliance/SKILL.md",
+  "metadataPath": "skills/customs-trade-compliance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/customs-trade-compliance"
+  }
+}

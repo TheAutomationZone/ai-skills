@@ -1,0 +1,22 @@
+{
+  "id": "qiskit",
+  "name": "qiskit",
+  "summary": "Qiskit is the world's most popular open-source quantum computing framework with 13M+ downloads.",
+  "description": "Qiskit is the world's most popular open-source quantum computing framework with 13M+ downloads. Build quantum circuits, optimize for hardware, execute on simulators or real quantum computers, and analyze results. Supports IBM Quantum (100+ qubit systems), IonQ, Amazon Braket, and other providers.",
+  "category": "science",
+  "tags": [
+    "science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/qiskit/SKILL.md",
+  "metadataPath": "skills/qiskit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/qiskit"
+  }
+}

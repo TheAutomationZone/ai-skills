@@ -1,0 +1,26 @@
+{
+  "id": "ddd-context-mapping",
+  "name": "ddd-context-mapping",
+  "summary": "Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns.",
+  "description": "Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns.",
+  "category": "architecture",
+  "tags": [
+    "\"[ddd",
+    "context-map",
+    "anti-corruption-layer",
+    "integration]\"",
+    "architecture",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ddd-context-mapping/SKILL.md",
+  "metadataPath": "skills/ddd-context-mapping/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ddd-context-mapping"
+  }
+}

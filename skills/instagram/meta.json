@@ -1,0 +1,26 @@
+{
+  "id": "instagram",
+  "name": "instagram",
+  "summary": "Integracao completa com Instagram via Graph API.",
+  "description": "Integracao completa com Instagram via Graph API. Publicacao, analytics, comentarios, DMs, hashtags, agendamento, templates e gestao de contas Business/Creator.",
+  "category": "marketing",
+  "tags": [
+    "social-media",
+    "instagram",
+    "graph-api",
+    "content",
+    "marketing",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/instagram/SKILL.md",
+  "metadataPath": "skills/instagram/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/instagram"
+  }
+}

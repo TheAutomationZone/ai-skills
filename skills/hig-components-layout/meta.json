@@ -1,0 +1,22 @@
+{
+  "id": "hig-components-layout",
+  "name": "hig-components-layout",
+  "summary": "Apple Human Interface Guidelines for layout and navigation components.",
+  "description": "Apple Human Interface Guidelines for layout and navigation components.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-components-layout/SKILL.md",
+  "metadataPath": "skills/hig-components-layout/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-components-layout"
+  }
+}

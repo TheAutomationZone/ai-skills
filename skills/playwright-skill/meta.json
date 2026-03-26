@@ -1,0 +1,22 @@
+{
+  "id": "playwright-skill",
+  "name": "playwright-skill",
+  "summary": "IMPORTANT - Path Resolution: This skill can be installed in different locations (plugin system, manual installation, global, or project-specific).",
+  "description": "IMPORTANT - Path Resolution: This skill can be installed in different locations (plugin system, manual installation, global, or project-specific). Before executing any commands, determine the skill directory based on where you loaded this SKILL.md file, and use that path in all commands below.",
+  "category": "test-automation",
+  "tags": [
+    "test-automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/playwright-skill/SKILL.md",
+  "metadataPath": "skills/playwright-skill/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/playwright-skill"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "acceptance-orchestrator",
+  "name": "acceptance-orchestrator",
+  "summary": "Use when a coding task should be driven end-to-end from issue intake through implementation, review, deployment, and acceptance verification with minimal human re-intervention.",
+  "description": "Use when a coding task should be driven end-to-end from issue intake through implementation, review, deployment, and acceptance verification with minimal human re-intervention.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-12",
+  "version": "1.0.0",
+  "contentPath": "skills/acceptance-orchestrator/SKILL.md",
+  "metadataPath": "skills/acceptance-orchestrator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/acceptance-orchestrator"
+  }
+}

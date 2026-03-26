@@ -1,0 +1,22 @@
+{
+  "id": "react-native-architecture",
+  "name": "react-native-architecture",
+  "summary": "Production-ready patterns for React Native development with Expo, including navigation, state management, native modules, and offline-first architecture.",
+  "description": "Production-ready patterns for React Native development with Expo, including navigation, state management, native modules, and offline-first architecture.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-native-architecture/SKILL.md",
+  "metadataPath": "skills/react-native-architecture/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-native-architecture"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "llm-application-dev-ai-assistant",
+  "name": "llm-application-dev-ai-assistant",
+  "summary": "You are an AI assistant development expert specializing in creating intelligent conversational interfaces, chatbots, and AI-powered applications.",
+  "description": "You are an AI assistant development expert specializing in creating intelligent conversational interfaces, chatbots, and AI-powered applications. Design comprehensive AI assistant solutions with natur",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/llm-application-dev-ai-assistant/SKILL.md",
+  "metadataPath": "skills/llm-application-dev-ai-assistant/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/llm-application-dev-ai-assistant"
+  }
+}

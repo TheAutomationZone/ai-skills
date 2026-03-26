@@ -1,0 +1,22 @@
+{
+  "id": "threejs-postprocessing",
+  "name": "threejs-postprocessing",
+  "summary": "Three.js post-processing - EffectComposer, bloom, DOF, screen effects.",
+  "description": "Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effects, color grading, blur, glow, or creating custom screen-space shaders.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-postprocessing/SKILL.md",
+  "metadataPath": "skills/threejs-postprocessing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-postprocessing"
+  }
+}

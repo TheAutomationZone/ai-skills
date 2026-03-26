@@ -1,0 +1,22 @@
+{
+  "id": "azure-eventhub-java",
+  "name": "azure-eventhub-java",
+  "summary": "Build real-time streaming applications with Azure Event Hubs SDK for Java.",
+  "description": "Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-eventhub-java/SKILL.md",
+  "metadataPath": "skills/azure-eventhub-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-eventhub-java"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "observability-engineer",
+  "name": "observability-engineer",
+  "summary": "Build production-ready monitoring, logging, and tracing systems.",
+  "description": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows.",
+  "category": "reliability",
+  "tags": [
+    "reliability",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/observability-engineer/SKILL.md",
+  "metadataPath": "skills/observability-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/observability-engineer"
+  }
+}

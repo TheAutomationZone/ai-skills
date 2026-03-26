@@ -1,0 +1,22 @@
+{
+  "id": "go-playwright",
+  "name": "go-playwright",
+  "summary": "Expert capability for robust, stealthy, and efficient browser automation using Playwright Go.",
+  "description": "Expert capability for robust, stealthy, and efficient browser automation using Playwright Go.",
+  "category": "test-automation",
+  "tags": [
+    "test-automation",
+    "safe",
+    "https://github.com/playwright-community/playwright-go"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/playwright-community/playwright-go",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/go-playwright/SKILL.md",
+  "metadataPath": "skills/go-playwright/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/go-playwright"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "claimable-postgres",
+  "name": "claimable-postgres",
+  "summary": "Provision instant temporary Postgres databases via Claimable Postgres by Neon (pg.new).",
+  "description": "Provision instant temporary Postgres databases via Claimable Postgres by Neon (pg.new). No login or credit card required. Use for quick Postgres environments and throwaway DATABASE_URL for prototyping.",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/claimable-postgres/SKILL.md",
+  "metadataPath": "skills/claimable-postgres/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claimable-postgres"
+  }
+}

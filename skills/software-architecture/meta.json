@@ -1,0 +1,22 @@
+{
+  "id": "software-architecture",
+  "name": "software-architecture",
+  "summary": "Guide for quality focused software architecture.",
+  "description": "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/software-architecture/SKILL.md",
+  "metadataPath": "skills/software-architecture/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/software-architecture"
+  }
+}

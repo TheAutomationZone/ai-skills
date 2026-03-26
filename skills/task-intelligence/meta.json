@@ -1,0 +1,26 @@
+{
+  "id": "task-intelligence",
+  "name": "task-intelligence",
+  "summary": "Protocolo de Inteligência Pré-Tarefa — ativa TODOS os agentes relevantes do ecossistema ANTES de executar qualquer tarefa solicitada pelo usuário.",
+  "description": "Protocolo de Inteligência Pré-Tarefa — ativa TODOS os agentes relevantes do ecossistema ANTES de executar qualquer tarefa solicitada pelo usuário.",
+  "category": "workflow",
+  "tags": [
+    "planning",
+    "pre-task",
+    "risk-analysis",
+    "orchestration",
+    "workflow",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/task-intelligence/SKILL.md",
+  "metadataPath": "skills/task-intelligence/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/task-intelligence"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "shader-programming-glsl",
+  "name": "shader-programming-glsl",
+  "summary": "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects.",
+  "description": "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/shader-programming-glsl/SKILL.md",
+  "metadataPath": "skills/shader-programming-glsl/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/shader-programming-glsl"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-microsoft-playwright-testing-ts",
+  "name": "azure-microsoft-playwright-testing-ts",
+  "summary": "Run Playwright tests at scale with cloud-hosted browsers and integrated Azure portal reporting.",
+  "description": "Run Playwright tests at scale with cloud-hosted browsers and integrated Azure portal reporting.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-microsoft-playwright-testing-ts/SKILL.md",
+  "metadataPath": "skills/azure-microsoft-playwright-testing-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-microsoft-playwright-testing-ts"
+  }
+}

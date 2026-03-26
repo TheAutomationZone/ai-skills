@@ -1,0 +1,22 @@
+{
+  "id": "agent-orchestration-multi-agent-optimize",
+  "name": "agent-orchestration-multi-agent-optimize",
+  "summary": "Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration.",
+  "description": "Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-orchestration-multi-agent-optimize/SKILL.md",
+  "metadataPath": "skills/agent-orchestration-multi-agent-optimize/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-orchestration-multi-agent-optimize"
+  }
+}

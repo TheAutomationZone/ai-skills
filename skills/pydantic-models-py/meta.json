@@ -1,0 +1,22 @@
+{
+  "id": "pydantic-models-py",
+  "name": "pydantic-models-py",
+  "summary": "Create Pydantic models following the multi-model pattern for clean API contracts.",
+  "description": "Create Pydantic models following the multi-model pattern for clean API contracts.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/pydantic-models-py/SKILL.md",
+  "metadataPath": "skills/pydantic-models-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/pydantic-models-py"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-monitor-opentelemetry-exporter-py",
+  "name": "azure-monitor-opentelemetry-exporter-py",
+  "summary": "Azure Monitor OpenTelemetry Exporter for Python.",
+  "description": "Azure Monitor OpenTelemetry Exporter for Python. Use for low-level OpenTelemetry export to Application Insights.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-monitor-opentelemetry-exporter-py/SKILL.md",
+  "metadataPath": "skills/azure-monitor-opentelemetry-exporter-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-monitor-opentelemetry-exporter-py"
+  }
+}

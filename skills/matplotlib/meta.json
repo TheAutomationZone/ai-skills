@@ -1,0 +1,22 @@
+{
+  "id": "matplotlib",
+  "name": "matplotlib",
+  "summary": "Matplotlib is Python's foundational visualization library for creating static, animated, and interactive plots.",
+  "description": "Matplotlib is Python's foundational visualization library for creating static, animated, and interactive plots.",
+  "category": "science",
+  "tags": [
+    "science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/matplotlib/SKILL.md",
+  "metadataPath": "skills/matplotlib/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/matplotlib"
+  }
+}

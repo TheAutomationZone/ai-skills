@@ -1,0 +1,22 @@
+{
+  "id": "c4-code",
+  "name": "c4-code",
+  "summary": "Expert C4 Code-level documentation specialist.",
+  "description": "Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, arguments, dependencies, and code structure.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/c4-code/SKILL.md",
+  "metadataPath": "skills/c4-code/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/c4-code"
+  }
+}

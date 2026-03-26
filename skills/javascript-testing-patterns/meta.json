@@ -1,0 +1,22 @@
+{
+  "id": "javascript-testing-patterns",
+  "name": "javascript-testing-patterns",
+  "summary": "Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern testing frameworks and best practices.",
+  "description": "Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern testing frameworks and best practices.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/javascript-testing-patterns/SKILL.md",
+  "metadataPath": "skills/javascript-testing-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/javascript-testing-patterns"
+  }
+}

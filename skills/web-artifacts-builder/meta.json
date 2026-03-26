@@ -1,0 +1,22 @@
+{
+  "id": "web-artifacts-builder",
+  "name": "web-artifacts-builder",
+  "summary": "To build powerful frontend claude.ai artifacts, follow these steps:",
+  "description": "To build powerful frontend claude.ai artifacts, follow these steps:",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/web-artifacts-builder/SKILL.md",
+  "metadataPath": "skills/web-artifacts-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/web-artifacts-builder"
+  }
+}

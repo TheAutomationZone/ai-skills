@@ -1,0 +1,22 @@
+{
+  "id": "full-stack-orchestration-full-stack-feature",
+  "name": "full-stack-orchestration-full-stack-feature",
+  "summary": "Use when working with full stack orchestration full stack feature",
+  "description": "Use when working with full stack orchestration full stack feature",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/full-stack-orchestration-full-stack-feature/SKILL.md",
+  "metadataPath": "skills/full-stack-orchestration-full-stack-feature/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/full-stack-orchestration-full-stack-feature"
+  }
+}

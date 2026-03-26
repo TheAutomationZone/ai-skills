@@ -1,0 +1,22 @@
+{
+  "id": "php-pro",
+  "name": "php-pro",
+  "summary": "'Write idiomatic PHP code with generators, iterators, SPL data",
+  "description": "'Write idiomatic PHP code with generators, iterators, SPL data",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/php-pro/SKILL.md",
+  "metadataPath": "skills/php-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/php-pro"
+  }
+}

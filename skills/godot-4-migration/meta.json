@@ -1,0 +1,22 @@
+{
+  "id": "godot-4-migration",
+  "name": "godot-4-migration",
+  "summary": "Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.",
+  "description": "Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/godot-4-migration/SKILL.md",
+  "metadataPath": "skills/godot-4-migration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/godot-4-migration"
+  }
+}

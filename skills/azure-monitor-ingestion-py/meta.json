@@ -1,0 +1,22 @@
+{
+  "id": "azure-monitor-ingestion-py",
+  "name": "azure-monitor-ingestion-py",
+  "summary": "Azure Monitor Ingestion SDK for Python.",
+  "description": "Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-monitor-ingestion-py/SKILL.md",
+  "metadataPath": "skills/azure-monitor-ingestion-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-monitor-ingestion-py"
+  }
+}

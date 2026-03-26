@@ -1,0 +1,22 @@
+{
+  "id": "makepad-basics",
+  "name": "makepad-basics",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "https://github.com/makepad/makepad"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/makepad/makepad",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/makepad-basics/SKILL.md",
+  "metadataPath": "skills/makepad-basics/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/makepad-basics"
+  }
+}

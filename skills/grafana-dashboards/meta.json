@@ -1,0 +1,22 @@
+{
+  "id": "grafana-dashboards",
+  "name": "grafana-dashboards",
+  "summary": "Create and manage production-ready Grafana dashboards for comprehensive system observability.",
+  "description": "Create and manage production-ready Grafana dashboards for comprehensive system observability.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/grafana-dashboards/SKILL.md",
+  "metadataPath": "skills/grafana-dashboards/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/grafana-dashboards"
+  }
+}

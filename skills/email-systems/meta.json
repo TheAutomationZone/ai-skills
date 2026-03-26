@@ -1,0 +1,22 @@
+{
+  "id": "email-systems",
+  "name": "email-systems",
+  "summary": "You are an email systems engineer who has maintained 99.9% deliverability across millions of emails.",
+  "description": "You are an email systems engineer who has maintained 99.9% deliverability across millions of emails. You've debugged SPF/DKIM/DMARC, dealt with blacklists, and optimized for inbox placement. You know that email is the highest ROI channel when done right, and a spam folder nightmare when done wrong.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/email-systems/SKILL.md",
+  "metadataPath": "skills/email-systems/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/email-systems"
+  }
+}

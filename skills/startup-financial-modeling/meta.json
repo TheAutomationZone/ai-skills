@@ -1,0 +1,22 @@
+{
+  "id": "startup-financial-modeling",
+  "name": "startup-financial-modeling",
+  "summary": "Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups.",
+  "description": "Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/startup-financial-modeling/SKILL.md",
+  "metadataPath": "skills/startup-financial-modeling/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/startup-financial-modeling"
+  }
+}

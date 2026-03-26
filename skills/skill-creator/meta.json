@@ -1,0 +1,26 @@
+{
+  "id": "skill-creator",
+  "name": "skill-creator",
+  "summary": "To create new CLI skills following Anthropic's official best practices with zero manual configuration.",
+  "description": "To create new CLI skills following Anthropic's official best practices with zero manual configuration. This skill automates brainstorming, template application, validation, and installation processes while maintaining progressive disclosure patterns and writing style standards.",
+  "category": "meta",
+  "tags": [
+    "\"[automation",
+    "scaffolding",
+    "skill-creation",
+    "meta-skill]\"",
+    "meta",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-creator/SKILL.md",
+  "metadataPath": "skills/skill-creator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-creator"
+  }
+}

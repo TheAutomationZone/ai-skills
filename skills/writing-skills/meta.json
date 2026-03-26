@@ -1,0 +1,22 @@
+{
+  "id": "writing-skills",
+  "name": "writing-skills",
+  "summary": "Use when creating, updating, or improving agent skills.",
+  "description": "Use when creating, updating, or improving agent skills.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/writing-skills/SKILL.md",
+  "metadataPath": "skills/writing-skills/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/writing-skills"
+  }
+}

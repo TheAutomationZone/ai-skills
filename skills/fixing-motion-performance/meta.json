@@ -1,0 +1,22 @@
+{
+  "id": "fixing-motion-performance",
+  "name": "fixing-motion-performance",
+  "summary": "Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects.",
+  "description": "Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fixing-motion-performance/SKILL.md",
+  "metadataPath": "skills/fixing-motion-performance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fixing-motion-performance"
+  }
+}

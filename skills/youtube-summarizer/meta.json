@@ -1,0 +1,27 @@
+{
+  "id": "youtube-summarizer",
+  "name": "youtube-summarizer",
+  "summary": "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks",
+  "description": "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks",
+  "category": "content",
+  "tags": [
+    "\"[video",
+    "summarization",
+    "transcription",
+    "youtube",
+    "content-analysis]\"",
+    "content",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/youtube-summarizer/SKILL.md",
+  "metadataPath": "skills/youtube-summarizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/youtube-summarizer"
+  }
+}

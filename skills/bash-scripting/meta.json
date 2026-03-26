@@ -1,0 +1,22 @@
+{
+  "id": "bash-scripting",
+  "name": "bash-scripting",
+  "summary": "Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing.",
+  "description": "Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bash-scripting/SKILL.md",
+  "metadataPath": "skills/bash-scripting/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bash-scripting"
+  }
+}

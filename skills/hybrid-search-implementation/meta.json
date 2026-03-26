@@ -1,0 +1,22 @@
+{
+  "id": "hybrid-search-implementation",
+  "name": "hybrid-search-implementation",
+  "summary": "Combine vector and keyword search for improved retrieval.",
+  "description": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hybrid-search-implementation/SKILL.md",
+  "metadataPath": "skills/hybrid-search-implementation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hybrid-search-implementation"
+  }
+}

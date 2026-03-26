@@ -1,0 +1,22 @@
+{
+  "id": "team-composition-analysis",
+  "name": "team-composition-analysis",
+  "summary": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A.",
+  "description": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/team-composition-analysis/SKILL.md",
+  "metadataPath": "skills/team-composition-analysis/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/team-composition-analysis"
+  }
+}

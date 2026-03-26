@@ -1,0 +1,22 @@
+{
+  "id": "helm-chart-scaffolding",
+  "name": "helm-chart-scaffolding",
+  "summary": "Comprehensive guidance for creating, organizing, and managing Helm charts for packaging and deploying Kubernetes applications.",
+  "description": "Comprehensive guidance for creating, organizing, and managing Helm charts for packaging and deploying Kubernetes applications.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/helm-chart-scaffolding/SKILL.md",
+  "metadataPath": "skills/helm-chart-scaffolding/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/helm-chart-scaffolding"
+  }
+}

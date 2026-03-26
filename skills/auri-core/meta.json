@@ -1,0 +1,26 @@
+{
+  "id": "auri-core",
+  "name": "auri-core",
+  "summary": "Auri: assistente de voz inteligente (Alexa + Claude claude-opus-4-20250805).",
+  "description": "Auri: assistente de voz inteligente (Alexa + Claude claude-opus-4-20250805). Visao do produto, persona Vitoria Neural, stack AWS, modelo Free/Pro/Business/Enterprise, roadmap 4 fases, GTM, north star WAC e analise competitiva.",
+  "category": "voice-agents",
+  "tags": [
+    "voice-assistant",
+    "product-vision",
+    "alexa",
+    "aws",
+    "voice-agents",
+    "none",
+    "community"
+  ],
+  "risk": "none",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/auri-core/SKILL.md",
+  "metadataPath": "skills/auri-core/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/auri-core"
+  }
+}

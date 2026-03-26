@@ -1,0 +1,22 @@
+{
+  "id": "powershell-windows",
+  "name": "powershell-windows",
+  "summary": "PowerShell Windows patterns.",
+  "description": "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/powershell-windows/SKILL.md",
+  "metadataPath": "skills/powershell-windows/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/powershell-windows"
+  }
+}

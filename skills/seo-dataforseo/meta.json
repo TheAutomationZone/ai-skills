@@ -1,0 +1,22 @@
+{
+  "id": "seo-dataforseo",
+  "name": "seo-dataforseo",
+  "summary": "Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data.",
+  "description": "Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data. Trigger when the user needs real SEO data rather than static guidance.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/agricidaniel/claude-seo"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/AgriciDaniel/claude-seo",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-dataforseo/SKILL.md",
+  "metadataPath": "skills/seo-dataforseo/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-dataforseo"
+  }
+}

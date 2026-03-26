@@ -1,0 +1,22 @@
+{
+  "id": "metasploit-framework",
+  "name": "metasploit-framework",
+  "summary": "⚠️ AUTHORIZED USE ONLY > This skill is for educational purposes or authorized security assessments only.",
+  "description": "⚠️ AUTHORIZED USE ONLY > This skill is for educational purposes or authorized security assessments only. > You must have explicit, written permission from the system owner before using this tool. > Misuse of this tool is illegal and strictly prohibited.",
+  "category": "security",
+  "tags": [
+    "security",
+    "offensive",
+    "community"
+  ],
+  "risk": "offensive",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/metasploit-framework/SKILL.md",
+  "metadataPath": "skills/metasploit-framework/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/metasploit-framework"
+  }
+}

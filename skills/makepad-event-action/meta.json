@@ -1,0 +1,22 @@
+{
+  "id": "makepad-event-action",
+  "name": "makepad-event-action",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/makepad-event-action/SKILL.md",
+  "metadataPath": "skills/makepad-event-action/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/makepad-event-action"
+  }
+}

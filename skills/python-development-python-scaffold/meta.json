@@ -1,0 +1,22 @@
+{
+  "id": "python-development-python-scaffold",
+  "name": "python-development-python-scaffold",
+  "summary": "You are a Python project architecture expert specializing in scaffolding production-ready Python applications.",
+  "description": "You are a Python project architecture expert specializing in scaffolding production-ready Python applications. Generate complete project structures with modern tooling (uv, FastAPI, Django), type hint",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/python-development-python-scaffold/SKILL.md",
+  "metadataPath": "skills/python-development-python-scaffold/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/python-development-python-scaffold"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "m365-agents-ts",
+  "name": "m365-agents-ts",
+  "summary": "Microsoft 365 Agents SDK for TypeScript/Node.js.",
+  "description": "Microsoft 365 Agents SDK for TypeScript/Node.js.",
+  "category": "ai-agents",
+  "tags": [
+    "ai-agents",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/m365-agents-ts/SKILL.md",
+  "metadataPath": "skills/m365-agents-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/m365-agents-ts"
+  }
+}

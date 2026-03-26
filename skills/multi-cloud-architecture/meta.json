@@ -1,0 +1,22 @@
+{
+  "id": "multi-cloud-architecture",
+  "name": "multi-cloud-architecture",
+  "summary": "Decision framework and patterns for architecting applications across AWS, Azure, and GCP.",
+  "description": "Decision framework and patterns for architecting applications across AWS, Azure, and GCP.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/multi-cloud-architecture/SKILL.md",
+  "metadataPath": "skills/multi-cloud-architecture/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/multi-cloud-architecture"
+  }
+}

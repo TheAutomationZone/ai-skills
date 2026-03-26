@@ -1,0 +1,22 @@
+{
+  "id": "attack-tree-construction",
+  "name": "attack-tree-construction",
+  "summary": "Build comprehensive attack trees to visualize threat paths.",
+  "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/attack-tree-construction/SKILL.md",
+  "metadataPath": "skills/attack-tree-construction/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/attack-tree-construction"
+  }
+}

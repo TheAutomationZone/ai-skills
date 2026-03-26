@@ -1,0 +1,22 @@
+{
+  "id": "avoid-ai-writing",
+  "name": "avoid-ai-writing",
+  "summary": "Audit and rewrite content to remove 21 categories of AI writing patterns with a 43-entry replacement table",
+  "description": "Audit and rewrite content to remove 21 categories of AI writing patterns with a 43-entry replacement table",
+  "category": "content",
+  "tags": [
+    "content",
+    "none",
+    "https://github.com/conorbronsdon/avoid-ai-writing"
+  ],
+  "risk": "none",
+  "source": "https://github.com/conorbronsdon/avoid-ai-writing",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/avoid-ai-writing/SKILL.md",
+  "metadataPath": "skills/avoid-ai-writing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/avoid-ai-writing"
+  }
+}

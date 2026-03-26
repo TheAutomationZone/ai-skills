@@ -1,0 +1,22 @@
+{
+  "id": "seo-geo",
+  "name": "seo-geo",
+  "summary": "Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems.",
+  "description": "Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems. Use when improving GEO, AI citations, llms.txt readiness, crawler accessibility, and passage-level citability.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/agricidaniel/claude-seo"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/AgriciDaniel/claude-seo",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/seo-geo/SKILL.md",
+  "metadataPath": "skills/seo-geo/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seo-geo"
+  }
+}

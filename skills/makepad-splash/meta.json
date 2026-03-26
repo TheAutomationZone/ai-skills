@@ -1,0 +1,22 @@
+{
+  "id": "makepad-splash",
+  "name": "makepad-splash",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/makepad-splash/SKILL.md",
+  "metadataPath": "skills/makepad-splash/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/makepad-splash"
+  }
+}

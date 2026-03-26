@@ -1,0 +1,22 @@
+{
+  "id": "aws-cost-optimizer",
+  "name": "aws-cost-optimizer",
+  "summary": "Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer",
+  "description": "Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/aws-cost-optimizer/SKILL.md",
+  "metadataPath": "skills/aws-cost-optimizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/aws-cost-optimizer"
+  }
+}

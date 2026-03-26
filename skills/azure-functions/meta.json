@@ -1,0 +1,22 @@
+{
+  "id": "azure-functions",
+  "name": "azure-functions",
+  "summary": "Modern .NET execution model with process isolation",
+  "description": "Modern .NET execution model with process isolation",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-functions/SKILL.md",
+  "metadataPath": "skills/azure-functions/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-functions"
+  }
+}

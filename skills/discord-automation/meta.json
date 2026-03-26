@@ -1,0 +1,22 @@
+{
+  "id": "discord-automation",
+  "name": "discord-automation",
+  "summary": "Automate Discord tasks via Rube MCP (Composio): messages, channels, roles, webhooks, reactions.",
+  "description": "Automate Discord tasks via Rube MCP (Composio): messages, channels, roles, webhooks, reactions. Always search tools first for current schemas.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/discord-automation/SKILL.md",
+  "metadataPath": "skills/discord-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/discord-automation"
+  }
+}

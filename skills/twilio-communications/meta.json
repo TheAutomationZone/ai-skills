@@ -1,0 +1,22 @@
+{
+  "id": "twilio-communications",
+  "name": "twilio-communications",
+  "summary": "Basic pattern for sending SMS messages with Twilio.",
+  "description": "Basic pattern for sending SMS messages with Twilio. Handles the fundamentals: phone number formatting, message delivery, and delivery status callbacks.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/twilio-communications/SKILL.md",
+  "metadataPath": "skills/twilio-communications/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/twilio-communications"
+  }
+}

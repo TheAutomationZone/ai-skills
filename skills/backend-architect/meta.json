@@ -1,0 +1,22 @@
+{
+  "id": "backend-architect",
+  "name": "backend-architect",
+  "summary": "Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.",
+  "description": "Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/backend-architect/SKILL.md",
+  "metadataPath": "skills/backend-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/backend-architect"
+  }
+}

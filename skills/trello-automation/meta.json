@@ -1,0 +1,22 @@
+{
+  "id": "trello-automation",
+  "name": "trello-automation",
+  "summary": "Automate Trello boards, cards, and workflows via Rube MCP (Composio).",
+  "description": "Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/trello-automation/SKILL.md",
+  "metadataPath": "skills/trello-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/trello-automation"
+  }
+}

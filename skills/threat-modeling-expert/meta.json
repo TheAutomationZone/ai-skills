@@ -1,0 +1,22 @@
+{
+  "id": "threat-modeling-expert",
+  "name": "threat-modeling-expert",
+  "summary": "Expert in threat modeling methodologies, security architecture review, and risk assessment.",
+  "description": "Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters STRIDE, PASTA, attack trees, and security requirement extraction. Use PROACTIVELY for security architecture reviews, threat identification, or building secure-by-design systems.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/threat-modeling-expert/SKILL.md",
+  "metadataPath": "skills/threat-modeling-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threat-modeling-expert"
+  }
+}

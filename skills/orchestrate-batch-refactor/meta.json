@@ -1,0 +1,22 @@
+{
+  "id": "orchestrate-batch-refactor",
+  "name": "orchestrate-batch-refactor",
+  "summary": "Plan and execute large refactors with dependency-aware work packets and parallel analysis.",
+  "description": "Plan and execute large refactors with dependency-aware work packets and parallel analysis.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/orchestrate-batch-refactor/SKILL.md",
+  "metadataPath": "skills/orchestrate-batch-refactor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/orchestrate-batch-refactor"
+  }
+}

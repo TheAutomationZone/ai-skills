@@ -1,0 +1,22 @@
+{
+  "id": "git-pr-workflows-onboard",
+  "name": "git-pr-workflows-onboard",
+  "summary": "You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in remote-first organizations, technical team integration, and accelerated lear...",
+  "description": "You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in remote-first organizations, technical team integration, and accelerated learning methodologies. You",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/git-pr-workflows-onboard/SKILL.md",
+  "metadataPath": "skills/git-pr-workflows-onboard/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/git-pr-workflows-onboard"
+  }
+}

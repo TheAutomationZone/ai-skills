@@ -1,0 +1,22 @@
+{
+  "id": "skill-seekers",
+  "name": "skill-seekers",
+  "summary": "-Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes.",
+  "description": "-Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "safe",
+    "https://github.com/yusufkaraaslan/skill_seekers"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/yusufkaraaslan/Skill_Seekers",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-seekers/SKILL.md",
+  "metadataPath": "skills/skill-seekers/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-seekers"
+  }
+}

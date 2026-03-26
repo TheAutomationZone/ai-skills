@@ -1,0 +1,22 @@
+{
+  "id": "plaid-fintech",
+  "name": "plaid-fintech",
+  "summary": "Create a linktoken for Plaid Link, exchange publictoken for accesstoken.",
+  "description": "Create a linktoken for Plaid Link, exchange publictoken for accesstoken. Link tokens are short-lived, one-time use. Access tokens don't expire but may need updating when users change passwords.",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/plaid-fintech/SKILL.md",
+  "metadataPath": "skills/plaid-fintech/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/plaid-fintech"
+  }
+}

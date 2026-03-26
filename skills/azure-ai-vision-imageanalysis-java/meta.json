@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-vision-imageanalysis-java",
+  "name": "azure-ai-vision-imageanalysis-java",
+  "summary": "Build image analysis applications with Azure AI Vision SDK for Java.",
+  "description": "Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, or smart cropping.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-vision-imageanalysis-java/SKILL.md",
+  "metadataPath": "skills/azure-ai-vision-imageanalysis-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-vision-imageanalysis-java"
+  }
+}

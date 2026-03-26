@@ -1,0 +1,22 @@
+{
+  "id": "shadcn",
+  "name": "shadcn",
+  "summary": "Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.",
+  "description": "Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "safe",
+    "https://github.com/shadcn-ui/ui/tree/main/skills/shadcn"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/shadcn-ui/ui/tree/main/skills/shadcn",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/shadcn/SKILL.md",
+  "metadataPath": "skills/shadcn/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/shadcn"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "typescript-pro",
+  "name": "typescript-pro",
+  "summary": "Master TypeScript with advanced types, generics, and strict type safety.",
+  "description": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns.",
+  "category": "code",
+  "tags": [
+    "code",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/typescript-pro/SKILL.md",
+  "metadataPath": "skills/typescript-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/typescript-pro"
+  }
+}

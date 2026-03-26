@@ -1,0 +1,26 @@
+{
+  "id": "leiloeiro-risco",
+  "name": "leiloeiro-risco",
+  "summary": "Analise de risco em leiloes de imoveis.",
+  "description": "Analise de risco em leiloes de imoveis. Score 36 pontos, riscos juridicos/financeiros/operacionais, stress test 4 cenarios e ROI ponderado por risco.",
+  "category": "leiloeiro",
+  "tags": [
+    "risk-analysis",
+    "scoring",
+    "stress-test",
+    "brazilian",
+    "leiloeiro",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/leiloeiro-risco/SKILL.md",
+  "metadataPath": "skills/leiloeiro-risco/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/leiloeiro-risco"
+  }
+}

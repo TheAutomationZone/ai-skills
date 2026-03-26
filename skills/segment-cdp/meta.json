@@ -1,0 +1,22 @@
+{
+  "id": "segment-cdp",
+  "name": "segment-cdp",
+  "summary": "Client-side tracking with Analytics.js.",
+  "description": "Client-side tracking with Analytics.js. Include track, identify, page, and group calls. Anonymous ID persists until identify merges with user.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/segment-cdp/SKILL.md",
+  "metadataPath": "skills/segment-cdp/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/segment-cdp"
+  }
+}

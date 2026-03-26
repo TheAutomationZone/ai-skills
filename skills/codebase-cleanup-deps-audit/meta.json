@@ -1,0 +1,22 @@
+{
+  "id": "codebase-cleanup-deps-audit",
+  "name": "codebase-cleanup-deps-audit",
+  "summary": "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security.",
+  "description": "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues, outdated packages, and provide actionable remediation strategies.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/codebase-cleanup-deps-audit/SKILL.md",
+  "metadataPath": "skills/codebase-cleanup-deps-audit/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/codebase-cleanup-deps-audit"
+  }
+}

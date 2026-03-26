@@ -1,0 +1,22 @@
+{
+  "id": "m365-agents-py",
+  "name": "m365-agents-py",
+  "summary": "Microsoft 365 Agents SDK for Python.",
+  "description": "Microsoft 365 Agents SDK for Python. Build multichannel agents for Teams/M365/Copilot Studio with aiohttp hosting, AgentApplication routing, streaming responses, and MSAL-based auth.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/m365-agents-py/SKILL.md",
+  "metadataPath": "skills/m365-agents-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/m365-agents-py"
+  }
+}

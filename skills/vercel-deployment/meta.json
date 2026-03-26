@@ -1,0 +1,22 @@
+{
+  "id": "vercel-deployment",
+  "name": "vercel-deployment",
+  "summary": "Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production.",
+  "description": "Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "safe",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "safe",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/vercel-deployment/SKILL.md",
+  "metadataPath": "skills/vercel-deployment/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vercel-deployment"
+  }
+}

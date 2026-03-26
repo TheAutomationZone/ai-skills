@@ -1,0 +1,22 @@
+{
+  "id": "unity-developer",
+  "name": "unity-developer",
+  "summary": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management.",
+  "description": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/unity-developer/SKILL.md",
+  "metadataPath": "skills/unity-developer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/unity-developer"
+  }
+}

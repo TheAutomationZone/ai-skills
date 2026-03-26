@@ -1,0 +1,22 @@
+{
+  "id": "scikit-learn",
+  "name": "scikit-learn",
+  "summary": "Machine learning in Python with scikit-learn.",
+  "description": "Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/scikit-learn/SKILL.md",
+  "metadataPath": "skills/scikit-learn/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/scikit-learn"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "incident-runbook-templates",
+  "name": "incident-runbook-templates",
+  "summary": "Production-ready templates for incident response runbooks covering detection, triage, mitigation, resolution, and communication.",
+  "description": "Production-ready templates for incident response runbooks covering detection, triage, mitigation, resolution, and communication.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/incident-runbook-templates/SKILL.md",
+  "metadataPath": "skills/incident-runbook-templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/incident-runbook-templates"
+  }
+}

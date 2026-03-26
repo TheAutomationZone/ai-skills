@@ -1,0 +1,22 @@
+{
+  "id": "robius-matrix-integration",
+  "name": "robius-matrix-integration",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/robius-matrix-integration/SKILL.md",
+  "metadataPath": "skills/robius-matrix-integration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/robius-matrix-integration"
+  }
+}

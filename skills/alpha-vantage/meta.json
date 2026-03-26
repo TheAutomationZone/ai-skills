@@ -1,0 +1,22 @@
+{
+  "id": "alpha-vantage",
+  "name": "alpha-vantage",
+  "summary": "Access 20+ years of global financial data: equities, options, forex, crypto, commodities, economic indicators, and 50+ technical indicators.",
+  "description": "Access 20+ years of global financial data: equities, options, forex, crypto, commodities, economic indicators, and 50+ technical indicators.",
+  "category": "data",
+  "tags": [
+    "data",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/alpha-vantage/SKILL.md",
+  "metadataPath": "skills/alpha-vantage/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/alpha-vantage"
+  }
+}

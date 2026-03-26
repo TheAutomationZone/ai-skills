@@ -1,0 +1,22 @@
+{
+  "id": "llm-app-patterns",
+  "name": "llm-app-patterns",
+  "summary": "Production-ready patterns for building LLM applications, inspired by [Dify](https://github.com/langgenius/dify) and industry best practices.",
+  "description": "Production-ready patterns for building LLM applications, inspired by [Dify](https://github.com/langgenius/dify) and industry best practices.",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/llm-app-patterns/SKILL.md",
+  "metadataPath": "skills/llm-app-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/llm-app-patterns"
+  }
+}

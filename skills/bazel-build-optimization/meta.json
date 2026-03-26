@@ -1,0 +1,22 @@
+{
+  "id": "bazel-build-optimization",
+  "name": "bazel-build-optimization",
+  "summary": "Optimize Bazel builds for large-scale monorepos.",
+  "description": "Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bazel-build-optimization/SKILL.md",
+  "metadataPath": "skills/bazel-build-optimization/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bazel-build-optimization"
+  }
+}

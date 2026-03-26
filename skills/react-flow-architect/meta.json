@@ -1,0 +1,22 @@
+{
+  "id": "react-flow-architect",
+  "name": "react-flow-architect",
+  "summary": "Build production-ready ReactFlow applications with hierarchical navigation, performance optimization, and advanced state management.",
+  "description": "Build production-ready ReactFlow applications with hierarchical navigation, performance optimization, and advanced state management.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-flow-architect/SKILL.md",
+  "metadataPath": "skills/react-flow-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-flow-architect"
+  }
+}

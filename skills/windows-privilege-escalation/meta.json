@@ -1,0 +1,22 @@
+{
+  "id": "windows-privilege-escalation",
+  "name": "windows-privilege-escalation",
+  "summary": "Provide systematic methodologies for discovering and exploiting privilege escalation vulnerabilities on Windows systems during penetration testing engagements.",
+  "description": "Provide systematic methodologies for discovering and exploiting privilege escalation vulnerabilities on Windows systems during penetration testing engagements.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/windows-privilege-escalation/SKILL.md",
+  "metadataPath": "skills/windows-privilege-escalation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/windows-privilege-escalation"
+  }
+}

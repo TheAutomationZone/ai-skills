@@ -1,0 +1,22 @@
+{
+  "id": "linkerd-patterns",
+  "name": "linkerd-patterns",
+  "summary": "Production patterns for Linkerd service mesh - the lightweight, security-first service mesh for Kubernetes.",
+  "description": "Production patterns for Linkerd service mesh - the lightweight, security-first service mesh for Kubernetes.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/linkerd-patterns/SKILL.md",
+  "metadataPath": "skills/linkerd-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/linkerd-patterns"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "data-quality-frameworks",
+  "name": "data-quality-frameworks",
+  "summary": "Implement data quality validation with Great Expectations, dbt tests, and data contracts.",
+  "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
+  "category": "data-science",
+  "tags": [
+    "data-science",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/data-quality-frameworks/SKILL.md",
+  "metadataPath": "skills/data-quality-frameworks/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/data-quality-frameworks"
+  }
+}

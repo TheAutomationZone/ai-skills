@@ -1,0 +1,22 @@
+{
+  "id": "wrike-automation",
+  "name": "wrike-automation",
+  "summary": "Automate Wrike project management via Rube MCP (Composio): create tasks/folders, manage projects, assign work, and track progress.",
+  "description": "Automate Wrike project management via Rube MCP (Composio): create tasks/folders, manage projects, assign work, and track progress. Always search tools first for current schemas.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wrike-automation/SKILL.md",
+  "metadataPath": "skills/wrike-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wrike-automation"
+  }
+}

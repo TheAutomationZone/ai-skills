@@ -1,0 +1,22 @@
+{
+  "id": "react-patterns",
+  "name": "react-patterns",
+  "summary": "Modern React patterns and principles.",
+  "description": "Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices.",
+  "category": "frontend",
+  "tags": [
+    "frontend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/react-patterns/SKILL.md",
+  "metadataPath": "skills/react-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/react-patterns"
+  }
+}

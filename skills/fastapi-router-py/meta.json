@@ -1,0 +1,22 @@
+{
+  "id": "fastapi-router-py",
+  "name": "fastapi-router-py",
+  "summary": "Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes.",
+  "description": "Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fastapi-router-py/SKILL.md",
+  "metadataPath": "skills/fastapi-router-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fastapi-router-py"
+  }
+}

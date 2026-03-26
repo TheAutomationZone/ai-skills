@@ -1,0 +1,22 @@
+{
+  "id": "vexor-cli",
+  "name": "vexor-cli",
+  "summary": "Semantic file discovery via `vexor`.",
+  "description": "Semantic file discovery via `vexor`. Use whenever locating where something is implemented/loaded/defined in a medium or large repo, or when the file location is unclear. Prefer this over manual browsing.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/vexor-cli/SKILL.md",
+  "metadataPath": "skills/vexor-cli/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vexor-cli"
+  }
+}

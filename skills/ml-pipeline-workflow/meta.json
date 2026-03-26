@@ -1,0 +1,22 @@
+{
+  "id": "ml-pipeline-workflow",
+  "name": "ml-pipeline-workflow",
+  "summary": "Complete end-to-end MLOps pipeline orchestration from data preparation through model deployment.",
+  "description": "Complete end-to-end MLOps pipeline orchestration from data preparation through model deployment.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ml-pipeline-workflow/SKILL.md",
+  "metadataPath": "skills/ml-pipeline-workflow/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ml-pipeline-workflow"
+  }
+}

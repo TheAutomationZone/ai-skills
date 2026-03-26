@@ -1,0 +1,26 @@
+{
+  "id": "stability-ai",
+  "name": "stability-ai",
+  "summary": "Geracao de imagens via Stability AI (SD3.5, Ultra, Core).",
+  "description": "Geracao de imagens via Stability AI (SD3.5, Ultra, Core). Text-to-image, img2img, inpainting, upscale, remove-bg, search-replace. 15 estilos artisticos.",
+  "category": "media",
+  "tags": [
+    "image-generation",
+    "stable-diffusion",
+    "ai-art",
+    "api",
+    "media",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/stability-ai/SKILL.md",
+  "metadataPath": "skills/stability-ai/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/stability-ai"
+  }
+}

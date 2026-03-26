@@ -1,0 +1,22 @@
+{
+  "id": "subagent-driven-development",
+  "name": "subagent-driven-development",
+  "summary": "Use when executing implementation plans with independent tasks in the current session",
+  "description": "Use when executing implementation plans with independent tasks in the current session",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/subagent-driven-development/SKILL.md",
+  "metadataPath": "skills/subagent-driven-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/subagent-driven-development"
+  }
+}

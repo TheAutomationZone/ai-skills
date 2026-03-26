@@ -1,0 +1,22 @@
+{
+  "id": "performance-profiling",
+  "name": "performance-profiling",
+  "summary": "Performance profiling principles.",
+  "description": "Performance profiling principles. Measurement, analysis, and optimization techniques.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/performance-profiling/SKILL.md",
+  "metadataPath": "skills/performance-profiling/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/performance-profiling"
+  }
+}

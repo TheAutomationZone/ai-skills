@@ -1,0 +1,22 @@
+{
+  "id": "goal-analyzer",
+  "name": "goal-analyzer",
+  "summary": "分析健康目标数据、识别目标模式、评估目标进度, 并提供个性化目标管理建议。支持与营养、运动、睡眠等健康数据的关联分析。",
+  "description": "分析健康目标数据、识别目标模式、评估目标进度, 并提供个性化目标管理建议。支持与营养、运动、睡眠等健康数据的关联分析。",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/goal-analyzer/SKILL.md",
+  "metadataPath": "skills/goal-analyzer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/goal-analyzer"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "google-sheets-automation",
+  "name": "google-sheets-automation",
+  "summary": "Lightweight Google Sheets integration with standalone OAuth authentication.",
+  "description": "Lightweight Google Sheets integration with standalone OAuth authentication. No MCP server required. Full read/write access.",
+  "category": "spreadsheet-processing",
+  "tags": [
+    "spreadsheet-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/google-sheets-automation/SKILL.md",
+  "metadataPath": "skills/google-sheets-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/google-sheets-automation"
+  }
+}

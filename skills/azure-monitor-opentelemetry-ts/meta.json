@@ -1,0 +1,22 @@
+{
+  "id": "azure-monitor-opentelemetry-ts",
+  "name": "azure-monitor-opentelemetry-ts",
+  "summary": "Auto-instrument Node.js applications with distributed tracing, metrics, and logs.",
+  "description": "Auto-instrument Node.js applications with distributed tracing, metrics, and logs.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-monitor-opentelemetry-ts/SKILL.md",
+  "metadataPath": "skills/azure-monitor-opentelemetry-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-monitor-opentelemetry-ts"
+  }
+}

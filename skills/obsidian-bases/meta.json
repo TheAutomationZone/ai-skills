@@ -1,0 +1,22 @@
+{
+  "id": "obsidian-bases",
+  "name": "obsidian-bases",
+  "summary": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries.",
+  "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/kepano/obsidian-skills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/kepano/obsidian-skills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/obsidian-bases/SKILL.md",
+  "metadataPath": "skills/obsidian-bases/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/obsidian-bases"
+  }
+}

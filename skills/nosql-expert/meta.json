@@ -1,0 +1,22 @@
+{
+  "id": "nosql-expert",
+  "name": "nosql-expert",
+  "summary": "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB).",
+  "description": "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems.",
+  "category": "database",
+  "tags": [
+    "database",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nosql-expert/SKILL.md",
+  "metadataPath": "skills/nosql-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nosql-expert"
+  }
+}

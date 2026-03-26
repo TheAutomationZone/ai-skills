@@ -1,0 +1,22 @@
+{
+  "id": "laravel-expert",
+  "name": "laravel-expert",
+  "summary": "Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions.",
+  "description": "Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions. Focuses on clean architecture, security, performance, and modern standards (Laravel 10/11+).",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/laravel-expert/SKILL.md",
+  "metadataPath": "skills/laravel-expert/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/laravel-expert"
+  }
+}

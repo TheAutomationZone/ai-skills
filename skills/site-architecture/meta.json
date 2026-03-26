@@ -1,0 +1,22 @@
+{
+  "id": "site-architecture",
+  "name": "site-architecture",
+  "summary": "Plan or restructure website hierarchy, navigation, URL patterns, breadcrumbs, and internal linking.",
+  "description": "Plan or restructure website hierarchy, navigation, URL patterns, breadcrumbs, and internal linking. Use when mapping pages, sections, and site structure, but not for XML sitemap auditing or schema markup.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/site-architecture/SKILL.md",
+  "metadataPath": "skills/site-architecture/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/site-architecture"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ui-ux-pro-max",
+  "name": "ui-ux-pro-max",
+  "summary": "Comprehensive design guide for web and mobile applications.",
+  "description": "Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues.",
+  "category": "front-end",
+  "tags": [
+    "front-end",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ui-ux-pro-max/SKILL.md",
+  "metadataPath": "skills/ui-ux-pro-max/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ui-ux-pro-max"
+  }
+}

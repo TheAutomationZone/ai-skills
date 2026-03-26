@@ -1,0 +1,32 @@
+{
+  "id": "openclaw-github-repo-commander",
+  "name": "openclaw-github-repo-commander",
+  "summary": "7-stage super workflow for GitHub repo audit, cleanup, PR review, and competitor analysis",
+  "description": "7-stage super workflow for GitHub repo audit, cleanup, PR review, and competitor analysis",
+  "category": "development-and-testing",
+  "tags": [
+    "github",
+    "git",
+    "repository",
+    "audit",
+    "cleanup",
+    "workflow",
+    "devtools",
+    "automation",
+    "code-review",
+    "security",
+    "development-and-testing",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-18",
+  "version": "1.0.0",
+  "contentPath": "skills/openclaw-github-repo-commander/SKILL.md",
+  "metadataPath": "skills/openclaw-github-repo-commander/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/openclaw-github-repo-commander"
+  }
+}

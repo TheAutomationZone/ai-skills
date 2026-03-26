@@ -1,0 +1,26 @@
+{
+  "id": "leiloeiro-ia",
+  "name": "leiloeiro-ia",
+  "summary": "Especialista em leiloes judiciais e extrajudiciais de imoveis.",
+  "description": "Especialista em leiloes judiciais e extrajudiciais de imoveis. Analise juridica, pericial e de mercado integrada. Orquestra os 5 modulos especializados.",
+  "category": "leiloeiro",
+  "tags": [
+    "auction",
+    "ai-analysis",
+    "real-estate",
+    "brazilian",
+    "leiloeiro",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/leiloeiro-ia/SKILL.md",
+  "metadataPath": "skills/leiloeiro-ia/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/leiloeiro-ia"
+  }
+}

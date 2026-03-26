@@ -1,0 +1,22 @@
+{
+  "id": "llm-application-dev-langchain-agent",
+  "name": "llm-application-dev-langchain-agent",
+  "summary": "You are an expert LangChain agent developer specializing in production-grade AI systems using LangChain 0.1+ and LangGraph.",
+  "description": "You are an expert LangChain agent developer specializing in production-grade AI systems using LangChain 0.1+ and LangGraph.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/llm-application-dev-langchain-agent/SKILL.md",
+  "metadataPath": "skills/llm-application-dev-langchain-agent/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/llm-application-dev-langchain-agent"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-voicelive-ts",
+  "name": "azure-ai-voicelive-ts",
+  "summary": "Azure AI Voice Live SDK for JavaScript/TypeScript.",
+  "description": "Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time voice AI applications with bidirectional WebSocket communication.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-voicelive-ts/SKILL.md",
+  "metadataPath": "skills/azure-ai-voicelive-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-voicelive-ts"
+  }
+}

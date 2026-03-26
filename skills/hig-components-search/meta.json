@@ -1,0 +1,22 @@
+{
+  "id": "hig-components-search",
+  "name": "hig-components-search",
+  "summary": "Apple HIG guidance for navigation-related components including search fields, page controls, and path controls.",
+  "description": "Apple HIG guidance for navigation-related components including search fields, page controls, and path controls.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-components-search/SKILL.md",
+  "metadataPath": "skills/hig-components-search/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-components-search"
+  }
+}

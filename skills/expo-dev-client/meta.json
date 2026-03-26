@@ -1,0 +1,22 @@
+{
+  "id": "expo-dev-client",
+  "name": "expo-dev-client",
+  "summary": "Build and distribute Expo development clients locally or via TestFlight",
+  "description": "Build and distribute Expo development clients locally or via TestFlight",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/expo-dev-client/SKILL.md",
+  "metadataPath": "skills/expo-dev-client/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/expo-dev-client"
+  }
+}

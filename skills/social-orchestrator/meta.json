@@ -1,0 +1,26 @@
+{
+  "id": "social-orchestrator",
+  "name": "social-orchestrator",
+  "summary": "Orquestrador unificado de canais sociais — coordena Instagram, Telegram e WhatsApp em um unico fluxo de trabalho.",
+  "description": "Orquestrador unificado de canais sociais — coordena Instagram, Telegram e WhatsApp em um unico fluxo de trabalho. Publicacao cross-channel, metricas unificadas, reutilizacao de conteudo por formato, agendamento sincronizado e gestao centralizada de campanhas em todos os canais simultaneamente.",
+  "category": "marketing",
+  "tags": [
+    "social-media",
+    "cross-channel",
+    "scheduling",
+    "campaigns",
+    "marketing",
+    "critical",
+    "community"
+  ],
+  "risk": "critical",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/social-orchestrator/SKILL.md",
+  "metadataPath": "skills/social-orchestrator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/social-orchestrator"
+  }
+}

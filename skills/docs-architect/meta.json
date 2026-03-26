@@ -1,0 +1,22 @@
+{
+  "id": "docs-architect",
+  "name": "docs-architect",
+  "summary": "Creates comprehensive technical documentation from existing codebases.",
+  "description": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/docs-architect/SKILL.md",
+  "metadataPath": "skills/docs-architect/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/docs-architect"
+  }
+}

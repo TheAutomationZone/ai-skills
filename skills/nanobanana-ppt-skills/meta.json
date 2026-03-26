@@ -1,0 +1,22 @@
+{
+  "id": "nanobanana-ppt-skills",
+  "name": "nanobanana-ppt-skills",
+  "summary": "AI-powered PPT generation with document analysis and styled images",
+  "description": "AI-powered PPT generation with document analysis and styled images",
+  "category": "presentation-processing",
+  "tags": [
+    "presentation-processing",
+    "safe",
+    "https://github.com/op7418/nanobanana-ppt-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/op7418/NanoBanana-PPT-Skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nanobanana-ppt-skills/SKILL.md",
+  "metadataPath": "skills/nanobanana-ppt-skills/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nanobanana-ppt-skills"
+  }
+}

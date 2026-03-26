@@ -1,0 +1,22 @@
+{
+  "id": "threejs-fundamentals",
+  "name": "threejs-fundamentals",
+  "summary": "Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems.",
+  "description": "Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up 3D scenes, creating cameras, configuring renderers, managing object hierarchies, or working with transforms.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-fundamentals/SKILL.md",
+  "metadataPath": "skills/threejs-fundamentals/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-fundamentals"
+  }
+}

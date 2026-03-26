@@ -1,0 +1,22 @@
+{
+  "id": "expo-ui-swift-ui",
+  "name": "expo-ui-swift-ui",
+  "summary": "expo-ui-swift-ui",
+  "description": "expo-ui-swift-ui",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/expo-ui-swift-ui/SKILL.md",
+  "metadataPath": "skills/expo-ui-swift-ui/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/expo-ui-swift-ui"
+  }
+}

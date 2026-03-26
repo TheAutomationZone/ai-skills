@@ -1,0 +1,22 @@
+{
+  "id": "tool-design",
+  "name": "tool-design",
+  "summary": "Build tools that agents can use effectively, including architectural reduction patterns.",
+  "description": "Build tools that agents can use effectively, including architectural reduction patterns. Use when creating new tools for agent systems, debugging tool-related failures or misuse, or optimizing existing tool sets for better agent performance.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/muratcankoylan/agent-skills-for-context-engineering/tree/main/skills/tool-design"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tool-design/SKILL.md",
+  "metadataPath": "skills/tool-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tool-design"
+  }
+}

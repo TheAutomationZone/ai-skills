@@ -1,0 +1,22 @@
+{
+  "id": "network-engineer",
+  "name": "network-engineer",
+  "summary": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.",
+  "description": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/network-engineer/SKILL.md",
+  "metadataPath": "skills/network-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/network-engineer"
+  }
+}

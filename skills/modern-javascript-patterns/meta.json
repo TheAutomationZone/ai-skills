@@ -1,0 +1,22 @@
+{
+  "id": "modern-javascript-patterns",
+  "name": "modern-javascript-patterns",
+  "summary": "Comprehensive guide for mastering modern JavaScript (ES6+) features, functional programming patterns, and best practices for writing clean, maintainable, and performant code.",
+  "description": "Comprehensive guide for mastering modern JavaScript (ES6+) features, functional programming patterns, and best practices for writing clean, maintainable, and performant code.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/modern-javascript-patterns/SKILL.md",
+  "metadataPath": "skills/modern-javascript-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/modern-javascript-patterns"
+  }
+}

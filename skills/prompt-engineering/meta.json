@@ -1,0 +1,22 @@
+{
+  "id": "prompt-engineering",
+  "name": "prompt-engineering",
+  "summary": "Expert guide on prompt engineering patterns, best practices, and optimization techniques.",
+  "description": "Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/prompt-engineering/SKILL.md",
+  "metadataPath": "skills/prompt-engineering/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/prompt-engineering"
+  }
+}

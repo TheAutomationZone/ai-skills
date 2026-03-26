@@ -1,0 +1,22 @@
+{
+  "id": "defuddle",
+  "name": "defuddle",
+  "summary": "Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens.",
+  "description": "Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch when the user provides a URL to read or analyze, for online documentation, articles, blog posts, or any standard web page.",
+  "category": "content",
+  "tags": [
+    "content",
+    "unknown",
+    "https://github.com/kepano/obsidian-skills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/kepano/obsidian-skills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/defuddle/SKILL.md",
+  "metadataPath": "skills/defuddle/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/defuddle"
+  }
+}

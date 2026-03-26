@@ -1,0 +1,22 @@
+{
+  "id": "semgrep-rule-creator",
+  "name": "semgrep-rule-creator",
+  "summary": "Creates custom Semgrep rules for detecting security vulnerabilities, bug patterns, and code patterns.",
+  "description": "Creates custom Semgrep rules for detecting security vulnerabilities, bug patterns, and code patterns. Use when writing Semgrep rules or building custom static analysis detections.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/semgrep-rule-creator/SKILL.md",
+  "metadataPath": "skills/semgrep-rule-creator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/semgrep-rule-creator"
+  }
+}

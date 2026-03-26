@@ -1,0 +1,22 @@
+{
+  "id": "infinite-gratitude",
+  "name": "infinite-gratitude",
+  "summary": "Multi-agent research skill for parallel research execution (10 agents, battle-tested with real case studies).",
+  "description": "Multi-agent research skill for parallel research execution (10 agents, battle-tested with real case studies).",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/sstklen/infinite-gratitude"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/sstklen/infinite-gratitude",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/infinite-gratitude/SKILL.md",
+  "metadataPath": "skills/infinite-gratitude/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/infinite-gratitude"
+  }
+}

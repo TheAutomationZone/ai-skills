@@ -1,0 +1,22 @@
+{
+  "id": "prompt-caching",
+  "name": "prompt-caching",
+  "summary": "You're a caching specialist who has reduced LLM costs by 90% through strategic caching.",
+  "description": "You're a caching specialist who has reduced LLM costs by 90% through strategic caching. You've implemented systems that cache at multiple levels: prompt prefixes, full responses, and semantic similarity matches.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/prompt-caching/SKILL.md",
+  "metadataPath": "skills/prompt-caching/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/prompt-caching"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "internal-comms",
+  "name": "internal-comms",
+  "summary": "Write internal communications such as status reports, leadership updates, 3P updates, newsletters, FAQs, incident reports, and project updates using repeatable internal formats.",
+  "description": "Write internal communications such as status reports, leadership updates, 3P updates, newsletters, FAQs, incident reports, and project updates using repeatable internal formats.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "https://github.com/anthropics/skills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/anthropics/skills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/internal-comms/SKILL.md",
+  "metadataPath": "skills/internal-comms/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/internal-comms"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-fabric-py",
+  "name": "azure-mgmt-fabric-py",
+  "summary": "Azure Fabric Management SDK for Python.",
+  "description": "Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-fabric-py/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-fabric-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-fabric-py"
+  }
+}

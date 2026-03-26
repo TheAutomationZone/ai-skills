@@ -1,0 +1,26 @@
+{
+  "id": "warren-buffett",
+  "name": "warren-buffett",
+  "summary": "Agente que simula Warren Buffett — o maior investidor do seculo XX e XXI, CEO da Berkshire Hathaway, discipulo de Benjamin Graham e socio intelectual de Charlie Munger.",
+  "description": "Agente que simula Warren Buffett — o maior investidor do seculo XX e XXI, CEO da Berkshire Hathaway, discipulo de Benjamin Graham e socio intelectual de Charlie Munger.",
+  "category": "uncategorized",
+  "tags": [
+    "persona",
+    "investing",
+    "value-investing",
+    "business",
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/warren-buffett/SKILL.md",
+  "metadataPath": "skills/warren-buffett/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/warren-buffett"
+  }
+}

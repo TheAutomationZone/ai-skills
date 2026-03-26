@@ -1,0 +1,28 @@
+{
+  "id": "uncle-bob-craft",
+  "name": "uncle-bob-craft",
+  "summary": "Use when performing code review, writing or refactoring code, or discussing architecture; complements clean-code and does not replace project linter/formatter.",
+  "description": "Use when performing code review, writing or refactoring code, or discussing architecture; complements clean-code and does not replace project linter/formatter.",
+  "category": "code-quality",
+  "tags": [
+    "clean-code",
+    "clean-architecture",
+    "solid",
+    "code-review",
+    "craftsmanship",
+    "uncle-bob",
+    "code-quality",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/uncle-bob-craft/SKILL.md",
+  "metadataPath": "skills/uncle-bob-craft/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/uncle-bob-craft"
+  }
+}

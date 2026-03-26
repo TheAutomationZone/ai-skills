@@ -1,0 +1,22 @@
+{
+  "id": "top-web-vulnerabilities",
+  "name": "top-web-vulnerabilities",
+  "summary": "Provide a comprehensive, structured reference for the 100 most critical web application vulnerabilities organized by category.",
+  "description": "Provide a comprehensive, structured reference for the 100 most critical web application vulnerabilities organized by category. This skill enables systematic vulnerability identification, impact assessment, and remediation guidance across the full spectrum of web security threats.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/top-web-vulnerabilities/SKILL.md",
+  "metadataPath": "skills/top-web-vulnerabilities/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/top-web-vulnerabilities"
+  }
+}

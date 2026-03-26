@@ -1,0 +1,22 @@
+{
+  "id": "bash-defensive-patterns",
+  "name": "bash-defensive-patterns",
+  "summary": "Master defensive Bash programming techniques for production-grade scripts.",
+  "description": "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bash-defensive-patterns/SKILL.md",
+  "metadataPath": "skills/bash-defensive-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bash-defensive-patterns"
+  }
+}

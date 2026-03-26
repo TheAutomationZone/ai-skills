@@ -1,0 +1,22 @@
+{
+  "id": "semgrep-rule-variant-creator",
+  "name": "semgrep-rule-variant-creator",
+  "summary": "Creates language variants of existing Semgrep rules.",
+  "description": "Creates language variants of existing Semgrep rules. Use when porting a Semgrep rule to specified target languages. Takes an existing rule and target languages as input, produces independent rule+test directories for each language.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/semgrep-rule-variant-creator/SKILL.md",
+  "metadataPath": "skills/semgrep-rule-variant-creator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/semgrep-rule-variant-creator"
+  }
+}

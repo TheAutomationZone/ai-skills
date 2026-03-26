@@ -1,0 +1,22 @@
+{
+  "id": "file-organizer",
+  "name": "file-organizer",
+  "summary": "6.",
+  "description": "6. Reduces Clutter: Identifies old files you probably don't need anymore",
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/file-organizer/SKILL.md",
+  "metadataPath": "skills/file-organizer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/file-organizer"
+  }
+}

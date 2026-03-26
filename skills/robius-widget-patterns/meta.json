@@ -1,0 +1,22 @@
+{
+  "id": "robius-widget-patterns",
+  "name": "robius-widget-patterns",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/robius-widget-patterns/SKILL.md",
+  "metadataPath": "skills/robius-widget-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/robius-widget-patterns"
+  }
+}

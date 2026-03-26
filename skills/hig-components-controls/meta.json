@@ -1,0 +1,22 @@
+{
+  "id": "hig-components-controls",
+  "name": "hig-components-controls",
+  "summary": "Check for .claude/apple-design-context.md before asking questions.",
+  "description": "Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-components-controls/SKILL.md",
+  "metadataPath": "skills/hig-components-controls/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-components-controls"
+  }
+}

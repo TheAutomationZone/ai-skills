@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-document-intelligence-ts",
+  "name": "azure-ai-document-intelligence-ts",
+  "summary": "Extract text, tables, and structured data from documents using prebuilt and custom models.",
+  "description": "Extract text, tables, and structured data from documents using prebuilt and custom models.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-document-intelligence-ts/SKILL.md",
+  "metadataPath": "skills/azure-ai-document-intelligence-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-document-intelligence-ts"
+  }
+}

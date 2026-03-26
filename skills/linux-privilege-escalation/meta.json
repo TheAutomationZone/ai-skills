@@ -1,0 +1,22 @@
+{
+  "id": "linux-privilege-escalation",
+  "name": "linux-privilege-escalation",
+  "summary": "Execute systematic privilege escalation assessments on Linux systems to identify and exploit misconfigurations, vulnerable services, and security weaknesses that allow elevation...",
+  "description": "Execute systematic privilege escalation assessments on Linux systems to identify and exploit misconfigurations, vulnerable services, and security weaknesses that allow elevation from low-privilege user access to root-level control.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/linux-privilege-escalation/SKILL.md",
+  "metadataPath": "skills/linux-privilege-escalation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/linux-privilege-escalation"
+  }
+}

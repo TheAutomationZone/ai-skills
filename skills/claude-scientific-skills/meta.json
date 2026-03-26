@@ -1,0 +1,22 @@
+{
+  "id": "claude-scientific-skills",
+  "name": "claude-scientific-skills",
+  "summary": "Scientific research and analysis skills",
+  "description": "Scientific research and analysis skills",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/k-dense-ai/claude-scientific-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/K-Dense-AI/claude-scientific-skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/claude-scientific-skills/SKILL.md",
+  "metadataPath": "skills/claude-scientific-skills/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claude-scientific-skills"
+  }
+}

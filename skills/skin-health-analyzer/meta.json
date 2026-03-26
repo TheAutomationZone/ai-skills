@@ -1,0 +1,22 @@
+{
+  "id": "skin-health-analyzer",
+  "name": "skin-health-analyzer",
+  "summary": "Analyze skin health data, identify skin problem patterns, assess skin health status.",
+  "description": "Analyze skin health data, identify skin problem patterns, assess skin health status. Supports correlation analysis with nutrition, chronic diseases, and medication data.",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/skin-health-analyzer/SKILL.md",
+  "metadataPath": "skills/skin-health-analyzer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skin-health-analyzer"
+  }
+}

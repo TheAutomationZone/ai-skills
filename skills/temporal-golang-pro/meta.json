@@ -1,0 +1,22 @@
+{
+  "id": "temporal-golang-pro",
+  "name": "temporal-golang-pro",
+  "summary": "Use when building durable distributed systems with Temporal Go SDK.",
+  "description": "Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/temporal-golang-pro/SKILL.md",
+  "metadataPath": "skills/temporal-golang-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/temporal-golang-pro"
+  }
+}

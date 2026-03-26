@@ -1,0 +1,22 @@
+{
+  "id": "api-endpoint-builder",
+  "name": "api-endpoint-builder",
+  "summary": "Builds production-ready REST API endpoints with validation, error handling, authentication, and documentation.",
+  "description": "Builds production-ready REST API endpoints with validation, error handling, authentication, and documentation. Follows best practices for security and scalability.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-05",
+  "version": "1.0.0",
+  "contentPath": "skills/api-endpoint-builder/SKILL.md",
+  "metadataPath": "skills/api-endpoint-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/api-endpoint-builder"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "robius-app-architecture",
+  "name": "robius-app-architecture",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/robius-app-architecture/SKILL.md",
+  "metadataPath": "skills/robius-app-architecture/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/robius-app-architecture"
+  }
+}

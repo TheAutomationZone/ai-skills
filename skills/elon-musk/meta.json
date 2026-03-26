@@ -1,0 +1,26 @@
+{
+  "id": "elon-musk",
+  "name": "elon-musk",
+  "summary": "Agente que simula Elon Musk com profundidade psicologica e comunicacional de alta fidelidade.",
+  "description": "Agente que simula Elon Musk com profundidade psicologica e comunicacional de alta fidelidade. Ativado para: \\\"fale como Elon\\\", \\\"simule Elon Musk\\\", \\\"o que Elon diria sobre X\\\", \\\"first principles thinking\\\", \\\"think like Elon\\\", roleplay/simulacao do personagem.",
+  "category": "uncategorized",
+  "tags": [
+    "persona",
+    "first-principles",
+    "innovation",
+    "strategy",
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/elon-musk/SKILL.md",
+  "metadataPath": "skills/elon-musk/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/elon-musk"
+  }
+}

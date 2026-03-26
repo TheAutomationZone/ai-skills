@@ -1,0 +1,26 @@
+{
+  "id": "prompt-engineer",
+  "name": "prompt-engineer",
+  "summary": "Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR, SOAP, CLEAR, GROW)",
+  "description": "Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR, SOAP, CLEAR, GROW)",
+  "category": "automation",
+  "tags": [
+    "\"[prompt-engineering",
+    "optimization",
+    "frameworks",
+    "ai-enhancement]\"",
+    "automation",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/prompt-engineer/SKILL.md",
+  "metadataPath": "skills/prompt-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/prompt-engineer"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "terraform-aws-modules",
+  "name": "terraform-aws-modules",
+  "summary": "Terraform module creation for AWS — reusable modules, state management, and HCL best practices.",
+  "description": "Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure.",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/terraform-aws-modules/SKILL.md",
+  "metadataPath": "skills/terraform-aws-modules/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/terraform-aws-modules"
+  }
+}

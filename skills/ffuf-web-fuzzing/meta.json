@@ -1,0 +1,22 @@
+{
+  "id": "ffuf-web-fuzzing",
+  "name": "ffuf-web-fuzzing",
+  "summary": "Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis",
+  "description": "Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/ffuf-web-fuzzing/SKILL.md",
+  "metadataPath": "skills/ffuf-web-fuzzing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ffuf-web-fuzzing"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "makepad-shaders",
+  "name": "makepad-shaders",
+  "summary": "|",
+  "description": "|",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/makepad-shaders/SKILL.md",
+  "metadataPath": "skills/makepad-shaders/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/makepad-shaders"
+  }
+}

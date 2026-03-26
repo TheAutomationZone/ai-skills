@@ -1,0 +1,22 @@
+{
+  "id": "odoo-rpc-api",
+  "name": "odoo-rpc-api",
+  "summary": "Expert on Odoo's external JSON-RPC and XML-RPC APIs.",
+  "description": "Expert on Odoo's external JSON-RPC and XML-RPC APIs. Covers authentication, model calls, record CRUD, and real-world integration examples in Python, JavaScript, and curl.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-rpc-api/SKILL.md",
+  "metadataPath": "skills/odoo-rpc-api/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-rpc-api"
+  }
+}

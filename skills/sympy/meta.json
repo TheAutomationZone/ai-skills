@@ -1,0 +1,22 @@
+{
+  "id": "sympy",
+  "name": "sympy",
+  "summary": "SymPy is a Python library for symbolic mathematics that enables exact computation using mathematical symbols rather than numerical approximations.",
+  "description": "SymPy is a Python library for symbolic mathematics that enables exact computation using mathematical symbols rather than numerical approximations.",
+  "category": "science",
+  "tags": [
+    "science",
+    "unknown",
+    "https://github.com/sympy/sympy"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/sympy/sympy",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/sympy/SKILL.md",
+  "metadataPath": "skills/sympy/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sympy"
+  }
+}

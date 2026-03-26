@@ -1,0 +1,22 @@
+{
+  "id": "fp-ts-errors",
+  "name": "fp-ts-errors",
+  "summary": "Handle errors as values using fp-ts Either and TaskEither for cleaner, more predictable TypeScript code.",
+  "description": "Handle errors as values using fp-ts Either and TaskEither for cleaner, more predictable TypeScript code. Use when implementing error handling patterns with fp-ts.",
+  "category": "development",
+  "tags": [
+    "development",
+    "safe",
+    "https://github.com/whatiskadudoing/fp-ts-skills"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/whatiskadudoing/fp-ts-skills",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-ts-errors/SKILL.md",
+  "metadataPath": "skills/fp-ts-errors/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-ts-errors"
+  }
+}

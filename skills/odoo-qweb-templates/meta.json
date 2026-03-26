@@ -1,0 +1,22 @@
+{
+  "id": "odoo-qweb-templates",
+  "name": "odoo-qweb-templates",
+  "summary": "Expert in Odoo QWeb templating for PDF reports, email templates, and website pages.",
+  "description": "Expert in Odoo QWeb templating for PDF reports, email templates, and website pages. Covers t-if, t-foreach, t-field, and report actions.",
+  "category": "business",
+  "tags": [
+    "business",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-qweb-templates/SKILL.md",
+  "metadataPath": "skills/odoo-qweb-templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-qweb-templates"
+  }
+}

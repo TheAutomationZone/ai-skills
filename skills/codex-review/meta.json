@@ -1,0 +1,22 @@
+{
+  "id": "codex-review",
+  "name": "codex-review",
+  "summary": "Professional code review with auto CHANGELOG generation, integrated with Codex AI.",
+  "description": "Professional code review with auto CHANGELOG generation, integrated with Codex AI. Use when you want professional code review before commits, you need automatic CHANGELOG generation, or reviewing large-scale refactoring.",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/codex-review/SKILL.md",
+  "metadataPath": "skills/codex-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/codex-review"
+  }
+}

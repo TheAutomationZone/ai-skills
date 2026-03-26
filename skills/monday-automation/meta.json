@@ -1,0 +1,22 @@
+{
+  "id": "monday-automation",
+  "name": "monday-automation",
+  "summary": "Automate Monday.com work management including boards, items, columns, groups, subitems, and updates via Rube MCP (Composio).",
+  "description": "Automate Monday.com work management including boards, items, columns, groups, subitems, and updates via Rube MCP (Composio). Always search tools first for current schemas.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/monday-automation/SKILL.md",
+  "metadataPath": "skills/monday-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/monday-automation"
+  }
+}

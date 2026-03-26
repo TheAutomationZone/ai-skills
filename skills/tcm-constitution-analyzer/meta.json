@@ -1,0 +1,22 @@
+{
+  "id": "tcm-constitution-analyzer",
+  "name": "tcm-constitution-analyzer",
+  "summary": "分析中医体质数据、识别体质类型、评估体质特征, 并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。",
+  "description": "分析中医体质数据、识别体质类型、评估体质特征, 并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/tcm-constitution-analyzer/SKILL.md",
+  "metadataPath": "skills/tcm-constitution-analyzer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tcm-constitution-analyzer"
+  }
+}

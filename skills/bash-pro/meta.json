@@ -1,0 +1,22 @@
+{
+  "id": "bash-pro",
+  "name": "bash-pro",
+  "summary": "'Master of defensive Bash scripting for production automation, CI/CD",
+  "description": "'Master of defensive Bash scripting for production automation, CI/CD",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bash-pro/SKILL.md",
+  "metadataPath": "skills/bash-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bash-pro"
+  }
+}

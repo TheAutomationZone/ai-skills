@@ -1,0 +1,22 @@
+{
+  "id": "professional-proofreader",
+  "name": "professional-proofreader",
+  "summary": ">",
+  "description": ">",
+  "category": "content",
+  "tags": [
+    "content",
+    "safe",
+    "original"
+  ],
+  "risk": "safe",
+  "source": "original",
+  "addedAt": "2026-03-04",
+  "version": "1.0.0",
+  "contentPath": "skills/professional-proofreader/SKILL.md",
+  "metadataPath": "skills/professional-proofreader/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/professional-proofreader"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "behavioral-modes",
+  "name": "behavioral-modes",
+  "summary": "AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate).",
+  "description": "AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate). Use to adapt behavior based on task type.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/behavioral-modes/SKILL.md",
+  "metadataPath": "skills/behavioral-modes/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/behavioral-modes"
+  }
+}

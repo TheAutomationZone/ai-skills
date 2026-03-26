@@ -1,0 +1,22 @@
+{
+  "id": "ml-engineer",
+  "name": "ml-engineer",
+  "summary": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks.",
+  "description": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ml-engineer/SKILL.md",
+  "metadataPath": "skills/ml-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ml-engineer"
+  }
+}

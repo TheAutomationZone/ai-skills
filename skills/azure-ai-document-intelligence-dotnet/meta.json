@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-document-intelligence-dotnet",
+  "name": "azure-ai-document-intelligence-dotnet",
+  "summary": "Azure AI Document Intelligence SDK for .NET.",
+  "description": "Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-document-intelligence-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-ai-document-intelligence-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-document-intelligence-dotnet"
+  }
+}

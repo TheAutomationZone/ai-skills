@@ -1,0 +1,22 @@
+{
+  "id": "bash-linux",
+  "name": "bash-linux",
+  "summary": "Bash/Linux terminal patterns.",
+  "description": "Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/bash-linux/SKILL.md",
+  "metadataPath": "skills/bash-linux/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bash-linux"
+  }
+}

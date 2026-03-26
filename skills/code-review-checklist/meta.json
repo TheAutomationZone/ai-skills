@@ -1,0 +1,22 @@
+{
+  "id": "code-review-checklist",
+  "name": "code-review-checklist",
+  "summary": "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability",
+  "description": "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/code-review-checklist/SKILL.md",
+  "metadataPath": "skills/code-review-checklist/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/code-review-checklist"
+  }
+}

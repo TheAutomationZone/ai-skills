@@ -1,0 +1,22 @@
+{
+  "id": "cc-skill-coding-standards",
+  "name": "cc-skill-coding-standards",
+  "summary": "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development.",
+  "description": "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cc-skill-coding-standards/SKILL.md",
+  "metadataPath": "skills/cc-skill-coding-standards/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cc-skill-coding-standards"
+  }
+}

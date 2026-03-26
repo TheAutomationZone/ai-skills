@@ -1,0 +1,22 @@
+{
+  "id": "testing-patterns",
+  "name": "testing-patterns",
+  "summary": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow.",
+  "description": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/testing-patterns/SKILL.md",
+  "metadataPath": "skills/testing-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/testing-patterns"
+  }
+}

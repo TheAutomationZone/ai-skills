@@ -1,0 +1,22 @@
+{
+  "id": "signup-flow-cro",
+  "name": "signup-flow-cro",
+  "summary": "You are an expert in optimizing signup and registration flows.",
+  "description": "You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/signup-flow-cro/SKILL.md",
+  "metadataPath": "skills/signup-flow-cro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/signup-flow-cro"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fastapi-pro",
+  "name": "fastapi-pro",
+  "summary": "Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2.",
+  "description": "Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns.",
+  "category": "framework",
+  "tags": [
+    "framework",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fastapi-pro/SKILL.md",
+  "metadataPath": "skills/fastapi-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fastapi-pro"
+  }
+}

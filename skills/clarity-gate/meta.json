@@ -1,0 +1,22 @@
+{
+  "id": "clarity-gate",
+  "name": "clarity-gate",
+  "summary": ">",
+  "description": ">",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/clarity-gate/SKILL.md",
+  "metadataPath": "skills/clarity-gate/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/clarity-gate"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "azure-cosmos-py",
+  "name": "azure-cosmos-py",
+  "summary": "Azure Cosmos DB SDK for Python (NoSQL API).",
+  "description": "Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-cosmos-py/SKILL.md",
+  "metadataPath": "skills/azure-cosmos-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-cosmos-py"
+  }
+}

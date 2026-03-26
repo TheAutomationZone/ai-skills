@@ -1,0 +1,22 @@
+{
+  "id": "spec-to-code-compliance",
+  "name": "spec-to-code-compliance",
+  "summary": "Verifies code implements exactly what documentation specifies for blockchain audits.",
+  "description": "Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/spec-to-code-compliance/SKILL.md",
+  "metadataPath": "skills/spec-to-code-compliance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/spec-to-code-compliance"
+  }
+}

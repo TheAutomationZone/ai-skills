@@ -1,0 +1,22 @@
+{
+  "id": "product-marketing-context",
+  "name": "product-marketing-context",
+  "summary": "Create or update a reusable product marketing context document with positioning, audience, ICP, use cases, and messaging.",
+  "description": "Create or update a reusable product marketing context document with positioning, audience, ICP, use cases, and messaging. Use at the start of a project to avoid repeating core marketing context across tasks.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "https://github.com/coreyhaines31/marketingskills"
+  ],
+  "risk": "unknown",
+  "source": "https://github.com/coreyhaines31/marketingskills",
+  "addedAt": "2026-03-21",
+  "version": "1.0.0",
+  "contentPath": "skills/product-marketing-context/SKILL.md",
+  "metadataPath": "skills/product-marketing-context/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/product-marketing-context"
+  }
+}

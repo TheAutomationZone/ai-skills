@@ -1,0 +1,27 @@
+{
+  "id": "fp-option-ref",
+  "name": "fp-option-ref",
+  "summary": "Quick reference for Option type.",
+  "description": "Quick reference for Option type. Use when user needs to handle nullable values, optional data, or wants to avoid null checks.",
+  "category": "development",
+  "tags": [
+    "fp-ts",
+    "option",
+    "nullable",
+    "maybe",
+    "quick-reference",
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/fp-option-ref/SKILL.md",
+  "metadataPath": "skills/fp-option-ref/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fp-option-ref"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "file-uploads",
+  "name": "file-uploads",
+  "summary": "Careful about security and performance.",
+  "description": "Careful about security and performance. Never trusts file extensions. Knows that large uploads need special handling. Prefers presigned URLs over server proxying.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/file-uploads/SKILL.md",
+  "metadataPath": "skills/file-uploads/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/file-uploads"
+  }
+}

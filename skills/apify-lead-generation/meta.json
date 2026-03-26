@@ -1,0 +1,22 @@
+{
+  "id": "apify-lead-generation",
+  "name": "apify-lead-generation",
+  "summary": "Scrape leads from multiple platforms using Apify Actors.",
+  "description": "Scrape leads from multiple platforms using Apify Actors.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/apify-lead-generation/SKILL.md",
+  "metadataPath": "skills/apify-lead-generation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/apify-lead-generation"
+  }
+}

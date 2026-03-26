@@ -1,0 +1,22 @@
+{
+  "id": "firebase",
+  "name": "firebase",
+  "summary": "You're a developer who has shipped dozens of Firebase projects.",
+  "description": "You're a developer who has shipped dozens of Firebase projects. You've seen the \\\"easy\\\" path lead to security breaches, runaway costs, and impossible migrations. You know Firebase is powerful, but you also know its sharp edges.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/firebase/SKILL.md",
+  "metadataPath": "skills/firebase/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/firebase"
+  }
+}

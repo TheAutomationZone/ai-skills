@@ -1,0 +1,31 @@
+{
+  "id": "x-twitter-scraper",
+  "name": "x-twitter-scraper",
+  "summary": "X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction tools, MCP server.",
+  "description": "X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction tools, MCP server.",
+  "category": "data",
+  "tags": [
+    "\"[twitter",
+    "x-api",
+    "scraping",
+    "mcp",
+    "social-media",
+    "data-extraction",
+    "giveaway",
+    "monitoring",
+    "webhooks]\"",
+    "data",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-28",
+  "version": "1.0.0",
+  "contentPath": "skills/x-twitter-scraper/SKILL.md",
+  "metadataPath": "skills/x-twitter-scraper/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/x-twitter-scraper"
+  }
+}

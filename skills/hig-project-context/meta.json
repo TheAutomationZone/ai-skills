@@ -1,0 +1,22 @@
+{
+  "id": "hig-project-context",
+  "name": "hig-project-context",
+  "summary": "Create or update a shared Apple design context document that other HIG skills use to tailor guidance.",
+  "description": "Create or update a shared Apple design context document that other HIG skills use to tailor guidance.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hig-project-context/SKILL.md",
+  "metadataPath": "skills/hig-project-context/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hig-project-context"
+  }
+}

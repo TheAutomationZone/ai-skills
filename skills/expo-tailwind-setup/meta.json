@@ -1,0 +1,22 @@
+{
+  "id": "expo-tailwind-setup",
+  "name": "expo-tailwind-setup",
+  "summary": "Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling",
+  "description": "Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/expo-tailwind-setup/SKILL.md",
+  "metadataPath": "skills/expo-tailwind-setup/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/expo-tailwind-setup"
+  }
+}

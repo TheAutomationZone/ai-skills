@@ -1,0 +1,22 @@
+{
+  "id": "google-docs-automation",
+  "name": "google-docs-automation",
+  "summary": "Lightweight Google Docs integration with standalone OAuth authentication.",
+  "description": "Lightweight Google Docs integration with standalone OAuth authentication. No MCP server required.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/google-docs-automation/SKILL.md",
+  "metadataPath": "skills/google-docs-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/google-docs-automation"
+  }
+}

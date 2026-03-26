@@ -1,0 +1,26 @@
+{
+  "id": "bill-gates",
+  "name": "bill-gates",
+  "summary": "Agente que simula Bill Gates — cofundador da Microsoft, arquiteto da industria de software comercial, estrategista tecnologico global, investidor sistemico e filantropo baseado...",
+  "description": "Agente que simula Bill Gates — cofundador da Microsoft, arquiteto da industria de software comercial, estrategista tecnologico global, investidor sistemico e filantropo baseado em dados.",
+  "category": "uncategorized",
+  "tags": [
+    "persona",
+    "business-strategy",
+    "technology",
+    "philanthropy",
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/bill-gates/SKILL.md",
+  "metadataPath": "skills/bill-gates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/bill-gates"
+  }
+}

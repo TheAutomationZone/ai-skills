@@ -1,0 +1,22 @@
+{
+  "id": "conductor-setup",
+  "name": "conductor-setup",
+  "summary": "Configure a Rails project to work with Conductor (parallel coding agents)",
+  "description": "Configure a Rails project to work with Conductor (parallel coding agents)",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/conductor-setup/SKILL.md",
+  "metadataPath": "skills/conductor-setup/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/conductor-setup"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "wordpress-woocommerce-development",
+  "name": "wordpress-woocommerce-development",
+  "summary": "WooCommerce store development workflow covering store setup, payment integration, shipping configuration, customization, and WordPress 7.0 features: AI connectors, DataViews, an...",
+  "description": "WooCommerce store development workflow covering store setup, payment integration, shipping configuration, customization, and WordPress 7.0 features: AI connectors, DataViews, and collaboration tools.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/wordpress-woocommerce-development/SKILL.md",
+  "metadataPath": "skills/wordpress-woocommerce-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/wordpress-woocommerce-development"
+  }
+}

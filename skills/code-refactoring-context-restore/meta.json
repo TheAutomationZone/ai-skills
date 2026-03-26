@@ -1,0 +1,22 @@
+{
+  "id": "code-refactoring-context-restore",
+  "name": "code-refactoring-context-restore",
+  "summary": "Use when working with code refactoring context restore",
+  "description": "Use when working with code refactoring context restore",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/code-refactoring-context-restore/SKILL.md",
+  "metadataPath": "skills/code-refactoring-context-restore/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/code-refactoring-context-restore"
+  }
+}

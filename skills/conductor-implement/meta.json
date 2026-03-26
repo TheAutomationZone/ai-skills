@@ -1,0 +1,22 @@
+{
+  "id": "conductor-implement",
+  "name": "conductor-implement",
+  "summary": "Execute tasks from a track's implementation plan following TDD workflow",
+  "description": "Execute tasks from a track's implementation plan following TDD workflow",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/conductor-implement/SKILL.md",
+  "metadataPath": "skills/conductor-implement/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/conductor-implement"
+  }
+}

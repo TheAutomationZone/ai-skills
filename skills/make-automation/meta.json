@@ -1,0 +1,22 @@
+{
+  "id": "make-automation",
+  "name": "make-automation",
+  "summary": "Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups.",
+  "description": "Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups. Always search tools first for current schemas.",
+  "category": "automation",
+  "tags": [
+    "automation",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/make-automation/SKILL.md",
+  "metadataPath": "skills/make-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/make-automation"
+  }
+}

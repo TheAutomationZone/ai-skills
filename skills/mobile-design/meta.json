@@ -1,0 +1,22 @@
+{
+  "id": "mobile-design",
+  "name": "mobile-design",
+  "summary": "(Mobile-First · Touch-First · Platform-Respectful)",
+  "description": "(Mobile-First · Touch-First · Platform-Respectful)",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/mobile-design/SKILL.md",
+  "metadataPath": "skills/mobile-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/mobile-design"
+  }
+}

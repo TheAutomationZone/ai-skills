@@ -1,0 +1,22 @@
+{
+  "id": "hugging-face-jobs",
+  "name": "hugging-face-jobs",
+  "summary": "Run any workload on fully managed Hugging Face infrastructure.",
+  "description": "Run any workload on fully managed Hugging Face infrastructure. No local setup required—jobs run on cloud CPUs, GPUs, or TPUs and can persist results to the Hugging Face Hub.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "safe",
+    "https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hugging-face-jobs/SKILL.md",
+  "metadataPath": "skills/hugging-face-jobs/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hugging-face-jobs"
+  }
+}

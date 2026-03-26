@@ -1,0 +1,22 @@
+{
+  "id": "evolution",
+  "name": "evolution",
+  "summary": "This skill enables makepad-skills to self-improve continuously during development.",
+  "description": "This skill enables makepad-skills to self-improve continuously during development.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/evolution/SKILL.md",
+  "metadataPath": "skills/evolution/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/evolution"
+  }
+}

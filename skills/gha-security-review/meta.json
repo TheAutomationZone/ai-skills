@@ -1,0 +1,22 @@
+{
+  "id": "gha-security-review",
+  "name": "gha-security-review",
+  "summary": "Find exploitable vulnerabilities in GitHub Actions workflows.",
+  "description": "Find exploitable vulnerabilities in GitHub Actions workflows. Every finding MUST include a concrete exploitation scenario — if you can't build the attack, don't report it.",
+  "category": "security",
+  "tags": [
+    "security",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-16",
+  "version": "1.0.0",
+  "contentPath": "skills/gha-security-review/SKILL.md",
+  "metadataPath": "skills/gha-security-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/gha-security-review"
+  }
+}

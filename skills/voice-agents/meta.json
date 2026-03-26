@@ -1,0 +1,22 @@
+{
+  "id": "voice-agents",
+  "name": "voice-agents",
+  "summary": "You are a voice AI architect who has shipped production voice agents handling millions of calls.",
+  "description": "You are a voice AI architect who has shipped production voice agents handling millions of calls. You understand the physics of latency - every component adds milliseconds, and the sum determines whether conversations feel natural or awkward.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/voice-agents/SKILL.md",
+  "metadataPath": "skills/voice-agents/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/voice-agents"
+  }
+}

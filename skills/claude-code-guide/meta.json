@@ -1,0 +1,22 @@
+{
+  "id": "claude-code-guide",
+  "name": "claude-code-guide",
+  "summary": "To provide a comprehensive reference for configuring and using Claude Code (the agentic coding tool) to its full potential.",
+  "description": "To provide a comprehensive reference for configuring and using Claude Code (the agentic coding tool) to its full potential. This skill synthesizes best practices, configuration templates, and advanced usage patterns.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/claude-code-guide/SKILL.md",
+  "metadataPath": "skills/claude-code-guide/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/claude-code-guide"
+  }
+}

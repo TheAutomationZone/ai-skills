@@ -1,0 +1,22 @@
+{
+  "id": "azure-resource-manager-sql-dotnet",
+  "name": "azure-resource-manager-sql-dotnet",
+  "summary": "Azure Resource Manager SDK for Azure SQL in .NET.",
+  "description": "Azure Resource Manager SDK for Azure SQL in .NET.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-resource-manager-sql-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-resource-manager-sql-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-resource-manager-sql-dotnet"
+  }
+}

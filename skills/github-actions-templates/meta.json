@@ -1,0 +1,22 @@
+{
+  "id": "github-actions-templates",
+  "name": "github-actions-templates",
+  "summary": "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications.",
+  "description": "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/github-actions-templates/SKILL.md",
+  "metadataPath": "skills/github-actions-templates/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/github-actions-templates"
+  }
+}

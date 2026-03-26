@@ -1,0 +1,22 @@
+{
+  "id": "azure-eventhub-ts",
+  "name": "azure-eventhub-ts",
+  "summary": "High-throughput event streaming and real-time data ingestion.",
+  "description": "High-throughput event streaming and real-time data ingestion.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-eventhub-ts/SKILL.md",
+  "metadataPath": "skills/azure-eventhub-ts/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-eventhub-ts"
+  }
+}

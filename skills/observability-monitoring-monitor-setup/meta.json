@@ -1,0 +1,22 @@
+{
+  "id": "observability-monitoring-monitor-setup",
+  "name": "observability-monitoring-monitor-setup",
+  "summary": "You are a monitoring and observability expert specializing in implementing comprehensive monitoring solutions.",
+  "description": "You are a monitoring and observability expert specializing in implementing comprehensive monitoring solutions. Set up metrics collection, distributed tracing, log aggregation, and create insightful da",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/observability-monitoring-monitor-setup/SKILL.md",
+  "metadataPath": "skills/observability-monitoring-monitor-setup/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/observability-monitoring-monitor-setup"
+  }
+}

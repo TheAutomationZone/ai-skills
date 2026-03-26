@@ -1,0 +1,27 @@
+{
+  "id": "aws-secrets-rotation",
+  "name": "aws-secrets-rotation",
+  "summary": "Automate AWS secrets rotation for RDS, API keys, and credentials",
+  "description": "Automate AWS secrets rotation for RDS, API keys, and credentials",
+  "category": "security",
+  "tags": [
+    "\"[aws",
+    "secrets-manager",
+    "security",
+    "automation",
+    "kiro-cli",
+    "credentials]\"",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/aws-secrets-rotation/SKILL.md",
+  "metadataPath": "skills/aws-secrets-rotation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/security/aws-secrets-rotation"
+  }
+}

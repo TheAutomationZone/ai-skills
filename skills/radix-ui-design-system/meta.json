@@ -1,0 +1,22 @@
+{
+  "id": "radix-ui-design-system",
+  "name": "radix-ui-design-system",
+  "summary": "Build accessible design systems with Radix UI primitives.",
+  "description": "Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "safe",
+    "self"
+  ],
+  "risk": "safe",
+  "source": "self",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/radix-ui-design-system/SKILL.md",
+  "metadataPath": "skills/radix-ui-design-system/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/radix-ui-design-system"
+  }
+}

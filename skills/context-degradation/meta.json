@@ -1,0 +1,22 @@
+{
+  "id": "context-degradation",
+  "name": "context-degradation",
+  "summary": "Language models exhibit predictable degradation patterns as context length increases.",
+  "description": "Language models exhibit predictable degradation patterns as context length increases. Understanding these patterns is essential for diagnosing failures and designing resilient systems.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/context-degradation/SKILL.md",
+  "metadataPath": "skills/context-degradation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/context-degradation"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tdd-workflow",
+  "name": "tdd-workflow",
+  "summary": "Test-Driven Development workflow principles.",
+  "description": "Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle.",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tdd-workflow/SKILL.md",
+  "metadataPath": "skills/tdd-workflow/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tdd-workflow"
+  }
+}

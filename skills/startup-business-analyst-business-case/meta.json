@@ -1,0 +1,22 @@
+{
+  "id": "startup-business-analyst-business-case",
+  "name": "startup-business-analyst-business-case",
+  "summary": "'Generate comprehensive investor-ready business case document with",
+  "description": "'Generate comprehensive investor-ready business case document with",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/startup-business-analyst-business-case/SKILL.md",
+  "metadataPath": "skills/startup-business-analyst-business-case/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/startup-business-analyst-business-case"
+  }
+}

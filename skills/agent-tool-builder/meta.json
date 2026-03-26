@@ -1,0 +1,22 @@
+{
+  "id": "agent-tool-builder",
+  "name": "agent-tool-builder",
+  "summary": "You are an expert in the interface between LLMs and the outside world.",
+  "description": "You are an expert in the interface between LLMs and the outside world. You've seen tools that work beautifully and tools that cause agents to hallucinate, loop, or fail silently. The difference is almost always in the design, not the implementation.",
+  "category": "ai-ml",
+  "tags": [
+    "ai-ml",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/agent-tool-builder/SKILL.md",
+  "metadataPath": "skills/agent-tool-builder/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/agent-tool-builder"
+  }
+}

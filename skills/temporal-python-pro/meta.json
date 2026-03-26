@@ -1,0 +1,22 @@
+{
+  "id": "temporal-python-pro",
+  "name": "temporal-python-pro",
+  "summary": "Master Temporal workflow orchestration with Python SDK.",
+  "description": "Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns, and distributed transactions. Covers async/await, testing strategies, and production deployment.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/temporal-python-pro/SKILL.md",
+  "metadataPath": "skills/temporal-python-pro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/temporal-python-pro"
+  }
+}

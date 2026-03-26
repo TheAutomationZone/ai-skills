@@ -1,0 +1,22 @@
+{
+  "id": "vector-database-engineer",
+  "name": "vector-database-engineer",
+  "summary": "Expert in vector databases, embedding strategies, and semantic search implementation.",
+  "description": "Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar",
+  "category": "data-ai",
+  "tags": [
+    "data-ai",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/vector-database-engineer/SKILL.md",
+  "metadataPath": "skills/vector-database-engineer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/vector-database-engineer"
+  }
+}

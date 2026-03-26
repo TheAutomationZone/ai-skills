@@ -1,0 +1,22 @@
+{
+  "id": "burpsuite-project-parser",
+  "name": "burpsuite-project-parser",
+  "summary": "Searches and explores Burp Suite project files (.burp) from the command line.",
+  "description": "Searches and explores Burp Suite project files (.burp) from the command line. Use when searching response headers or bodies with regex patterns, extracting security audit findings, dumping proxy history or site map data, or analyzing HTTP traffic captured in a Burp project.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/burpsuite-project-parser/SKILL.md",
+  "metadataPath": "skills/burpsuite-project-parser/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/burpsuite-project-parser"
+  }
+}

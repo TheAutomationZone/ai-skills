@@ -1,0 +1,22 @@
+{
+  "id": "threejs-materials",
+  "name": "threejs-materials",
+  "summary": "Three.js materials - PBR, basic, phong, shader materials, material properties.",
+  "description": "Three.js materials - PBR, basic, phong, shader materials, material properties. Use when styling meshes, working with textures, creating custom shaders, or optimizing material performance.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-materials/SKILL.md",
+  "metadataPath": "skills/threejs-materials/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-materials"
+  }
+}

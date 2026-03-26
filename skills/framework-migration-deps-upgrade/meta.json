@@ -1,0 +1,22 @@
+{
+  "id": "framework-migration-deps-upgrade",
+  "name": "framework-migration-deps-upgrade",
+  "summary": "You are a dependency management expert specializing in safe, incremental upgrades of project dependencies.",
+  "description": "You are a dependency management expert specializing in safe, incremental upgrades of project dependencies. Plan and execute dependency updates with minimal risk, proper testing, and clear migration pa",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/framework-migration-deps-upgrade/SKILL.md",
+  "metadataPath": "skills/framework-migration-deps-upgrade/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/framework-migration-deps-upgrade"
+  }
+}

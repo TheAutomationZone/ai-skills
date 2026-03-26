@@ -1,0 +1,22 @@
+{
+  "id": "azure-ai-projects-py",
+  "name": "azure-ai-projects-py",
+  "summary": "Build AI applications on Microsoft Foundry using the azure-ai-projects SDK.",
+  "description": "Build AI applications on Microsoft Foundry using the azure-ai-projects SDK.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-ai-projects-py/SKILL.md",
+  "metadataPath": "skills/azure-ai-projects-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-ai-projects-py"
+  }
+}

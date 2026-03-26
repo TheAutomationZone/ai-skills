@@ -1,0 +1,22 @@
+{
+  "id": "frontend-slides",
+  "name": "frontend-slides",
+  "summary": "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files.",
+  "description": "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files.",
+  "category": "presentation-processing",
+  "tags": [
+    "presentation-processing",
+    "safe",
+    "https://github.com/zarazhangrui/frontend-slides"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/zarazhangrui/frontend-slides",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/frontend-slides/SKILL.md",
+  "metadataPath": "skills/frontend-slides/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/frontend-slides"
+  }
+}

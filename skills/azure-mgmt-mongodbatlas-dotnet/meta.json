@@ -1,0 +1,22 @@
+{
+  "id": "azure-mgmt-mongodbatlas-dotnet",
+  "name": "azure-mgmt-mongodbatlas-dotnet",
+  "summary": "Manage MongoDB Atlas Organizations as Azure ARM resources with unified billing through Azure Marketplace.",
+  "description": "Manage MongoDB Atlas Organizations as Azure ARM resources with unified billing through Azure Marketplace.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-mgmt-mongodbatlas-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-mgmt-mongodbatlas-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-mgmt-mongodbatlas-dotnet"
+  }
+}

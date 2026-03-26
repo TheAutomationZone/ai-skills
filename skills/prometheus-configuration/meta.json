@@ -1,0 +1,22 @@
+{
+  "id": "prometheus-configuration",
+  "name": "prometheus-configuration",
+  "summary": "Complete guide to Prometheus setup, metric collection, scrape configuration, and recording rules.",
+  "description": "Complete guide to Prometheus setup, metric collection, scrape configuration, and recording rules.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/prometheus-configuration/SKILL.md",
+  "metadataPath": "skills/prometheus-configuration/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/prometheus-configuration"
+  }
+}

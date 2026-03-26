@@ -1,0 +1,22 @@
+{
+  "id": "rehabilitation-analyzer",
+  "name": "rehabilitation-analyzer",
+  "summary": "分析康复训练数据、识别康复模式、评估康复进展，并提供个性化康复建议",
+  "description": "分析康复训练数据、识别康复模式、评估康复进展，并提供个性化康复建议",
+  "category": "health",
+  "tags": [
+    "health",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/rehabilitation-analyzer/SKILL.md",
+  "metadataPath": "skills/rehabilitation-analyzer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/rehabilitation-analyzer"
+  }
+}

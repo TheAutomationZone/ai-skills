@@ -1,0 +1,22 @@
+{
+  "id": "google-slides-automation",
+  "name": "google-slides-automation",
+  "summary": "Lightweight Google Slides integration with standalone OAuth authentication.",
+  "description": "Lightweight Google Slides integration with standalone OAuth authentication. No MCP server required. Full read/write access.",
+  "category": "presentation-processing",
+  "tags": [
+    "presentation-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/google-slides-automation/SKILL.md",
+  "metadataPath": "skills/google-slides-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/google-slides-automation"
+  }
+}

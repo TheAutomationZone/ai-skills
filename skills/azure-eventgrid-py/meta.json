@@ -1,0 +1,22 @@
+{
+  "id": "azure-eventgrid-py",
+  "name": "azure-eventgrid-py",
+  "summary": "Azure Event Grid SDK for Python.",
+  "description": "Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-eventgrid-py/SKILL.md",
+  "metadataPath": "skills/azure-eventgrid-py/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-eventgrid-py"
+  }
+}

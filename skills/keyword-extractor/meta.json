@@ -1,0 +1,22 @@
+{
+  "id": "keyword-extractor",
+  "name": "keyword-extractor",
+  "summary": ">",
+  "description": ">",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "safe",
+    "original"
+  ],
+  "risk": "safe",
+  "source": "original",
+  "addedAt": "2026-03-11",
+  "version": "1.0.0",
+  "contentPath": "skills/keyword-extractor/SKILL.md",
+  "metadataPath": "skills/keyword-extractor/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/keyword-extractor"
+  }
+}

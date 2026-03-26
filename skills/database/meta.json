@@ -1,0 +1,22 @@
+{
+  "id": "database",
+  "name": "database",
+  "summary": "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.",
+  "description": "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.",
+  "category": "workflow-bundle",
+  "tags": [
+    "workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/database/SKILL.md",
+  "metadataPath": "skills/database/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/database"
+  }
+}

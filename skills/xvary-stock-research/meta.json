@@ -1,0 +1,22 @@
+{
+  "id": "xvary-stock-research",
+  "name": "xvary-stock-research",
+  "summary": "Thesis-driven equity analysis from public SEC EDGAR and market data; /analyze, /score, /compare workflows with bundled Python tools (Claude Code, Cursor, Codex).",
+  "description": "Thesis-driven equity analysis from public SEC EDGAR and market data; /analyze, /score, /compare workflows with bundled Python tools (Claude Code, Cursor, Codex).",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-03-23",
+  "version": "1.0.0",
+  "contentPath": "skills/xvary-stock-research/SKILL.md",
+  "metadataPath": "skills/xvary-stock-research/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/xvary-stock-research"
+  }
+}

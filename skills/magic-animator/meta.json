@@ -1,0 +1,22 @@
+{
+  "id": "magic-animator",
+  "name": "magic-animator",
+  "summary": "AI-powered animation tool for creating motion in logos, UI, icons, and social media assets.",
+  "description": "AI-powered animation tool for creating motion in logos, UI, icons, and social media assets.",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-07",
+  "version": "1.0.0",
+  "contentPath": "skills/magic-animator/SKILL.md",
+  "metadataPath": "skills/magic-animator/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/magic-animator"
+  }
+}

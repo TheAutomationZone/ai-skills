@@ -1,0 +1,22 @@
+{
+  "id": "hybrid-cloud-networking",
+  "name": "hybrid-cloud-networking",
+  "summary": "Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute.",
+  "description": "Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/hybrid-cloud-networking/SKILL.md",
+  "metadataPath": "skills/hybrid-cloud-networking/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/hybrid-cloud-networking"
+  }
+}

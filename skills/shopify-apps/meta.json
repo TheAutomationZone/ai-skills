@@ -1,0 +1,22 @@
+{
+  "id": "shopify-apps",
+  "name": "shopify-apps",
+  "summary": "Modern Shopify app template with React Router",
+  "description": "Modern Shopify app template with React Router",
+  "category": "api-integration",
+  "tags": [
+    "api-integration",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/shopify-apps/SKILL.md",
+  "metadataPath": "skills/shopify-apps/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/shopify-apps"
+  }
+}

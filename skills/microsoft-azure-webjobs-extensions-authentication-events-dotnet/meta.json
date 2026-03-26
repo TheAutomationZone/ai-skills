@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-azure-webjobs-extensions-authentication-events-dotnet",
+  "name": "microsoft-azure-webjobs-extensions-authentication-events-dotnet",
+  "summary": "Microsoft Entra Authentication Events SDK for .NET.",
+  "description": "Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet/SKILL.md",
+  "metadataPath": "skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet"
+  }
+}

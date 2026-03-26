@@ -1,0 +1,22 @@
+{
+  "id": "canvas-design",
+  "name": "canvas-design",
+  "summary": "These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY.",
+  "description": "These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files.",
+  "category": "graphics-processing",
+  "tags": [
+    "graphics-processing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/canvas-design/SKILL.md",
+  "metadataPath": "skills/canvas-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/canvas-design"
+  }
+}

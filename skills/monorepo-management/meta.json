@@ -1,0 +1,22 @@
+{
+  "id": "monorepo-management",
+  "name": "monorepo-management",
+  "summary": "Build efficient, scalable monorepos that enable code sharing, consistent tooling, and atomic changes across multiple packages and applications.",
+  "description": "Build efficient, scalable monorepos that enable code sharing, consistent tooling, and atomic changes across multiple packages and applications.",
+  "category": "development",
+  "tags": [
+    "development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/monorepo-management/SKILL.md",
+  "metadataPath": "skills/monorepo-management/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/monorepo-management"
+  }
+}

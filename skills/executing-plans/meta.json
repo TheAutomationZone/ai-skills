@@ -1,0 +1,22 @@
+{
+  "id": "executing-plans",
+  "name": "executing-plans",
+  "summary": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+  "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/executing-plans/SKILL.md",
+  "metadataPath": "skills/executing-plans/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/executing-plans"
+  }
+}

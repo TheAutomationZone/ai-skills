@@ -1,0 +1,22 @@
+{
+  "id": "android_ui_verification",
+  "name": "android_ui_verification",
+  "summary": "Automated end-to-end UI testing and verification on an Android Emulator using ADB.",
+  "description": "Automated end-to-end UI testing and verification on an Android Emulator using ADB.",
+  "category": "test-automation",
+  "tags": [
+    "test-automation",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-02-28",
+  "version": "1.0.0",
+  "contentPath": "skills/android_ui_verification/SKILL.md",
+  "metadataPath": "skills/android_ui_verification/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/android_ui_verification"
+  }
+}

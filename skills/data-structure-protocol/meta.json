@@ -1,0 +1,22 @@
+{
+  "id": "data-structure-protocol",
+  "name": "data-structure-protocol",
+  "summary": "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo.",
+  "description": "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo.",
+  "category": "data-science",
+  "tags": [
+    "data-science",
+    "safe",
+    "https://github.com/k-kolomeitsev/data-structure-protocol"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/k-kolomeitsev/data-structure-protocol",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/data-structure-protocol/SKILL.md",
+  "metadataPath": "skills/data-structure-protocol/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/data-structure-protocol"
+  }
+}

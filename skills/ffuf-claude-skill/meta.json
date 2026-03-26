@@ -1,0 +1,22 @@
+{
+  "id": "ffuf-claude-skill",
+  "name": "ffuf-claude-skill",
+  "summary": "Web fuzzing with ffuf",
+  "description": "Web fuzzing with ffuf",
+  "category": "security",
+  "tags": [
+    "security",
+    "safe",
+    "https://github.com/jthack/ffuf_claude_skill"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/jthack/ffuf_claude_skill",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/ffuf-claude-skill/SKILL.md",
+  "metadataPath": "skills/ffuf-claude-skill/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/ffuf-claude-skill"
+  }
+}

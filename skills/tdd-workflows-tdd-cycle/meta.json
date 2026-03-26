@@ -1,0 +1,22 @@
+{
+  "id": "tdd-workflows-tdd-cycle",
+  "name": "tdd-workflows-tdd-cycle",
+  "summary": "Use when working with tdd workflows tdd cycle",
+  "description": "Use when working with tdd workflows tdd cycle",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/tdd-workflows-tdd-cycle/SKILL.md",
+  "metadataPath": "skills/tdd-workflows-tdd-cycle/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/tdd-workflows-tdd-cycle"
+  }
+}

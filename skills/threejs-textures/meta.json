@@ -1,0 +1,22 @@
+{
+  "id": "threejs-textures",
+  "name": "threejs-textures",
+  "summary": "Three.js textures - texture types, UV mapping, environment maps, texture settings.",
+  "description": "Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working with images, UV coordinates, cubemaps, HDR environments, or texture optimization.",
+  "category": "web-development",
+  "tags": [
+    "web-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/threejs-textures/SKILL.md",
+  "metadataPath": "skills/threejs-textures/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/threejs-textures"
+  }
+}

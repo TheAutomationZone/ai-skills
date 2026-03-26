@@ -1,0 +1,22 @@
+{
+  "id": "backend-dev-guidelines",
+  "name": "backend-dev-guidelines",
+  "summary": "You are a senior backend engineer operating production-grade services under strict architectural and reliability constraints.",
+  "description": "You are a senior backend engineer operating production-grade services under strict architectural and reliability constraints. Use when routes, controllers, services, repositories, express middleware, or prisma database access.",
+  "category": "backend",
+  "tags": [
+    "backend",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/backend-dev-guidelines/SKILL.md",
+  "metadataPath": "skills/backend-dev-guidelines/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/backend-dev-guidelines"
+  }
+}

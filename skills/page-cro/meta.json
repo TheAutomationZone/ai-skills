@@ -1,0 +1,22 @@
+{
+  "id": "page-cro",
+  "name": "page-cro",
+  "summary": "Analyze and optimize individual pages for conversion performance.",
+  "description": "Analyze and optimize individual pages for conversion performance.",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/page-cro/SKILL.md",
+  "metadataPath": "skills/page-cro/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/page-cro"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "skill-rails-upgrade",
+  "name": "skill-rails-upgrade",
+  "summary": "Analyze Rails apps and provide upgrade assessments",
+  "description": "Analyze Rails apps and provide upgrade assessments",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "safe",
+    "https://github.com/robzolkos/skill-rails-upgrade"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/robzolkos/skill-rails-upgrade",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/skill-rails-upgrade/SKILL.md",
+  "metadataPath": "skills/skill-rails-upgrade/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/skill-rails-upgrade"
+  }
+}

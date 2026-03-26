@@ -1,0 +1,22 @@
+{
+  "id": "odoo-l10n-compliance",
+  "name": "odoo-l10n-compliance",
+  "summary": "Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup.",
+  "description": "Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup.",
+  "category": "business",
+  "tags": [
+    "business",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/odoo-l10n-compliance/SKILL.md",
+  "metadataPath": "skills/odoo-l10n-compliance/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/odoo-l10n-compliance"
+  }
+}

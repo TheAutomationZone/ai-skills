@@ -1,0 +1,22 @@
+{
+  "id": "nextjs-supabase-auth",
+  "name": "nextjs-supabase-auth",
+  "summary": "Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authentication next.js, login supabase, auth middleware, protected route.",
+  "description": "Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authentication next.js, login supabase, auth middleware, protected route.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "vibeship-spawner-skills (apache 2.0)"
+  ],
+  "risk": "unknown",
+  "source": "vibeship-spawner-skills (Apache 2.0)",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/nextjs-supabase-auth/SKILL.md",
+  "metadataPath": "skills/nextjs-supabase-auth/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/nextjs-supabase-auth"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sharp-edges",
+  "name": "sharp-edges",
+  "summary": "sharp-edges",
+  "description": "sharp-edges",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/sharp-edges/SKILL.md",
+  "metadataPath": "skills/sharp-edges/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/sharp-edges"
+  }
+}

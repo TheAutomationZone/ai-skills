@@ -1,0 +1,22 @@
+{
+  "id": "azure-storage-blob-rust",
+  "name": "azure-storage-blob-rust",
+  "summary": "Azure Blob Storage SDK for Rust.",
+  "description": "Azure Blob Storage SDK for Rust. Use for uploading, downloading, and managing blobs and containers.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-storage-blob-rust/SKILL.md",
+  "metadataPath": "skills/azure-storage-blob-rust/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-storage-blob-rust"
+  }
+}

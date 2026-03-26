@@ -1,0 +1,22 @@
+{
+  "id": "create-pr",
+  "name": "create-pr",
+  "summary": "Alias for sentry-skills:pr-writer.",
+  "description": "Alias for sentry-skills:pr-writer. Use when users explicitly ask for \"create-pr\" or reference the legacy skill name. Redirects to the canonical PR writing workflow.",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/create-pr/SKILL.md",
+  "metadataPath": "skills/create-pr/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/create-pr"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "game-development",
+  "name": "game-development",
+  "summary": "Game development orchestrator.",
+  "description": "Game development orchestrator. Routes to platform-specific skills based on project needs.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/game-development/SKILL.md",
+  "metadataPath": "skills/game-development/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development"
+  }
+}

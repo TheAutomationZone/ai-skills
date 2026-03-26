@@ -1,0 +1,22 @@
+{
+  "id": "cc-skill-security-review",
+  "name": "cc-skill-security-review",
+  "summary": "This skill ensures all code follows security best practices and identifies potential vulnerabilities.",
+  "description": "This skill ensures all code follows security best practices and identifies potential vulnerabilities. Use when implementing authentication or authorization, handling user input or file uploads, or creating new API endpoints.",
+  "category": "meta",
+  "tags": [
+    "meta",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cc-skill-security-review/SKILL.md",
+  "metadataPath": "skills/cc-skill-security-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cc-skill-security-review"
+  }
+}

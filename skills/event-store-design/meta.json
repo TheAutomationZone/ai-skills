@@ -1,0 +1,22 @@
+{
+  "id": "event-store-design",
+  "name": "event-store-design",
+  "summary": "Design and implement event stores for event-sourced systems.",
+  "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/event-store-design/SKILL.md",
+  "metadataPath": "skills/event-store-design/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/event-store-design"
+  }
+}

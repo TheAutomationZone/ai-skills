@@ -1,0 +1,22 @@
+{
+  "id": "azure-communication-chat-java",
+  "name": "azure-communication-chat-java",
+  "summary": "Build real-time chat applications with thread management, messaging, participants, and read receipts.",
+  "description": "Build real-time chat applications with thread management, messaging, participants, and read receipts.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-communication-chat-java/SKILL.md",
+  "metadataPath": "skills/azure-communication-chat-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-communication-chat-java"
+  }
+}

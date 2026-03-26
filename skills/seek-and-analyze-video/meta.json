@@ -1,0 +1,29 @@
+{
+  "id": "seek-and-analyze-video",
+  "name": "seek-and-analyze-video",
+  "summary": "Seek and analyze video content using Memories.ai Large Visual Memory Model for persistent video intelligence",
+  "description": "Seek and analyze video content using Memories.ai Large Visual Memory Model for persistent video intelligence",
+  "category": "data-ai",
+  "tags": [
+    "video",
+    "ai",
+    "memories",
+    "social-media",
+    "youtube",
+    "tiktok",
+    "analysis",
+    "data-ai",
+    "safe",
+    "https://github.com/kennyzheng-builds/seek-and-analyze-video"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/kennyzheng-builds/seek-and-analyze-video",
+  "addedAt": "2026-03-09",
+  "version": "1.0.0",
+  "contentPath": "skills/seek-and-analyze-video/SKILL.md",
+  "metadataPath": "skills/seek-and-analyze-video/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/seek-and-analyze-video"
+  }
+}

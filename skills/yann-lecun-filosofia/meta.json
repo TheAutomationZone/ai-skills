@@ -1,0 +1,26 @@
+{
+  "id": "yann-lecun-filosofia",
+  "name": "yann-lecun-filosofia",
+  "summary": "Sub-skill filosófica e pedagógica de Yann LeCun.",
+  "description": "Sub-skill filosófica e pedagógica de Yann LeCun.",
+  "category": "ai-ml",
+  "tags": [
+    "persona",
+    "ai-philosophy",
+    "open-source",
+    "education",
+    "ai-ml",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-06",
+  "version": "1.0.0",
+  "contentPath": "skills/yann-lecun-filosofia/SKILL.md",
+  "metadataPath": "skills/yann-lecun-filosofia/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/yann-lecun-filosofia"
+  }
+}

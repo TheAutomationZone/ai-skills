@@ -1,0 +1,22 @@
+{
+  "id": "azure-search-documents-dotnet",
+  "name": "azure-search-documents-dotnet",
+  "summary": "Azure AI Search SDK for .NET (Azure.Search.Documents).",
+  "description": "Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/azure-search-documents-dotnet/SKILL.md",
+  "metadataPath": "skills/azure-search-documents-dotnet/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/azure-search-documents-dotnet"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "red-team-tactics",
+  "name": "red-team-tactics",
+  "summary": "Red team tactics principles based on MITRE ATT&CK.",
+  "description": "Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting.",
+  "category": "security",
+  "tags": [
+    "security",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/red-team-tactics/SKILL.md",
+  "metadataPath": "skills/red-team-tactics/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/red-team-tactics"
+  }
+}

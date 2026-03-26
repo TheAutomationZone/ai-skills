@@ -1,0 +1,22 @@
+{
+  "id": "cloudformation-best-practices",
+  "name": "cloudformation-best-practices",
+  "summary": "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns.",
+  "description": "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates.",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/cloudformation-best-practices/SKILL.md",
+  "metadataPath": "skills/cloudformation-best-practices/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/cloudformation-best-practices"
+  }
+}

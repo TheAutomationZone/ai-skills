@@ -1,0 +1,22 @@
+{
+  "id": "linear-automation",
+  "name": "linear-automation",
+  "summary": "Automate Linear tasks via Rube MCP (Composio): issues, projects, cycles, teams, labels.",
+  "description": "Automate Linear tasks via Rube MCP (Composio): issues, projects, cycles, teams, labels. Always search tools first for current schemas.",
+  "category": "project-management",
+  "tags": [
+    "project-management",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/linear-automation/SKILL.md",
+  "metadataPath": "skills/linear-automation/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/linear-automation"
+  }
+}

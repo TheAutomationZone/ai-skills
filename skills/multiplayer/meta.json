@@ -1,0 +1,22 @@
+{
+  "id": "multiplayer",
+  "name": "multiplayer",
+  "summary": "Multiplayer game development principles.",
+  "description": "Multiplayer game development principles. Architecture, networking, synchronization.",
+  "category": "game-development",
+  "tags": [
+    "game-development",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/multiplayer/SKILL.md",
+  "metadataPath": "skills/multiplayer/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/game-development/multiplayer"
+  }
+}

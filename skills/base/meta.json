@@ -1,0 +1,23 @@
+{
+  "id": "base",
+  "name": "base",
+  "summary": "Database management, forms, reports, and data operations with LibreOffice Base.",
+  "description": "Database management, forms, reports, and data operations with LibreOffice Base.",
+  "category": "database-processing",
+  "tags": [
+    "database-processing",
+    "safe",
+    "personal",
+    "libreoffice"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/base/SKILL.md",
+  "metadataPath": "skills/base/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/libreoffice/base"
+  }
+}

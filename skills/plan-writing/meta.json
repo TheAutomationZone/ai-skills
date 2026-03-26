@@ -1,0 +1,22 @@
+{
+  "id": "plan-writing",
+  "name": "plan-writing",
+  "summary": "Structured task planning with clear breakdowns, dependencies, and verification criteria.",
+  "description": "Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing features, refactoring, or any multi-step work.",
+  "category": "planning",
+  "tags": [
+    "planning",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/plan-writing/SKILL.md",
+  "metadataPath": "skills/plan-writing/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/plan-writing"
+  }
+}

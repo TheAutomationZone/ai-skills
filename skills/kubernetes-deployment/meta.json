@@ -1,0 +1,22 @@
+{
+  "id": "kubernetes-deployment",
+  "name": "kubernetes-deployment",
+  "summary": "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations.",
+  "description": "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations.",
+  "category": "granular-workflow-bundle",
+  "tags": [
+    "granular-workflow-bundle",
+    "safe",
+    "personal"
+  ],
+  "risk": "safe",
+  "source": "personal",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/kubernetes-deployment/SKILL.md",
+  "metadataPath": "skills/kubernetes-deployment/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/kubernetes-deployment"
+  }
+}

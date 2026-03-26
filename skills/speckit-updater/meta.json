@@ -1,0 +1,22 @@
+{
+  "id": "speckit-updater",
+  "name": "speckit-updater",
+  "summary": "SpecKit Safe Update",
+  "description": "SpecKit Safe Update",
+  "category": "uncategorized",
+  "tags": [
+    "uncategorized",
+    "unknown",
+    "community"
+  ],
+  "risk": "unknown",
+  "source": "community",
+  "addedAt": "",
+  "version": "1.0.0",
+  "contentPath": "skills/speckit-updater/SKILL.md",
+  "metadataPath": "skills/speckit-updater/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/speckit-updater"
+  }
+}

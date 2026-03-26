@@ -1,0 +1,28 @@
+{
+  "id": "progressive-web-app",
+  "name": "progressive-web-app",
+  "summary": "Build Progressive Web Apps (PWAs) with offline support, installability, and caching strategies.",
+  "description": "Build Progressive Web Apps (PWAs) with offline support, installability, and caching strategies. Trigger whenever the user mentions PWA, service workers, web app manifests, Workbox, 'add to home screen', or wants their web app to work offline, feel native, or be installable.",
+  "category": "front-end",
+  "tags": [
+    "pwa",
+    "web-dev",
+    "service-worker",
+    "frontend",
+    "offline",
+    "caching",
+    "front-end",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2026-03-17",
+  "version": "1.0.0",
+  "contentPath": "skills/progressive-web-app/SKILL.md",
+  "metadataPath": "skills/progressive-web-app/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/progressive-web-app"
+  }
+}

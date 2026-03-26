@@ -1,0 +1,22 @@
+{
+  "id": "swiftui-ui-patterns",
+  "name": "swiftui-ui-patterns",
+  "summary": "Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.",
+  "description": "Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.",
+  "category": "mobile",
+  "tags": [
+    "mobile",
+    "safe",
+    "dimillian/skills (mit)"
+  ],
+  "risk": "safe",
+  "source": "Dimillian/Skills (MIT)",
+  "addedAt": "2026-03-25",
+  "version": "1.0.0",
+  "contentPath": "skills/swiftui-ui-patterns/SKILL.md",
+  "metadataPath": "skills/swiftui-ui-patterns/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/swiftui-ui-patterns"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fix-review",
+  "name": "fix-review",
+  "summary": "Verify fix commits address audit findings without new bugs",
+  "description": "Verify fix commits address audit findings without new bugs",
+  "category": "code-quality",
+  "tags": [
+    "code-quality",
+    "safe",
+    "https://github.com/trailofbits/skills/tree/main/plugins/fix-review"
+  ],
+  "risk": "safe",
+  "source": "https://github.com/trailofbits/skills/tree/main/plugins/fix-review",
+  "addedAt": "2026-02-27",
+  "version": "1.0.0",
+  "contentPath": "skills/fix-review/SKILL.md",
+  "metadataPath": "skills/fix-review/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/fix-review"
+  }
+}

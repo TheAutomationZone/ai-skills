@@ -1,0 +1,29 @@
+{
+  "id": "playwright-java",
+  "name": "playwright-java",
+  "summary": "Scaffold, write, debug, and enhance enterprise-grade Playwright E2E tests in Java using Page Object Model, JUnit 5, Allure reporting, and parallel execution.",
+  "description": "Scaffold, write, debug, and enhance enterprise-grade Playwright E2E tests in Java using Page Object Model, JUnit 5, Allure reporting, and parallel execution.",
+  "category": "test-automation",
+  "tags": [
+    "playwright",
+    "java",
+    "e2e-testing",
+    "junit5",
+    "page-object-model",
+    "allure",
+    "selenium-alternative",
+    "test-automation",
+    "safe",
+    "community"
+  ],
+  "risk": "safe",
+  "source": "community",
+  "addedAt": "2025-03-08",
+  "version": "1.0.0",
+  "contentPath": "skills/playwright-java/SKILL.md",
+  "metadataPath": "skills/playwright-java/meta.json",
+  "upstream": {
+    "repo": "antigravity-awesome-skills-main",
+    "path": "skills/playwright-java"
+  }
+}
